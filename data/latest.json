@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:10+01:00",
+ "generated_at": "2026-11-19T17:13+01:00",
  "groups": [
   {
    "id": "policy",
@@ -5692,7 +5692,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "usdjpy",
@@ -5708,7 +5708,7 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 159.78,
+   "value": 159.782,
    "chg_1d": 0.17,
    "chg_1w": 0.03,
    "chg_ytd": 2.15,
@@ -5979,11 +5979,11 @@
     ],
     [
      "2026-11-19",
-     159.78
+     159.782
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "gbpusd",
@@ -6274,7 +6274,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "eurgbp",
@@ -6290,10 +6290,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 0.83703,
+   "value": 0.83706,
    "chg_1d": 0.55,
    "chg_1w": 0.17,
-   "chg_ytd": -4.04,
+   "chg_ytd": -4.03,
    "spark": [
     [
      "2026-08-19",
@@ -6561,11 +6561,11 @@
     ],
     [
      "2026-11-19",
-     0.83703
+     0.83706
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "usdchf",
@@ -6581,8 +6581,8 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 0.84271,
-   "chg_1d": 0.17,
+   "value": 0.84266,
+   "chg_1d": 0.16,
    "chg_1w": 1.25,
    "chg_ytd": 6.44,
    "spark": [
@@ -6852,11 +6852,11 @@
     ],
     [
      "2026-11-19",
-     0.84271
+     0.84266
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "usdcny",
@@ -7147,7 +7147,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "dxy",
@@ -7163,8 +7163,8 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 103.82,
-   "chg_1d": -0.04,
+   "value": 103.824,
+   "chg_1d": -0.03,
    "chg_1w": 0.63,
    "chg_ytd": 5.64,
    "spark": [
@@ -7430,11 +7430,11 @@
     ],
     [
      "2026-11-19",
-     103.82
+     103.824
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "spx",
@@ -7450,10 +7450,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 7297.54,
-   "chg_1d": -0.36,
-   "chg_1w": -3.88,
-   "chg_ytd": 6.6,
+   "value": 7305.07,
+   "chg_1d": -0.25,
+   "chg_1w": -3.78,
+   "chg_ytd": 6.71,
    "spark": [
     [
      "2026-08-19",
@@ -7717,11 +7717,11 @@
     ],
     [
      "2026-11-19",
-     7297.54
+     7305.07
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "ndx",
@@ -7737,10 +7737,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 27142.6,
-   "chg_1d": 0.1,
-   "chg_1w": -4.05,
-   "chg_ytd": 7.5,
+   "value": 27184.4,
+   "chg_1d": 0.25,
+   "chg_1w": -3.91,
+   "chg_ytd": 7.66,
    "spark": [
     [
      "2026-08-19",
@@ -8004,11 +8004,11 @@
     ],
     [
      "2026-11-19",
-     27142.6
+     27184.4
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "sx5e",
@@ -8024,10 +8024,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 6128.09,
-   "chg_1d": -0.43,
-   "chg_1w": -4.23,
-   "chg_ytd": 5.73,
+   "value": 6129.47,
+   "chg_1d": -0.4,
+   "chg_1w": -4.21,
+   "chg_ytd": 5.75,
    "spark": [
     [
      "2026-08-19",
@@ -8295,11 +8295,11 @@
     ],
     [
      "2026-11-19",
-     6128.09
+     6129.47
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "cac",
@@ -8315,10 +8315,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 8101.87,
-   "chg_1d": -0.55,
-   "chg_1w": -3.1,
-   "chg_ytd": -0.58,
+   "value": 8103.34,
+   "chg_1d": -0.53,
+   "chg_1w": -3.09,
+   "chg_ytd": -0.57,
    "spark": [
     [
      "2026-08-19",
@@ -8586,11 +8586,11 @@
     ],
     [
      "2026-11-19",
-     8101.87
+     8103.34
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "dax",
@@ -8606,10 +8606,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 25534.5,
+   "value": 25536.0,
    "chg_1d": -0.78,
    "chg_1w": -4.62,
-   "chg_ytd": 4.26,
+   "chg_ytd": 4.27,
    "spark": [
     [
      "2026-08-19",
@@ -8877,11 +8877,11 @@
     ],
     [
      "2026-11-19",
-     25534.5
+     25536.0
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "ftse",
@@ -8897,10 +8897,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 10466.2,
-   "chg_1d": -0.81,
+   "value": 10466.7,
+   "chg_1d": -0.8,
    "chg_1w": -3.65,
-   "chg_ytd": 5.38,
+   "chg_ytd": 5.39,
    "spark": [
     [
      "2026-08-19",
@@ -9164,11 +9164,11 @@
     ],
     [
      "2026-11-19",
-     10466.2
+     10466.7
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "nikkei",
@@ -9439,7 +9439,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "hsi",
@@ -9722,7 +9722,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "em",
@@ -9738,10 +9738,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 57.51,
-   "chg_1d": -0.64,
-   "chg_1w": -5.94,
-   "chg_ytd": 5.12,
+   "value": 57.565,
+   "chg_1d": -0.54,
+   "chg_1w": -5.85,
+   "chg_ytd": 5.22,
    "spark": [
     [
      "2026-08-19",
@@ -10005,11 +10005,11 @@
     ],
     [
      "2026-11-19",
-     57.51
+     57.565
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "vix",
@@ -10025,10 +10025,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 25.87,
-   "chg_1d": 5.33,
-   "chg_1w": 38.34,
-   "chg_ytd": 73.04,
+   "value": 25.75,
+   "chg_1d": 4.85,
+   "chg_1w": 37.7,
+   "chg_ytd": 72.24,
    "spark": [
     [
      "2026-08-19",
@@ -10296,11 +10296,11 @@
     ],
     [
      "2026-11-19",
-     25.87
+     25.75
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "vstoxx",
@@ -10595,7 +10595,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "us_ig",
@@ -10684,10 +10684,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 89.73,
-   "chg_1d": -2.41,
-   "chg_1w": -6.36,
-   "chg_ytd": 47.46,
+   "value": 89.67,
+   "chg_1d": -2.48,
+   "chg_1w": -6.42,
+   "chg_ytd": 47.36,
    "spark": [
     [
      "2026-08-19",
@@ -10951,11 +10951,11 @@
     ],
     [
      "2026-11-19",
-     89.73
+     89.67
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "wti",
@@ -10971,10 +10971,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 83.0,
-   "chg_1d": -0.31,
-   "chg_1w": -6.47,
-   "chg_ytd": 44.55,
+   "value": 83.02,
+   "chg_1d": -0.29,
+   "chg_1w": -6.45,
+   "chg_ytd": 44.58,
    "spark": [
     [
      "2026-08-19",
@@ -11238,11 +11238,11 @@
     ],
     [
      "2026-11-19",
-     83.0
+     83.02
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "ttf",
@@ -11529,7 +11529,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "gold",
@@ -11545,8 +11545,8 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 3674.9,
-   "chg_1d": -1.79,
+   "value": 3674.7,
+   "chg_1d": -1.8,
    "chg_1w": -5.42,
    "chg_ytd": -15.35,
    "spark": [
@@ -11812,11 +11812,11 @@
     ],
     [
      "2026-11-19",
-     3674.9
+     3674.7
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "silver",
@@ -11832,10 +11832,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 44.435,
-   "chg_1d": -1.25,
-   "chg_1w": -11.08,
-   "chg_ytd": -36.64,
+   "value": 44.43,
+   "chg_1d": -1.26,
+   "chg_1w": -11.09,
+   "chg_ytd": -36.65,
    "spark": [
     [
      "2026-08-19",
@@ -12099,11 +12099,11 @@
     ],
     [
      "2026-11-19",
-     44.435
+     44.43
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "copper",
@@ -12119,10 +12119,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 5.637,
-   "chg_1d": -0.4,
-   "chg_1w": -8.82,
-   "chg_ytd": 0.12,
+   "value": 5.6355,
+   "chg_1d": -0.42,
+   "chg_1w": -8.85,
+   "chg_ytd": 0.1,
    "spark": [
     [
      "2026-08-19",
@@ -12386,11 +12386,11 @@
     ],
     [
      "2026-11-19",
-     5.637
+     5.6355
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "btc",
@@ -12406,10 +12406,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-19",
-   "value": 63025.2,
-   "chg_1d": 0.06,
-   "chg_1w": -11.66,
-   "chg_ytd": -27.98,
+   "value": 63100.5,
+   "chg_1d": 0.18,
+   "chg_1w": -11.55,
+   "chg_ytd": -27.89,
    "spark": [
     [
      "2026-08-19",
@@ -12781,11 +12781,11 @@
     ],
     [
      "2026-11-19",
-     63025.2
+     63100.5
     ]
    ],
    "status": "ok",
-   "fetched_at": "17:10"
+   "fetched_at": "17:13"
   },
   {
    "id": "us_cpi",
