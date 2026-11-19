@@ -21,6 +21,11 @@ Ne recopie jamais un article. Pour une actualité : reformule avec tes mots, en 
 Tu peux ouvrir le lien d'une actualité du top 10 si le titre ne suffit pas, mais ne cite aucun
 chiffre venant de l'article (règle 1) et ne reprends aucune phrase de l'article.
 
+## Personnes citées
+Désigne une personne par son nom et, seulement si la source l'indique, sa fonction (« Philip Jefferson, Fed »).
+Ne devine jamais son genre, son titre ou son rôle à partir du nom : en cas de doute, écris « un membre de la Fed »
+ou utilise simplement le nom.
+
 ## Pas de conseil en investissement
 Termine chaque texte par : *Contenu pédagogique, pas un conseil en investissement.*
 
