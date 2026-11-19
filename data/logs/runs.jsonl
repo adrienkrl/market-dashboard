@@ -4,3 +4,4 @@
 {"start": "2026-11-19T17:21:22+01:00", "agents": {"data": {"ok": true, "errors": 0}, "calendar_results": {"ok": true, "events": 7}}, "site": "ok", "end": "2026-11-19T17:21:46+01:00"}
 {"start": "2026-11-19T17:22:48+01:00", "agents": {"data": {"ok": true, "errors": 0}, "calendar_refresh": {"ok": true, "events": 10, "warnings": 0}}, "site": "ok", "end": "2026-11-19T17:23:18+01:00"}
 {"start": "2026-11-19T17:27:31+01:00", "agents": {"data": {"ok": true, "errors": 0}, "calendar_refresh": {"ok": true, "events": 10, "warnings": 0}, "news": {"ok": true, "items": 166, "feed_errors": 0}}, "site": "ok", "end": "2026-11-19T17:28:06+01:00"}
+{"start": "2026-11-19T17:29:13+01:00", "agents": {"data": {"ok": true, "errors": 0}, "calendar_refresh": {"ok": true, "events": 10, "warnings": 0}, "news": {"ok": true, "items": 167, "feed_errors": 0}}, "site": "ok", "end": "2026-11-19T17:29:52+01:00"}
