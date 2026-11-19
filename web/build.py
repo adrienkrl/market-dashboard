@@ -15,6 +15,15 @@ OUT = os.path.join(ROOT, "_site")
 DATA = os.path.join(ROOT, "data")
 CONTENT = os.path.join(ROOT, "content")
 
+def _css_version():
+    """Empreinte du fichier CSS : change à chaque modification -> le navigateur recharge le style."""
+    import hashlib
+    with open(os.path.join(ROOT, "web", "static", "style.css"), "rb") as f:
+        return hashlib.sha1(f.read()).hexdigest()[:8]
+
+
+CSS_VERSION = _css_version()
+
 TABS = [
     ("index.html", "Tableau de bord"),
     ("calendrier.html", "Calendrier"),
@@ -80,7 +89,7 @@ def page(active, title, body, generated_at, alerts=""):
 <html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)} · Market Dashboard</title>
-<link rel="stylesheet" href="static/style.css">
+<link rel="stylesheet" href="static/style.css?v={CSS_VERSION}">
 </head><body>
 <header><div class="wrap">
  <div class="brand"><strong>Market Dashboard</strong><span class="stamp">Dernière mise à jour : {stamp}</span></div>
