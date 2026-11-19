@@ -32,13 +32,13 @@ def _calendar_refreshed_today(now):
     return last[:10] == now.date().isoformat()
 
 
-def plan(now):
+def plan(now, force=False):
     """Quels agents tournent à cette heure-ci ?
     - Données : à chaque passage (en premier : les autres agents lisent ses résultats).
     - Calendrier : liste complète à 8h (ou au premier passage du jour si celui de 8h a sauté),
       puis seulement la mise à jour des valeurs publiées les autres heures."""
     agents = ["data"]
-    if now.hour == OPEN_HOUR or not _calendar_refreshed_today(now):
+    if force or now.hour == OPEN_HOUR or not _calendar_refreshed_today(now):
         agents.append("calendar_refresh")
     else:
         agents.append("calendar_results")
@@ -66,7 +66,7 @@ def main():
         return 0
 
     entry = {"start": now.isoformat(timespec="seconds"), "agents": {}}
-    for name in plan(now):
+    for name in plan(now, force):
         try:
             if name == "data":
                 from agents import data
