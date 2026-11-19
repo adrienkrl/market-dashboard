@@ -1,0 +1,70 @@
+# Mise à jour du dashboard : collecte des données, génération du site, publication.
+# Étape 2 : déclenchement manuel (bouton « Run workflow ») et à chaque modification de content/.
+# Étape 5 : on ajoutera ici le déclenchement horaire (cron).
+name: Mise à jour du dashboard
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Ignorer la fenêtre 8h-23h (test)"
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths: ["content/**", "web/**"]
+
+permissions:
+  contents: write   # enregistrer les nouvelles données dans le dépôt
+  pages: write      # publier le site
+  id-token: write   # authentifier la publication Pages
+
+concurrency:
+  group: dashboard
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Orchestrateur (agents + site)
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: |
+          if [ "${{ github.event_name }}" = "push" ] || [ "${{ inputs.force }}" = "true" ]; then
+            python orchestrator.py --force
+          else
+            python orchestrator.py
+          fi
+
+      - name: Enregistrer les données dans le dépôt
+        if: hashFiles('.skip') == ''
+        run: |
+          git config user.name "dashboard-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Données : $(TZ=Europe/Paris date '+%Y-%m-%d %H:%M')"
+          git pull --rebase --autostash && git push
+
+      - uses: actions/configure-pages@v5
+        if: hashFiles('.skip') == ''
+      - uses: actions/upload-pages-artifact@v3
+        if: hashFiles('.skip') == ''
+        with:
+          path: _site
+      - id: deploy
+        if: hashFiles('.skip') == ''
+        uses: actions/deploy-pages@v4
