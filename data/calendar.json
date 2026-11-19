@@ -1,7 +1,19 @@
 {
- "refreshed_at": "2026-11-19T17:19+01:00",
- "updated_at": "2026-11-19T17:21+01:00",
+ "refreshed_at": "2026-11-19T17:23+01:00",
+ "updated_at": "2026-11-19T17:23+01:00",
  "events": [
+  {
+   "id": "us_retail-2026-11-17",
+   "kind": "macro",
+   "label": "Ventes au détail US",
+   "stars": 2,
+   "date": "2026-11-17",
+   "time_paris": "2026-11-17T14:30+01:00",
+   "series": null,
+   "series2": null,
+   "source": "FRED – calendrier des publications",
+   "url": "https://fred.stlouisfed.org/release?rid=9"
+  },
   {
    "id": "ea_hicp_final-2026-11-18",
    "kind": "macro",
@@ -83,6 +95,46 @@
    "previous_date": "2026-10-27"
   },
   {
+   "id": "pce-2026-11-25",
+   "kind": "macro",
+   "label": "PCE core US (revenus et dépenses)",
+   "stars": 3,
+   "date": "2026-11-25",
+   "time_paris": "2026-11-25T14:30+01:00",
+   "series": "us_core_pce",
+   "series2": null,
+   "source": "FRED – calendrier des publications",
+   "url": "https://fred.stlouisfed.org/release?rid=54",
+   "values": {
+    "us_core_pce": {
+     "label": "PCE core US (a/a)",
+     "unit": "%",
+     "previous": 3.12,
+     "previous_period": "2026-09-01"
+    }
+   }
+  },
+  {
+   "id": "us_gdp-2026-11-25",
+   "kind": "macro",
+   "label": "PIB US",
+   "stars": 2,
+   "date": "2026-11-25",
+   "time_paris": "2026-11-25T14:30+01:00",
+   "series": "us_gdp",
+   "series2": null,
+   "source": "FRED – calendrier des publications",
+   "url": "https://fred.stlouisfed.org/release?rid=53",
+   "values": {
+    "us_gdp": {
+     "label": "PIB US (t/t annualisé)",
+     "unit": "%",
+     "previous": 3.4,
+     "previous_period": "2026-07-01"
+    }
+   }
+  },
+  {
    "id": "ust-91282CSA0-2026-11-25",
    "kind": "auction",
    "cusip": "91282CSA0",
@@ -145,9 +197,7 @@
    }
   }
  ],
- "warnings": [
-  "Dates US indisponibles : clé FRED absente."
- ],
+ "warnings": [],
  "missing": [
   "Inflation France (INSEE) : le calendrier INSEE n'est pas diffusé dans un format lisible automatiquement.",
   "PMI (S&P Global / HCOB) : calendrier et chiffres propriétaires.",
