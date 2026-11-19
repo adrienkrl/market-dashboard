@@ -1,9 +1,15 @@
 # Mise à jour du dashboard : collecte des données, génération du site, publication.
-# Étape 2 : déclenchement manuel (bouton « Run workflow ») et à chaque modification de content/.
-# Étape 5 : on ajoutera ici le déclenchement horaire (cron).
+# Déclenchements : toutes les heures (cron), à la main (« Run workflow »), et quand un texte
+# est publié dans content/ (newsletter, wrap, rapport) ou que le site change.
 name: Mise à jour du dashboard
 
 on:
+  schedule:
+    # Le cron de GitHub est en UTC et ne connaît pas l'heure d'été.
+    # 06h-22h UTC couvre 8h-23h à Paris en hiver (UTC+1) comme en été (UTC+2) ;
+    # orchestrator.py vérifie l'heure de Paris et ne fait rien hors de 8h-23h.
+    # Minute 17 et non 00 : GitHub retarde ou saute les tâches lancées pile à l'heure.
+    - cron: "17 6-22 * * *"
   workflow_dispatch:
     inputs:
       force:

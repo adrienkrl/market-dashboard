@@ -97,8 +97,25 @@ def page(active, title, body, generated_at, alerts=""):
 </div></header>
 {alerts}
 <main class="wrap">{body}</main>
+<div id="stale" class="alert wrap" role="status" hidden></div>
 <footer class="wrap">Usage personnel et pédagogique. Ceci n'est pas un conseil en investissement.
 Les chiffres proviennent exclusivement des sources indiquées sur chaque tuile ; « n.d. » = non disponible.</footer>
+<script>
+// Garde-fou : si le site n'a pas été régénéré depuis trop longtemps (automatisation en panne),
+// on l'affiche. Entre 8h et minuit à Paris, une mise à jour est attendue toutes les heures.
+(function () {{
+  var gen = new Date("{generated_at}");
+  var h = Number(new Intl.DateTimeFormat("en-GB", {{hour: "2-digit", hourCycle: "h23", timeZone: "Europe/Paris"}}).format(new Date()));
+  var ageH = (Date.now() - gen.getTime()) / 36e5;
+  var limit = (h >= 9) ? 2.5 : 11;  // la nuit, la dernière mise à jour date de 23h : c'est normal
+  if (ageH > limit) {{
+    var el = document.getElementById("stale");
+    el.textContent = "⚠ Le site n'a pas été mis à jour depuis " + Math.floor(ageH) + " h : l'automatisation a peut-être un problème. Les chiffres affichés peuvent être anciens.";
+    el.hidden = false;
+    document.querySelector("main").before(el);
+  }}
+}})();
+</script>
 </body></html>"""
 
 
