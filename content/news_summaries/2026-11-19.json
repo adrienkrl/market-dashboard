@@ -1,0 +1,45 @@
+{
+ "date": "2026-11-19",
+ "items": {
+  "c8279dbe2376": {
+   "summary": "Discours d'une gouverneure de la Fed sur la conduite de la politique monétaire dans un contexte de chocs fréquents et complexes. Le titre suggère une réflexion sur la manière de réagir face à des chocs d'offre.",
+   "why": "Le ton des membres du Comité guide les anticipations de taux après les minutes."
+  },
+  "dbea10a75a84": {
+   "summary": "La Fed publie le compte rendu de sa réunion d'octobre. Il détaille les débats du Comité sur l'inflation, l'emploi et la trajectoire des taux.",
+   "why": "C'est la source principale pour jauger le biais de la Fed avant la prochaine réunion."
+  },
+  "8a3dc2d04dd6": {
+   "summary": "Intervention d'un gouverneur de la Fed centrée sur l'investissement dans les communautés mal desservies. Le sujet est plus structurel que conjoncturel.",
+   "why": "Impact limité sur les taux à court terme, mais utile pour suivre l'agenda réglementaire et social de la Fed."
+  },
+  "3e5da690e0ca": {
+   "summary": "Le gouverneur de la BoJ présente au Sénat japonais le rapport semestriel sur la politique monétaire. Il y expose sa lecture de l'économie et de la politique de la banque.",
+   "why": "Le JGB 10 ans est à 2,92 % et l'USD/JPY à 159,91, donc tout signal de la BoJ est suivi de près."
+  },
+  "74b926ce1c84": {
+   "summary": "Les valeurs technologiques américaines hésitent après la publication de Nvidia. Les investisseurs pèsent la solidité des résultats face à des valorisations élevées.",
+   "why": "Nvidia pèse lourd dans les indices, d'où l'écart entre Nasdaq 100 (+0,66 %) et le reste des marchés."
+  },
+  "f3082e5740a6": {
+   "summary": "Discours d'un membre du Conseil des gouverneurs autour de la Revue de stabilité financière de novembre. Il porte sur les vulnérabilités du système financier européen.",
+   "why": "Dans un marché plus nerveux, les risques de stabilité financière deviennent un sujet central."
+  },
+  "8481a1d7c53f": {
+   "summary": "Le chef économiste de la BCE revient sur la façon dont l'institution communique sur sa politique monétaire. Le texte aborde l'expérience de la BCE en la matière.",
+   "why": "La communication façonne les anticipations, notamment le proxy Bund 2 ans – taux de dépôt à 64 pb."
+  },
+  "a1e062aede4a": {
+   "summary": "Un cofondateur de CoreWeave achète pour son compte des obligations de l'entreprise, dont le cours a fortement baissé. Le pari est atypique.",
+   "why": "Il illustre les tensions sur le crédit des acteurs très endettés de l'IA ; l'OAS High Yield US est à +4 pb sur 1 j."
+  },
+  "8ea62b1fb64a": {
+   "summary": "Le suivi en direct du Guardian couvre l'introduction en bourse d'Anthropic au Nasdaq. L'ouverture est attendue nettement au-dessus du prix d'introduction.",
+   "why": "Une grosse introduction réussie est un signal d'appétit pour le risque, à contre-courant du VIX."
+  },
+  "23e4229d8f3b": {
+   "summary": "Le dirigeant d'Anthropic reconnaît les risques réels de l'IA peu avant l'introduction en bourse. Le message vise à encadrer les attentes des investisseurs.",
+   "why": "Les risques perçus sur l'IA font partie du profil de risque des valeurs technologiques."
+  }
+ }
+}
