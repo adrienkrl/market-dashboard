@@ -7,10 +7,13 @@ SVG calculés ici : aucune bibliothèque à charger, la page s'affiche même san
 import html
 import json
 import os
+import re
 import shutil
 from datetime import datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+import sys  # noqa: E402
+sys.path.insert(0, ROOT)
 OUT = os.path.join(ROOT, "_site")
 DATA = os.path.join(ROOT, "data")
 CONTENT = os.path.join(ROOT, "content")
@@ -78,9 +81,9 @@ def sparkline(points, w=120, h=32):
 
 
 # ------------------------------------------------------------ gabarit commun
-def page(active, title, body, generated_at, alerts=""):
+def page(active, title, body, generated_at, alerts="", base=""):
     nav = "".join(
-        f'<a href="{href}"{" class=on aria-current=page" if href == active else ""}>{label}</a>'
+        f'<a href="{base}{href}"{" class=on aria-current=page" if href == active else ""}>{label}</a>'
         for href, label in TABS
     )
     ts = datetime.fromisoformat(generated_at)
@@ -89,7 +92,7 @@ def page(active, title, body, generated_at, alerts=""):
 <html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)} · Market Dashboard</title>
-<link rel="stylesheet" href="static/style.css?v={CSS_VERSION}">
+<link rel="stylesheet" href="{base}static/style.css?v={CSS_VERSION}">
 </head><body>
 <header><div class="wrap">
  <div class="brand"><strong>Market Dashboard</strong><span class="stamp">Dernière mise à jour : {stamp}</span></div>
@@ -364,6 +367,64 @@ def build_news(news):
     return "".join(body)
 
 
+# ------------------------------------------------------------ textes rédigés (newsletter, wraps, rapports)
+ARCHIVES = {
+    "newsletter": ("newsletter.html", "Newsletter", "Morning brief quotidien, rédigé chaque matin à 8h40 par une tâche Claude programmée."),
+    "wraps": ("wraps.html", "Market Wraps", "Bilan hebdomadaire, rédigé chaque vendredi à 22h30 par une tâche Claude programmée."),
+    "rapports": ("rapports.html", "Rapports mensuels", "Rapport de l'Agent Général : le 1er jour ouvré du mois et le lendemain des réunions Fed/BCE."),
+}
+
+
+def _badge(res):
+    """Résultat du contrôle de cohérence affiché sous chaque texte."""
+    if res is None:
+        return ""
+    if not res.get("brief_valide", False):
+        why = res.get("erreur") or "la copie du brief a été modifiée"
+        return f'<p class="badge bad">⚠ Contrôle impossible : {html.escape(why)}.</p>'
+    if res["ok"]:
+        return (f'<p class="badge good">✓ Contrôle de cohérence : {res["verifies"]} chiffre(s) cité(s), tous identiques '
+                f'aux données des agents (brief du {html.escape((res.get("brief_genere_le") or "")[:16].replace("T", " à "))}).</p>')
+    items = "".join(f'<li><strong>{html.escape(u["nombre"])}</strong> — « {html.escape(u["contexte"])} »</li>'
+                    for u in res["inconnus"][:12])
+    return (f'<div class="badge bad">⚠ Contrôle de cohérence : {len(res["inconnus"])} chiffre(s) sur {res["verifies"]} '
+            f'introuvable(s) dans les données des agents. À lire avec prudence.<ul>{items}</ul></div>')
+
+
+def build_archives(gen):
+    """Une page d'index par type de texte (dernier texte en entier + archive), et une page par texte."""
+    import markdown
+    from checks.coherence import check
+    pages = {}
+    for folder, (href, title, desc) in ARCHIVES.items():
+        d = os.path.join(CONTENT, folder)
+        files = sorted((f for f in os.listdir(d) if f.endswith(".md")), reverse=True) if os.path.isdir(d) else []
+        os.makedirs(os.path.join(OUT, folder), exist_ok=True)
+        entries = []
+        for name in files:
+            path = os.path.join(d, name)
+            with open(path) as f:
+                md_text = f.read()
+            body_html = markdown.markdown(md_text, extensions=["tables", "sane_lists"])
+            badge = _badge(check(path))
+            m = re.search(r"^#\s+(.+)$", md_text, re.M)
+            t = m.group(1).strip() if m else name[:-3]
+            slug = name[:-3]
+            entries.append((slug, t, body_html, badge))
+            sub = (f'<p class="legend"><a href="../{href}">← {title}</a></p><article class="prose">{body_html}</article>{badge}')
+            with open(os.path.join(OUT, folder, f"{slug}.html"), "w") as f:
+                f.write(page(href, t, sub, gen, base="../"))
+        if not entries:
+            body = f'<p class="legend">{desc}</p>' + placeholder("Aucun texte publié pour l'instant.")
+        else:
+            slug, t, body_html, badge = entries[0]
+            archive = "".join(f'<li><a href="{folder}/{s_}.html">{html.escape(t_)}</a></li>' for s_, t_, _, _ in entries)
+            body = (f'<p class="legend">{desc}</p><article class="prose">{body_html}</article>{badge}'
+                    f'<section><h2>Archives ({len(entries)})</h2><ul class="archive">{archive}</ul></section>')
+        pages[href] = (title, body)
+    return pages
+
+
 def _load_json(name):
     path = os.path.join(DATA, name)
     if not os.path.exists(path):
@@ -386,10 +447,8 @@ def main():
         "index.html": ("Tableau de bord", build_dashboard(latest)),
         "calendrier.html": ("Calendrier", build_calendar(_load_json("calendar.json"))),
         "actualites.html": ("Actualités", build_news(_load_json("news.json"))),
-        "newsletter.html": ("Newsletter", placeholder("Les newsletters apparaîtront ici à partir de l'étape 6.")),
-        "wraps.html": ("Market Wraps", placeholder("Les market wraps apparaîtront ici à partir de l'étape 6.")),
-        "rapports.html": ("Rapports mensuels", placeholder("Les rapports mensuels apparaîtront ici à partir de l'étape 6.")),
     }
+    pages.update(build_archives(gen))
     for href, (title, body) in pages.items():
         with open(os.path.join(OUT, href), "w") as f:
             f.write(page(href, title, body, gen, alerts if href == "index.html" else ""))

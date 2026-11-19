@@ -43,7 +43,8 @@ def plan(now, force=False):
         agents.append("calendar_refresh")
     else:
         agents.append("calendar_results")
-    agents.append("news")  # Actualités : à chaque passage
+    agents.append("news")   # Actualités : à chaque passage
+    agents.append("brief")  # Dossier de brief pour les tâches Claude : en dernier (il lit tout le reste)
     return agents
 
 
@@ -82,6 +83,10 @@ def main():
                 from agents import news
                 res = news.run()
                 entry["agents"][name] = {"ok": True, "items": len(res["items"]), "feed_errors": len(res["errors"])}
+            elif name == "brief":
+                from agents import brief
+                res = brief.build()
+                entry["agents"][name] = {"ok": True, "figures": len(res["chiffres"])}
             elif name == "calendar_results":
                 from agents import calendar
                 res = calendar.update_results()

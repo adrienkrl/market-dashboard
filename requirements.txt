@@ -1,3 +1,4 @@
 requests>=2.31
 yfinance>=1.2
 feedparser>=6.0
+markdown>=3.5
