@@ -9,6 +9,7 @@ on:
     # 06h-22h UTC couvre 8h-23h à Paris en hiver (UTC+1) comme en été (UTC+2) ;
     # orchestrator.py vérifie l'heure de Paris et ne fait rien hors de 8h-23h.
     # Minute 17 et non 00 : GitHub retarde ou saute les tâches lancées pile à l'heure.
+    # Le bandeau « site pas à jour » signale tout passage sauté (planning GitHub non garanti).
     - cron: "17 6-22 * * *"
   workflow_dispatch:
     inputs:
