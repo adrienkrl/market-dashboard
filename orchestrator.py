@@ -36,12 +36,14 @@ def plan(now, force=False):
     """Quels agents tournent à cette heure-ci ?
     - Données : à chaque passage (en premier : les autres agents lisent ses résultats).
     - Calendrier : liste complète à 8h (ou au premier passage du jour si celui de 8h a sauté),
-      puis seulement la mise à jour des valeurs publiées les autres heures."""
+      puis seulement la mise à jour des valeurs publiées les autres heures.
+    - Actualités : à chaque passage."""
     agents = ["data"]
     if force or now.hour == OPEN_HOUR or not _calendar_refreshed_today(now):
         agents.append("calendar_refresh")
     else:
         agents.append("calendar_results")
+    agents.append("news")  # Actualités : à chaque passage
     return agents
 
 
@@ -76,6 +78,10 @@ def main():
                 from agents import calendar
                 res = calendar.refresh()
                 entry["agents"][name] = {"ok": True, "events": len(res["events"]), "warnings": len(res["warnings"])}
+            elif name == "news":
+                from agents import news
+                res = news.run()
+                entry["agents"][name] = {"ok": True, "items": len(res["items"]), "feed_errors": len(res["errors"])}
             elif name == "calendar_results":
                 from agents import calendar
                 res = calendar.update_results()

@@ -286,6 +286,58 @@ def date_from_iso(s):
     return datetime.fromisoformat(s).date()
 
 
+# ------------------------------------------------------------ actualités
+def _summaries():
+    """Résumés du top 10 rédigés chaque matin par la tâche Newsletter (content/news_summaries/*.json)."""
+    folder = os.path.join(CONTENT, "news_summaries")
+    out = {}
+    if os.path.isdir(folder):
+        for name in sorted(os.listdir(folder))[-3:]:
+            if name.endswith(".json"):
+                with open(os.path.join(folder, name)) as f:
+                    out.update(json.load(f).get("items", {}))
+    return out
+
+
+def _news_line(it, rank=None, summary=None):
+    t = datetime.fromisoformat(it["published"])
+    dots = f'<span class="score s{it["score"]}" title="Note {it["score"]}/5">{it["score"]}</span>'
+    chips = "".join(f'<span class="chip">{html.escape(c)}</span>' for c in it.get("themes", [])[:3])
+    also = (f' <span class="also">· aussi : {html.escape(", ".join(it["also"][:3]))}</span>' if it.get("also") else "")
+    extra = ""
+    if summary:
+        extra = (f'<p class="sum">{html.escape(summary.get("summary", ""))}</p>'
+                 f'<p class="why"><strong>Pourquoi ça compte :</strong> {html.escape(summary.get("why", ""))}</p>')
+    elif rank:
+        extra = '<p class="sum flat">Résumé ajouté chaque matin par la newsletter.</p>'
+    num_ = f'<span class="rank">{rank}</span>' if rank else ""
+    return (f'<li class="news">{num_}{dots}<div class="nbody"><a href="{html.escape(it["link"])}" target="_blank" '
+            f'rel="noopener">{html.escape(it["title"])}</a><div class="nmeta">{html.escape(it["source"])} · '
+            f'{t:%d/%m %H:%M}{also}</div><div class="chips">{chips}</div>{extra}</div></li>')
+
+
+def build_news(news):
+    if not news or not news.get("items"):
+        return placeholder("Pas encore d'actualités collectées.")
+    items, sums = news["items"], _summaries()
+    top = items[:10]
+    rest = items[10:]
+    intro = ('<p class="legend">Note de 1 à 5 calculée par des règles, sans IA : fiabilité de la source, thèmes '
+             '(banque centrale, inflation, emploi, risque…), actifs cités, reprise par plusieurs sources. '
+             f'Fenêtre : {news.get("keep_hours", 48)} h. Seuls le titre et le lien sont repris ; l\'article reste chez son éditeur.</p>')
+    errs = news.get("errors") or {}
+    warn = (f'<p class="reason">Flux indisponibles lors de la dernière collecte : {html.escape(", ".join(errs))}.</p>'
+            if errs else "")
+    body = [intro, warn, '<section><h2>Top 10</h2><ol class="newslist top">']
+    body += [_news_line(it, i + 1, sums.get(it["id"])) for i, it in enumerate(top)]
+    body.append('</ol></section><section><h2>Toutes les actualités</h2><ul class="newslist">')
+    body += [_news_line(it) for it in rest]
+    body.append("</ul></section>")
+    srcs = ", ".join(html.escape(s) for s in news.get("feeds", []))
+    body.append(f'<details class="notes"><summary>Sources suivies</summary><p>{srcs}</p></details>')
+    return "".join(body)
+
+
 def _load_json(name):
     path = os.path.join(DATA, name)
     if not os.path.exists(path):
@@ -307,7 +359,7 @@ def main():
     pages = {
         "index.html": ("Tableau de bord", build_dashboard(latest)),
         "calendrier.html": ("Calendrier", build_calendar(_load_json("calendar.json"))),
-        "actualites.html": ("Actualités", placeholder("L'agent Actualités arrive à l'étape 4.")),
+        "actualites.html": ("Actualités", build_news(_load_json("news.json"))),
         "newsletter.html": ("Newsletter", placeholder("Les newsletters apparaîtront ici à partir de l'étape 6.")),
         "wraps.html": ("Market Wraps", placeholder("Les market wraps apparaîtront ici à partir de l'étape 6.")),
         "rapports.html": ("Rapports mensuels", placeholder("Les rapports mensuels apparaîtront ici à partir de l'étape 6.")),
