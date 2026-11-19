@@ -1,6 +1,6 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-19T17:49+01:00",
+"genere_le": "2026-11-19T21:07+01:00",
 "date": "2026-11-19",
 "jour": "jeudi",
 "drapeaux": {
@@ -257,143 +257,143 @@
 "groupe": "fx",
 "libelle": "EUR/USD",
 "date": "2026-11-19",
-"valeur": "1,0984",
-"var_1j": "-0,08 %",
-"var_1sem": "-1,00 %",
-"var_ytd": "-6,50 %",
-"var_mois": "-1,78 %"
+"valeur": "1,0981",
+"var_1j": "-0,11 %",
+"var_1sem": "-1,03 %",
+"var_ytd": "-6,53 %",
+"var_mois": "-1,81 %"
 },
 {
 "id": "usdjpy",
 "groupe": "fx",
 "libelle": "USD/JPY",
 "date": "2026-11-19",
-"valeur": "159,90",
-"var_1j": "+0,25 %",
-"var_1sem": "+0,11 %",
-"var_ytd": "+2,23 %",
-"var_mois": "+1,33 %"
+"valeur": "159,64",
+"var_1j": "+0,08 %",
+"var_1sem": "-0,06 %",
+"var_ytd": "+2,06 %",
+"var_mois": "+1,16 %"
 },
 {
 "id": "gbpusd",
 "groupe": "fx",
 "libelle": "GBP/USD",
 "date": "2026-11-19",
-"valeur": "1,3118",
-"var_1j": "-0,66 %",
-"var_1sem": "-1,19 %",
-"var_ytd": "-2,59 %",
-"var_mois": "-1,94 %"
+"valeur": "1,3103",
+"var_1j": "-0,78 %",
+"var_1sem": "-1,31 %",
+"var_ytd": "-2,71 %",
+"var_mois": "-2,06 %"
 },
 {
 "id": "eurgbp",
 "groupe": "fx",
 "libelle": "EUR/GBP",
 "date": "2026-11-19",
-"valeur": "0,8371",
-"var_1j": "+0,56 %",
-"var_1sem": "+0,17 %",
-"var_ytd": "-4,03 %",
-"var_mois": "+0,15 %"
+"valeur": "0,8378",
+"var_1j": "+0,64 %",
+"var_1sem": "+0,26 %",
+"var_ytd": "-3,95 %",
+"var_mois": "+0,24 %"
 },
 {
 "id": "usdchf",
 "groupe": "fx",
 "libelle": "USD/CHF",
 "date": "2026-11-19",
-"valeur": "0,8434",
-"var_1j": "+0,26 %",
-"var_1sem": "+1,34 %",
-"var_ytd": "+6,54 %",
-"var_mois": "+2,41 %"
+"valeur": "0,8437",
+"var_1j": "+0,28 %",
+"var_1sem": "+1,37 %",
+"var_ytd": "+6,56 %",
+"var_mois": "+2,44 %"
 },
 {
 "id": "usdcny",
 "groupe": "fx",
 "libelle": "USD/CNY",
 "date": "2026-11-19",
-"valeur": "6,6660",
-"var_1j": "+0,00 %",
-"var_1sem": "-0,06 %",
-"var_ytd": "-4,72 %",
-"var_mois": "+0,08 %"
+"valeur": "6,6828",
+"var_1j": "+0,25 %",
+"var_1sem": "+0,19 %",
+"var_ytd": "-4,48 %",
+"var_mois": "+0,33 %"
 },
 {
 "id": "dxy",
 "groupe": "fx",
 "libelle": "Dollar Index (DXY)",
 "date": "2026-11-19",
-"valeur": "103,85",
-"var_1j": "-0,01 %",
-"var_1sem": "+0,66 %",
-"var_ytd": "+5,67 %",
-"var_mois": "+1,93 %"
+"valeur": "103,91",
+"var_1j": "+0,05 %",
+"var_1sem": "+0,72 %",
+"var_ytd": "+5,73 %",
+"var_mois": "+1,99 %"
 },
 {
 "id": "spx",
 "groupe": "equity",
 "libelle": "S&P 500",
 "date": "2026-11-19",
-"valeur": "7 322,11",
-"var_1j": "-0,02 %",
-"var_1sem": "-3,56 %",
-"var_ytd": "+6,96 %",
-"var_mois": "-3,40 %"
+"valeur": "7 176,69",
+"var_1j": "-2,01 %",
+"var_1sem": "-5,48 %",
+"var_ytd": "+4,84 %",
+"var_mois": "-5,32 %"
 },
 {
 "id": "ndx",
 "groupe": "equity",
 "libelle": "Nasdaq 100",
 "date": "2026-11-19",
-"valeur": "27 271,50",
-"var_1j": "+0,57 %",
-"var_1sem": "-3,60 %",
-"var_ytd": "+8,01 %",
-"var_mois": "-3,92 %"
+"valeur": "26 500,60",
+"var_1j": "-2,27 %",
+"var_1sem": "-6,32 %",
+"var_ytd": "+4,95 %",
+"var_mois": "-6,64 %"
 },
 {
 "id": "sx5e",
 "groupe": "equity",
 "libelle": "Euro Stoxx 50",
 "date": "2026-11-19",
-"valeur": "6 120,32",
-"var_1j": "-0,55 %",
-"var_1sem": "-4,35 %",
-"var_ytd": "+5,59 %",
-"var_mois": "-0,18 %"
+"valeur": "6 113,86",
+"var_1j": "-0,66 %",
+"var_1sem": "-4,46 %",
+"var_ytd": "+5,48 %",
+"var_mois": "-0,28 %"
 },
 {
 "id": "cac",
 "groupe": "equity",
 "libelle": "CAC 40",
 "date": "2026-11-19",
-"valeur": "8 084,79",
-"var_1j": "-0,76 %",
-"var_1sem": "-3,31 %",
-"var_ytd": "-0,79 %",
-"var_mois": "+1,45 %"
+"valeur": "8 080,74",
+"var_1j": "-0,81 %",
+"var_1sem": "-3,36 %",
+"var_ytd": "-0,84 %",
+"var_mois": "+1,40 %"
 },
 {
 "id": "dax",
 "groupe": "equity",
 "libelle": "DAX",
 "date": "2026-11-19",
-"valeur": "25 498,90",
-"var_1j": "-0,92 %",
-"var_1sem": "-4,75 %",
-"var_ytd": "+4,12 %",
-"var_mois": "-1,24 %"
+"valeur": "25 463,80",
+"var_1j": "-1,06 %",
+"var_1sem": "-4,89 %",
+"var_ytd": "+3,97 %",
+"var_mois": "-1,37 %"
 },
 {
 "id": "ftse",
 "groupe": "equity",
 "libelle": "FTSE 100",
 "date": "2026-11-19",
-"valeur": "10 459,20",
-"var_1j": "-0,87 %",
-"var_1sem": "-3,72 %",
-"var_ytd": "+5,31 %",
-"var_mois": "-2,52 %"
+"valeur": "10 452,70",
+"var_1j": "-0,93 %",
+"var_1sem": "-3,78 %",
+"var_ytd": "+5,25 %",
+"var_mois": "-2,58 %"
 },
 {
 "id": "nikkei",
@@ -422,33 +422,33 @@
 "groupe": "equity",
 "libelle": "MSCI EM (proxy ETF EEM, $)",
 "date": "2026-11-19",
-"valeur": "57,73",
-"var_1j": "-0,25 %",
-"var_1sem": "-5,57 %",
-"var_ytd": "+5,53 %",
-"var_mois": "-5,41 %"
+"valeur": "56,77",
+"var_1j": "-1,92 %",
+"var_1sem": "-7,15 %",
+"var_ytd": "+3,77 %",
+"var_mois": "-7,00 %"
 },
 {
 "id": "vix",
 "groupe": "vol",
 "libelle": "VIX",
 "date": "2026-11-19",
-"valeur": "25,19",
-"var_1j": "+2,57 %",
-"var_1sem": "+34,71 %",
-"var_ytd": "+68,49 %",
-"var_mois": "+29,71 %"
+"valeur": "27,47",
+"var_1j": "+11,85 %",
+"var_1sem": "+46,90 %",
+"var_ytd": "+83,75 %",
+"var_mois": "+41,45 %"
 },
 {
 "id": "move",
 "groupe": "vol",
 "libelle": "MOVE (vol. taux US)",
 "date": "2026-11-19",
-"valeur": "94,44",
-"var_1j": "-3,77 %",
-"var_1sem": "-4,05 %",
-"var_ytd": "+47,66 %",
-"var_mois": "-5,74 %"
+"valeur": "94,91",
+"var_1j": "-3,30 %",
+"var_1sem": "-3,57 %",
+"var_ytd": "+48,40 %",
+"var_mois": "-5,27 %"
 },
 {
 "id": "us_ig",
@@ -482,22 +482,22 @@
 "groupe": "commo",
 "libelle": "Brent ($/b)",
 "date": "2026-11-19",
-"valeur": "90,30",
-"var_1j": "-1,79 %",
-"var_1sem": "-5,76 %",
-"var_ytd": "+48,40 %",
-"var_mois": "-23,24 %"
+"valeur": "89,61",
+"var_1j": "-2,54 %",
+"var_1sem": "-6,48 %",
+"var_ytd": "+47,26 %",
+"var_mois": "-23,83 %"
 },
 {
 "id": "wti",
 "groupe": "commo",
 "libelle": "WTI ($/b)",
 "date": "2026-11-19",
-"valeur": "83,65",
-"var_1j": "+0,47 %",
-"var_1sem": "-5,74 %",
-"var_ytd": "+45,68 %",
-"var_mois": "-19,66 %"
+"valeur": "82,79",
+"var_1j": "-0,56 %",
+"var_1sem": "-6,70 %",
+"var_ytd": "+44,18 %",
+"var_mois": "-20,49 %"
 },
 {
 "id": "ttf",
@@ -515,44 +515,44 @@
 "groupe": "commo",
 "libelle": "Or ($/oz)",
 "date": "2026-11-19",
-"valeur": "3 688,1",
-"var_1j": "-1,44 %",
-"var_1sem": "-5,08 %",
-"var_ytd": "-15,04 %",
-"var_mois": "-5,41 %"
+"valeur": "3 668,4",
+"var_1j": "-1,96 %",
+"var_1sem": "-5,58 %",
+"var_ytd": "-15,50 %",
+"var_mois": "-5,91 %"
 },
 {
 "id": "silver",
 "groupe": "commo",
 "libelle": "Argent ($/oz)",
 "date": "2026-11-19",
-"valeur": "44,67",
-"var_1j": "-0,72 %",
-"var_1sem": "-10,60 %",
-"var_ytd": "-36,30 %",
-"var_mois": "-9,01 %"
+"valeur": "44,02",
+"var_1j": "-2,18 %",
+"var_1sem": "-11,91 %",
+"var_ytd": "-37,23 %",
+"var_mois": "-10,34 %"
 },
 {
 "id": "copper",
 "groupe": "commo",
 "libelle": "Cuivre ($/lb)",
 "date": "2026-11-19",
-"valeur": "5,661",
-"var_1j": "+0,03 %",
-"var_1sem": "-8,44 %",
-"var_ytd": "+0,55 %",
-"var_mois": "-12,35 %"
+"valeur": "5,624",
+"var_1j": "-0,63 %",
+"var_1sem": "-9,03 %",
+"var_ytd": "-0,11 %",
+"var_mois": "-12,92 %"
 },
 {
 "id": "btc",
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
 "date": "2026-11-19",
-"valeur": "63 120",
-"var_1j": "+0,21 %",
-"var_1sem": "-11,53 %",
-"var_ytd": "-27,87 %",
-"var_mois": "-18,49 %"
+"valeur": "62 141",
+"var_1j": "-1,34 %",
+"var_1sem": "-12,90 %",
+"var_ytd": "-28,99 %",
+"var_mois": "-19,75 %"
 },
 {
 "id": "us_cpi",
@@ -669,6 +669,9 @@
 "importance": 2,
 "consensus": "n.d.",
 "rendement_precedent": "2,653 %",
+"rendement_servi": "2,903 %",
+"bid_to_cover": "2,43",
+"variation": "+25,0 pb",
 "note": "Montant offert : 19 Md$"
 }
 ],
@@ -693,6 +696,18 @@
 "reel_moins_precedent": "+0,1 pt"
 }
 ]
+},
+{
+"date": "2026-11-19",
+"heure_paris": "19:00",
+"evenement": "Adjudication Trésor US – 9-Year 8-Month TIPS",
+"importance": 2,
+"consensus": "n.d.",
+"rendement_precedent": "2,653 %",
+"rendement_servi": "2,903 %",
+"bid_to_cover": "2,43",
+"variation": "+25,0 pb",
+"note": "Montant offert : 19 Md$"
 }
 ],
 "evenements_de_la_semaine": [
@@ -731,6 +746,9 @@
 "importance": 2,
 "consensus": "n.d.",
 "rendement_precedent": "2,653 %",
+"rendement_servi": "2,903 %",
+"bid_to_cover": "2,43",
+"variation": "+25,0 pb",
 "note": "Montant offert : 19 Md$"
 }
 ],
@@ -772,6 +790,29 @@
 "heure": "2026-11-18T19:35+01:00"
 },
 {
+"id": "318382abda6b",
+"titre": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/94379926-211c-4ca6-a53a-f7e4df1a2675?syn-25a6b1a6=1",
+"note": 3,
+"themes": [
+"Banque centrale"
+],
+"heure": "2026-11-19T20:25+01:00"
+},
+{
+"id": "5591e008c561",
+"titre": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
+"source": "MarketWatch",
+"lien": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
+"note": 3,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-19T19:07+01:00"
+},
+{
 "id": "3e5da690e0ca",
 "titre": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
 "source": "Banque du Japon",
@@ -806,49 +847,26 @@
 "heure": "2026-11-18T10:00+01:00"
 },
 {
-"id": "8481a1d7c53f",
-"titre": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-"source": "BCE – communiqués",
-"lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-"note": 3,
-"themes": [
-"Banque centrale"
-],
-"heure": "2026-11-17T19:30+01:00"
-},
-{
-"id": "a1e062aede4a",
-"titre": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+"id": "b3f470b81c37",
+"titre": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
 "source": "MarketWatch",
-"lien": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+"lien": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
 "note": 2,
 "themes": [
-"Marchés",
-"Budget & souverains"
+"Emploi & croissance"
 ],
-"heure": "2026-11-19T17:27+01:00"
+"heure": "2026-11-19T20:13+01:00"
 },
 {
-"id": "8ea62b1fb64a",
-"titre": "Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live",
+"id": "f1b9eaa5143f",
+"titre": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
 "source": "The Guardian – business",
-"lien": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+"lien": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
 "note": 2,
 "themes": [
 "Marchés"
 ],
-"heure": "2026-11-19T17:24+01:00"
-},
-{
-"id": "23e4229d8f3b",
-"titre": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
-"source": "The Guardian – business",
-"lien": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
-"note": 2,
-"themes": [
-"Marchés"
-],
-"heure": "2026-11-19T17:24+01:00"
+"heure": "2026-11-19T19:15+01:00"
 }
 ],
 "wraps_du_mois": [],
@@ -859,5 +877,5 @@
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "5f6a4da8de33cff8"
+"empreinte": "4d4c0fa8514bb10b"
 }

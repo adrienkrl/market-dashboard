@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T17:49+01:00",
+ "updated_at": "2026-11-19T21:07+01:00",
  "keep_hours": 48,
  "items": [
   {
@@ -48,6 +48,37 @@
    "first_seen": "2026-11-19T17:26+01:00"
   },
   {
+   "id": "318382abda6b",
+   "title": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election",
+   "link": "https://www.ft.com/content/94379926-211c-4ca6-a53a-f7e4df1a2675?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-19T20:25+01:00",
+   "themes": [
+    "Banque centrale"
+   ],
+   "assets": [
+    "dollar"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "5591e008c561",
+   "title": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
+   "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T19:07+01:00",
+   "themes": [
+    "Risque & crédit",
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 3,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
    "id": "3e5da690e0ca",
    "title": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
    "link": "http://www.boj.or.jp/en/mopo/diet/d_state/dst261119a.htm",
@@ -91,18 +122,105 @@
    "first_seen": "2026-11-19T17:26+01:00"
   },
   {
-   "id": "8481a1d7c53f",
-   "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-   "source": "BCE – communiqués",
-   "reliability": 3,
-   "published": "2026-11-17T19:30+01:00",
+   "id": "b3f470b81c37",
+   "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
+   "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T20:13+01:00",
+   "themes": [
+    "Emploi & croissance"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "f1b9eaa5143f",
+   "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+   "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-19T19:15+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "f1857f5968b1",
+   "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
+   "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T19:00+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "915247a2abd7",
+   "title": "Encore plus fort que SpaceX... Débuts canon pour Anthropic à Wall Street qui bondit de 33% pour ses premiers échanges et signe la plus grande introduction en Bourse de l&#039;histoire",
+   "link": "https://www.tradingsat.com/actualites/informations-societes/encore-plus-fort-que-spacex-debuts-canon-pour-anthropic-a-wall-street-qui-bondit-de-33-pour-ses-premiers-echanges-et-signe-la-plus-grande-introduction-en-bourse-de-l-histoire-1174112.html",
+   "source": "BFM Bourse",
+   "reliability": 1,
+   "published": "2026-11-19T17:54+01:00",
+   "themes": [
+    "Marchés",
+    "Budget & souverains"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "c87692579238",
+   "title": "Central banks ❤️ US dollars",
+   "link": "https://www.ft.com/content/cb01773d-32ae-424c-a5be-a0b960d353ce",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-19T17:50+01:00",
    "themes": [
     "Banque centrale"
    ],
    "assets": [],
-   "score": 3,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 2,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "cdcd628a9ead",
+   "title": "Maintenance : Ryanair choisit l’Espagne",
+   "link": "https://air-cosmos.latribune.fr/article/aviation-civile/81336356754374/maintenance-ryanair-choisit-l-espagne",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-19T17:50+01:00",
+   "themes": [
+    "Emploi & croissance"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "96041542dcbf",
+   "title": "CAC 40 : Anthropic s&#039;envole de plus de 30% pour ses premiers pas à Wall Street, le CAC 40 cède encore du terrain",
+   "link": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-anthropic-s-envole-de-plus-de-30-pour-ses-premiers-pas-a-wall-street-le-cac-40-cede-encore-du-terrain-1174126.html",
+   "source": "BFM Bourse",
+   "reliability": 1,
+   "published": "2026-11-19T17:46+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [
+    "cac 40"
+   ],
+   "score": 2,
+   "first_seen": "2026-11-19T21:07+01:00"
   },
   {
    "id": "a1e062aede4a",
@@ -913,18 +1031,198 @@
    "first_seen": "2026-11-19T17:26+01:00"
   },
   {
-   "id": "73a4e66a1491",
-   "title": "Inferno engulfs gas tanker in strait of Hormuz after reported strike – video",
-   "link": "https://www.theguardian.com/world/video/2026/nov/17/inferno-engulfs-gas-tanker-in-strait-of-hormuz-after-reported-strike-video",
-   "source": "The Guardian – business",
+   "id": "82e106561f95",
+   "title": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
+   "source": "Le Monde – économie",
    "reliability": 2,
-   "published": "2026-11-17T19:20+01:00",
-   "themes": [],
-   "assets": [
-    "gas"
+   "published": "2026-11-19T20:30+01:00",
+   "themes": [
+    "Budget & souverains"
    ],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "ce16a44f179f",
+   "title": "INFO LTD. Le député Jérémie Iordanoff démissionne des Écologistes après la main tendue de Tondelier à LFI",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/1740407884796214/info-ltd-le-depute-jeremie-iordanoff-demissionne-des-ecologistes-apres-la-main-tendue-de-tondelier-a-lfi",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-19T20:14+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "8266f2c3f2eb",
+   "title": "Lanceurs : OHB s’intéresse à des tirs depuis l’Irlande",
+   "link": "https://air-cosmos.latribune.fr/article/espace/32417743922642/lanceurs-ohb-s-interesse-a-des-tirs-depuis-l-irlande",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-19T20:06+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "85c5d31f6852",
+   "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+   "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T19:54+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "116a5f790cd5",
+   "title": "Social Security should be shut down, this Republican senator says",
+   "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T19:53+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "a99126454e64",
+   "title": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
+   "link": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T19:43+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "7eaa4c94e13d",
+   "title": "Avio : de la séduction au concret aux Etats-Unis",
+   "link": "https://air-cosmos.latribune.fr/article/strategies/64094241362114/avio-de-la-seduction-au-concret-aux-etats-unis",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-19T19:25+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "38ff8cacb9f5",
+   "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+   "link": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-19T19:16+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "fb0127a77dd4",
+   "title": "My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?",
+   "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T19:15+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "d68120705108",
+   "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+   "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T19:03+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "b09e06c07aa7",
+   "title": "Méthane : l’UE reporte l’entrée en vigueur de son règlement pionnier au nom de la sécurité énergétique",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/19/l-union-europeenne-reporte-l-entree-en-vigueur-de-son-reglement-pionnier-sur-le-methane-au-nom-de-la-securite-energetique_6813359_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-19T18:32+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "43a525a11c5f",
+   "title": "HugoDécrypte, Guillaume Pley... L'Arcom impose aux créateurs de contenus de respecter le pluralisme dans leur traitement de la présidentielle",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/15811435080933/hugodecrypte-guillaume-pley-larcom-impose-aux-createurs-de-respecter-le-pluralisme-dans-leur-traitement-de-la-presidentielle",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-19T18:30+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "f1587f80d3b3",
+   "title": "En cette fin d’année, le commerce de l’habillement s’alarme de la conjoncture",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/19/en-cette-fin-d-annee-le-commerce-de-l-habillement-s-alarme-de-la-conjoncture_6813351_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-19T18:04+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "70e57ccbad54",
+   "title": "L'ART rend un avis conforme sous réserves sur le projet de contrat de régulation économique (CRE) du groupe ADP",
+   "link": "https://air-cosmos.latribune.fr/article/aviation-civile/40434665903259/lart-rend-un-avis-conforme-sous-reserves-sur-le-projet-de-contrat-de-regulation-economique-cre-du-groupe-adp",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-19T18:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "df33ebc7e597",
+   "title": "Trump administration plans further cuts at US audit regulator",
+   "link": "https://www.ft.com/content/9c07ad42-0778-4a1c-b30b-f561f672f92e?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-19T17:54+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
+  },
+  {
+   "id": "73f112013fe7",
+   "title": "Le dispositif « Territoires zéro chômeur de longue durée », expérimenté depuis dix ans, pérennisé par les députés",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/19/le-dispositif-territoires-zero-chomeur-de-longue-duree-experimente-depuis-dix-ans-perennise-par-les-deputes_6813347_823448.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-19T17:45+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-19T21:07+01:00"
   },
   {
    "id": "4524fd3f0ca3",
@@ -2157,54 +2455,6 @@
    "source": "BBC Business",
    "reliability": 2,
    "published": "2026-11-18T00:02+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "80311802f135",
-   "title": "Speed camera fault may have allowed drivers to escape fines",
-   "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-17T21:04+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "2f9d630c2e79",
-   "title": "The Guardian view on the Milburn report: a manifesto for youth participation | Editorial",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/17/the-guardian-view-on-the-milburn-report-a-manifesto-for-youth-participation",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-17T20:08+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "45ebf0b30e2f",
-   "title": "Government backs welfare shake-up to prevent 'lost generation'",
-   "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-17T19:43+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "db88cd04b73e",
-   "title": "Will the Milburn review come good or go south? Either way, we’ll always have Eurovision",
-   "link": "https://www.theguardian.com/society/2026/nov/17/will-the-milburn-review-come-good-or-go-south-either-way-well-always-have-eurovision",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-17T19:28+01:00",
    "themes": [],
    "assets": [],
    "score": 1,
