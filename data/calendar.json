@@ -1,0 +1,156 @@
+{
+ "refreshed_at": "2026-11-19T17:19+01:00",
+ "updated_at": "2026-11-19T17:19+01:00",
+ "events": [
+  {
+   "id": "ea_hicp_final-2026-11-18",
+   "kind": "macro",
+   "label": "HICP zone euro – chiffre définitif",
+   "stars": 1,
+   "date": "2026-11-18",
+   "time_paris": "2026-11-18T11:00+01:00",
+   "series": "ea_hicp",
+   "series2": "ea_core",
+   "source": "Eurostat – calendrier de diffusion",
+   "url": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "values": {
+    "ea_hicp": {
+     "label": "HICP zone euro (a/a)",
+     "unit": "%",
+     "previous": 3.8,
+     "previous_period": "2026-09-01",
+     "actual": 4.0,
+     "period": "2026-10-01",
+     "surprise_vs_prev": 0.2
+    },
+    "ea_core": {
+     "label": "HICP core zone euro (a/a)",
+     "unit": "%",
+     "previous": 2.5,
+     "previous_period": "2026-09-01",
+     "actual": 2.6,
+     "period": "2026-10-01",
+     "surprise_vs_prev": 0.1
+    }
+   }
+  },
+  {
+   "id": "ust-91282CRE3-2026-11-19",
+   "kind": "auction",
+   "cusip": "91282CRE3",
+   "sec_type": "TIPS",
+   "term": "10-Year",
+   "label": "Adjudication Trésor US – 9-Year 8-Month TIPS",
+   "stars": 2,
+   "date": "2026-11-19",
+   "time_paris": "2026-11-19T19:00+01:00",
+   "note": "Montant offert : 19 Md$",
+   "source": "TreasuryDirect",
+   "url": "https://www.treasurydirect.gov/auctions/upcoming/",
+   "previous": 2.653,
+   "previous_date": "2026-09-17"
+  },
+  {
+   "id": "ust-91282CRY9-2026-11-23",
+   "kind": "auction",
+   "cusip": "91282CRY9",
+   "sec_type": "Note",
+   "term": "2-Year",
+   "label": "Adjudication Trésor US – 2-Year Note",
+   "stars": 1,
+   "date": "2026-11-23",
+   "time_paris": "2026-11-23T19:00+01:00",
+   "note": "Montant offert : 69 Md$",
+   "source": "TreasuryDirect",
+   "url": "https://www.treasurydirect.gov/auctions/upcoming/",
+   "previous": 4.708,
+   "previous_date": "2026-10-26"
+  },
+  {
+   "id": "ust-91282CRZ6-2026-11-24",
+   "kind": "auction",
+   "cusip": "91282CRZ6",
+   "sec_type": "Note",
+   "term": "5-Year",
+   "label": "Adjudication Trésor US – 5-Year Note",
+   "stars": 1,
+   "date": "2026-11-24",
+   "time_paris": "2026-11-24T19:00+01:00",
+   "note": "Montant offert : 70 Md$",
+   "source": "TreasuryDirect",
+   "url": "https://www.treasurydirect.gov/auctions/upcoming/",
+   "previous": 4.845,
+   "previous_date": "2026-10-27"
+  },
+  {
+   "id": "ust-91282CSA0-2026-11-25",
+   "kind": "auction",
+   "cusip": "91282CSA0",
+   "sec_type": "Note",
+   "term": "7-Year",
+   "label": "Adjudication Trésor US – 7-Year Note",
+   "stars": 1,
+   "date": "2026-11-25",
+   "time_paris": "2026-11-25T17:30+01:00",
+   "note": "Montant offert : 44 Md$",
+   "source": "TreasuryDirect",
+   "url": "https://www.treasurydirect.gov/auctions/upcoming/",
+   "previous": 4.894,
+   "previous_date": "2026-10-29"
+  },
+  {
+   "id": "ea_hicp_flash-2026-12-01",
+   "kind": "macro",
+   "label": "HICP zone euro – estimation flash",
+   "stars": 3,
+   "date": "2026-12-01",
+   "time_paris": "2026-12-01T11:00+01:00",
+   "series": "ea_hicp",
+   "series2": "ea_core",
+   "source": "Eurostat – calendrier de diffusion",
+   "url": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "values": {
+    "ea_hicp": {
+     "label": "HICP zone euro (a/a)",
+     "unit": "%",
+     "previous": 4.0,
+     "previous_period": "2026-10-01"
+    },
+    "ea_core": {
+     "label": "HICP core zone euro (a/a)",
+     "unit": "%",
+     "previous": 2.6,
+     "previous_period": "2026-10-01"
+    }
+   }
+  },
+  {
+   "id": "ea_unemp-2026-12-02",
+   "kind": "macro",
+   "label": "Chômage zone euro",
+   "stars": 1,
+   "date": "2026-12-02",
+   "time_paris": "2026-12-02T11:00+01:00",
+   "series": "ea_unemp",
+   "series2": null,
+   "source": "Eurostat – calendrier de diffusion",
+   "url": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "values": {
+    "ea_unemp": {
+     "label": "Chômage zone euro",
+     "unit": "%",
+     "previous": 6.5,
+     "previous_period": "2026-09-01"
+    }
+   }
+  }
+ ],
+ "warnings": [
+  "Dates US indisponibles : clé FRED absente."
+ ],
+ "missing": [
+  "Inflation France (INSEE) : le calendrier INSEE n'est pas diffusé dans un format lisible automatiquement.",
+  "PMI (S&P Global / HCOB) : calendrier et chiffres propriétaires.",
+  "Consensus des économistes : aucune source gratuite et légale ; la surprise affichée est réel − précédent."
+ ]
+}

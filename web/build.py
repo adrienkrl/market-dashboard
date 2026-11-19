@@ -179,6 +179,121 @@ def placeholder(text):
     return f'<section class="empty"><p>{text}</p></section>'
 
 
+# ------------------------------------------------------------ calendrier
+JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
+
+
+def _v(x, unit="%", dec=2):
+    if x is None:
+        return '<span class="flat">n.d.</span>'
+    if unit == "k":
+        return f"{num(x, 0)} k"
+    return f"{num(x, dec)} %"
+
+
+def _surprise(x, unit):
+    if x is None:
+        return '<span class="flat">—</span>'
+    cls = "up" if x > 0 else "down" if x < 0 else "flat"
+    sign = "+" if x > 0 else ""
+    txt = f"{sign}{num(x, 0)} k" if unit == "k" else f"{sign}{num(x, 2)} pt"
+    return f'<span class="{cls}">{txt}</span>'
+
+
+def event_rows(ev, now):
+    """Une ou plusieurs lignes par événement (ex. CPI global + core)."""
+    t = ev.get("time_paris")
+    released = bool(t) and datetime.fromisoformat(t) <= now
+    hour = datetime.fromisoformat(t).strftime("%H:%M") if t else "—"
+    stars = f'<span class="stars" aria-label="importance {ev["stars"]} sur 3">{"★" * ev["stars"]}{"☆" * (3 - ev["stars"])}</span>'
+    link = f'<a href="{html.escape(ev["url"])}" rel="noopener" target="_blank">{html.escape(ev["label"])}</a>'
+    note = f'<div class="note">{html.escape(ev["note"])}</div>' if ev.get("note") else ""
+    pending = '<span class="flat">en attente</span>' if released else '<span class="flat">—</span>'
+    rows = []
+
+    def row(name, prev, act, surp, first):
+        lead = (f'<td class="time">{hour}</td><td>{stars}</td><td class="ev">{link}{name}{note}</td>' if first
+                else '<td></td><td></td><td class="ev sub">' + name + '</td>')
+        return (f'<tr class="{"done" if released else ""}">{lead}<td>{prev}</td>'
+                f'<td class="flat" title="Aucune source gratuite de consensus">n.d.</td><td>{act}</td><td>{surp}</td></tr>')
+
+    if ev["kind"] == "macro" and ev.get("values"):
+        for i, (sid, v) in enumerate(ev["values"].items()):
+            unit, dec = v.get("unit") or "%", 0 if v.get("unit") == "k" else 1
+            name = f'<div class="sub">{html.escape(v["label"])}</div>' if len(ev["values"]) > 1 else ""
+            act = _v(v.get("actual"), unit, dec) if v.get("actual") is not None else pending
+            rows.append(row(name, _v(v.get("previous"), unit, dec), act, _surprise(v.get("surprise_vs_prev"), unit), i == 0))
+    elif ev["kind"] == "cb":
+        def rate(val, low):
+            if val is None:
+                return '<span class="flat">n.d.</span>'
+            return f"{num(low, 2)} – {num(val, 2)} %" if low is not None else f"{num(val, 2)} %"
+        act = rate(ev.get("actual"), ev.get("actual_low")) if ev.get("actual") is not None else pending
+        ch = ev.get("change_bp")
+        surp = ('<span class="flat">inchangé</span>' if ch == 0 else
+                f'<span class="{"up" if ch > 0 else "down"}">{"+" if ch > 0 else ""}{ch} pb</span>' if ch is not None
+                else '<span class="flat">—</span>')
+        rows.append(row("", rate(ev.get("previous"), ev.get("previous_low")), act, surp, True))
+    elif ev["kind"] == "auction":
+        prev = _v(ev.get("previous"), "%", 3)
+        act = _v(ev.get("actual"), "%", 3) if ev.get("actual") is not None else pending
+        if ev.get("bid_to_cover"):
+            act += f'<div class="sub">bid-to-cover {num(ev["bid_to_cover"], 2)}</div>'
+        ch = ev.get("change_bp")
+        surp = (f'<span class="{"up" if ch > 0 else "down" if ch < 0 else "flat"}">{"+" if ch > 0 else ""}{num(ch, 1)} pb</span>'
+                if ch is not None else '<span class="flat">—</span>')
+        rows.append(row("", prev, act, surp, True))
+    else:
+        rows.append(row("", '<span class="flat">n.d.</span>', pending, '<span class="flat">—</span>', True))
+    return "".join(rows)
+
+
+def build_calendar(cal):
+    if not cal:
+        return placeholder("Calendrier pas encore généré.")
+    now = datetime.fromisoformat(cal["updated_at"])
+    today = now.date().isoformat()
+    days = {}
+    for ev in cal["events"]:
+        days.setdefault(ev["date"], []).append(ev)
+    head = ('<thead><tr><th>Heure</th><th>Imp.</th><th>Événement</th><th>Précédent</th>'
+            '<th>Consensus</th><th>Réel</th><th>Réel − préc.</th></tr></thead>')
+
+    def block(title, keys):
+        out = [f"<section><h2>{title}</h2>"]
+        if not keys:
+            out.append('<p class="legend">Aucun événement suivi sur la période.</p>')
+        for d in keys:
+            dd = date_from_iso(d)
+            label = f'{JOURS[dd.weekday()].capitalize()} {fdate(d)}' + (" · aujourd'hui" if d == today else "")
+            out.append(f'<h3 class="day">{label}</h3><div class="tablewrap"><table class="cal">{head}<tbody>'
+                       + "".join(event_rows(e, now) for e in days[d]) + "</tbody></table></div>")
+        out.append("</section>")
+        return "".join(out)
+
+    upcoming = sorted(d for d in days if d >= today)
+    past = sorted((d for d in days if d < today), reverse=True)
+    info = "".join(f"<li>{html.escape(m)}</li>" for m in cal.get("missing", []))
+    warns = "".join(f"<li>{html.escape(w)}</li>" for w in cal.get("warnings", []))
+    intro = ('<p class="legend">Heures de Paris. Importance : ★★★ forte, ★★ moyenne, ★ faible. '
+             'Taux d\'une adjudication = rendement le plus haut servi (« high yield »). '
+             'Valeurs réelles reprises de l\'agent Données dès que la source officielle les publie.</p>')
+    notes = f'<details class="notes"><summary>Limites des sources</summary><ul>{info}{warns}</ul></details>'
+    return intro + block("À venir — 14 jours", upcoming) + block("Publiés — 7 derniers jours", past) + notes
+
+
+def date_from_iso(s):
+    return datetime.fromisoformat(s).date()
+
+
+def _load_json(name):
+    path = os.path.join(DATA, name)
+    if not os.path.exists(path):
+        return None
+    with open(path) as f:
+        return json.load(f)
+
+
 def main():
     with open(os.path.join(DATA, "latest.json")) as f:
         latest = json.load(f)
@@ -191,7 +306,7 @@ def main():
 
     pages = {
         "index.html": ("Tableau de bord", build_dashboard(latest)),
-        "calendrier.html": ("Calendrier", placeholder("L'agent Calendrier arrive à l'étape 3.")),
+        "calendrier.html": ("Calendrier", build_calendar(_load_json("calendar.json"))),
         "actualites.html": ("Actualités", placeholder("L'agent Actualités arrive à l'étape 4.")),
         "newsletter.html": ("Newsletter", placeholder("Les newsletters apparaîtront ici à partir de l'étape 6.")),
         "wraps.html": ("Market Wraps", placeholder("Les market wraps apparaîtront ici à partir de l'étape 6.")),

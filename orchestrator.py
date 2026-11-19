@@ -23,9 +23,26 @@ def in_window(now):
     return OPEN_HOUR <= now.hour <= CLOSE_HOUR
 
 
+def _calendar_refreshed_today(now):
+    path = os.path.join(ROOT, "data", "calendar.json")
+    if not os.path.exists(path):
+        return False
+    with open(path) as f:
+        last = json.load(f).get("refreshed_at") or ""
+    return last[:10] == now.date().isoformat()
+
+
 def plan(now):
-    """Quels agents tournent à cette heure-ci ? (s'enrichira aux étapes 3 et 4)"""
-    return ["data"]
+    """Quels agents tournent à cette heure-ci ?
+    - Données : à chaque passage (en premier : les autres agents lisent ses résultats).
+    - Calendrier : liste complète à 8h (ou au premier passage du jour si celui de 8h a sauté),
+      puis seulement la mise à jour des valeurs publiées les autres heures."""
+    agents = ["data"]
+    if now.hour == OPEN_HOUR or not _calendar_refreshed_today(now):
+        agents.append("calendar_refresh")
+    else:
+        agents.append("calendar_results")
+    return agents
 
 
 def write_log(entry):
@@ -55,6 +72,14 @@ def main():
                 from agents import data
                 res = data.run()
                 entry["agents"][name] = {"ok": True, "errors": len(res["errors"])}
+            elif name == "calendar_refresh":
+                from agents import calendar
+                res = calendar.refresh()
+                entry["agents"][name] = {"ok": True, "events": len(res["events"]), "warnings": len(res["warnings"])}
+            elif name == "calendar_results":
+                from agents import calendar
+                res = calendar.update_results()
+                entry["agents"][name] = {"ok": True, "events": len(res["events"])}
         except Exception as e:  # un agent qui plante n'empêche pas les autres
             traceback.print_exc()
             entry["agents"][name] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:200]}

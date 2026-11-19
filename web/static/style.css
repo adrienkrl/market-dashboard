@@ -58,3 +58,23 @@ footer { color: var(--muted); font-size: 12px; padding: 30px 16px 40px; border-t
   .chg { gap: 8px; font-size: 12px; }
 }
 @media (max-width: 360px) { .grid { grid-template-columns: 1fr; } }
+
+/* ---------- Calendrier ---------- */
+h3.day { font-size: 14px; font-weight: 600; margin: 18px 0 6px; }
+.tablewrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); }
+table.cal { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 640px; }
+table.cal th { text-align: left; color: var(--muted); font-weight: 500; font-size: 11px; text-transform: uppercase; letter-spacing: .04em; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+table.cal td { padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+table.cal tr:last-child td { border-bottom: 0; }
+table.cal td.time { white-space: nowrap; font-weight: 600; }
+table.cal td.ev a { color: var(--text); text-decoration: none; }
+table.cal td.ev a:hover { color: var(--accent); text-decoration: underline; }
+table.cal .sub { color: var(--muted); font-size: 12px; }
+table.cal tr.done td.time { color: var(--muted); }
+.stars { color: var(--warn); letter-spacing: 1px; white-space: nowrap; }
+details.notes { margin: 24px 0; color: var(--muted); font-size: 13px; }
+details.notes summary { cursor: pointer; }
+table.cal { table-layout: fixed; }
+table.cal th:nth-child(1) { width: 62px; } table.cal th:nth-child(2) { width: 52px; }
+table.cal th:nth-child(4), table.cal th:nth-child(6) { width: 110px; }
+table.cal th:nth-child(5) { width: 90px; } table.cal th:nth-child(7) { width: 100px; }
