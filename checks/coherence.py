@@ -92,8 +92,11 @@ def cited_numbers(md):
         n = norm(raw)
         if n is None:
             continue
-        has_unit = bool(UNIT_AFTER.match(after))
+        unit = UNIT_AFTER.match(after)
         is_int = "," not in raw and "." not in raw
+        signed = raw[0] in "+-−"
+        # « 3 points à surveiller » n'est pas une mesure ; « +0,2 point » ou « +3 points » en est une
+        has_unit = bool(unit) and not (unit.group(1).lower().startswith("point") and is_int and not signed)
         if is_int and not has_unit:
             if 1990 <= n <= 2100:
                 continue  # année
