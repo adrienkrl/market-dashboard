@@ -1,6 +1,6 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-20T16:29+01:00",
+"genere_le": "2026-11-20T22:34+01:00",
 "date": "2026-11-20",
 "jour": "vendredi",
 "drapeaux": {
@@ -88,34 +88,34 @@
 "id": "us2y",
 "groupe": "govt",
 "libelle": "US 2 ans",
-"date": "2026-11-18",
-"valeur": "4,80 %",
-"var_1j": "+0 pb",
-"var_1sem": "+7 pb",
-"var_ytd": "+133 pb",
-"var_mois": "+24 pb"
+"date": "2026-11-19",
+"valeur": "4,76 %",
+"var_1j": "-4 pb",
+"var_1sem": "-10 pb",
+"var_ytd": "+129 pb",
+"var_mois": "+20 pb"
 },
 {
 "id": "us10y",
 "groupe": "govt",
 "libelle": "US 10 ans",
-"date": "2026-11-18",
-"valeur": "5,07 %",
+"date": "2026-11-19",
+"valeur": "5,04 %",
 "var_1j": "-3 pb",
-"var_1sem": "+9 pb",
-"var_ytd": "+89 pb",
-"var_mois": "+13 pb"
+"var_1sem": "-6 pb",
+"var_ytd": "+86 pb",
+"var_mois": "+10 pb"
 },
 {
 "id": "us30y",
 "groupe": "govt",
 "libelle": "US 30 ans",
-"date": "2026-11-18",
-"valeur": "5,41 %",
-"var_1j": "-5 pb",
-"var_1sem": "+6 pb",
-"var_ytd": "+57 pb",
-"var_mois": "+10 pb"
+"date": "2026-11-19",
+"valeur": "5,40 %",
+"var_1j": "-1 pb",
+"var_1sem": "-3 pb",
+"var_ytd": "+56 pb",
+"var_mois": "+9 pb"
 },
 {
 "id": "de2y",
@@ -234,12 +234,12 @@
 "id": "us_proxy",
 "groupe": "expect",
 "libelle": "Proxy : US 2 ans – Fed (milieu)",
-"date": "2026-11-18",
-"valeur": "92 pb",
-"var_1j": "+0 pb",
-"var_1sem": "+7 pb",
-"var_ytd": "+108 pb",
-"var_mois": "+24 pb"
+"date": "2026-11-19",
+"valeur": "88 pb",
+"var_1j": "-4 pb",
+"var_1sem": "-10 pb",
+"var_ytd": "+104 pb",
+"var_mois": "+20 pb"
 },
 {
 "id": "eu_proxy",
@@ -257,143 +257,143 @@
 "groupe": "fx",
 "libelle": "EUR/USD",
 "date": "2026-11-20",
-"valeur": "1,0987",
-"var_1j": "+0,13 %",
-"var_1sem": "-0,58 %",
-"var_ytd": "-6,48 %",
-"var_mois": "-1,75 %"
+"valeur": "1,0965",
+"var_1j": "-0,06 %",
+"var_1sem": "-0,77 %",
+"var_ytd": "-6,66 %",
+"var_mois": "-1,95 %"
 },
 {
 "id": "usdjpy",
 "groupe": "fx",
 "libelle": "USD/JPY",
 "date": "2026-11-20",
-"valeur": "158,72",
-"var_1j": "-0,42 %",
-"var_1sem": "-0,72 %",
-"var_ytd": "+1,47 %",
-"var_mois": "+0,58 %"
+"valeur": "158,61",
+"var_1j": "-0,49 %",
+"var_1sem": "-0,79 %",
+"var_ytd": "+1,40 %",
+"var_mois": "+0,51 %"
 },
 {
 "id": "gbpusd",
 "groupe": "fx",
 "libelle": "GBP/USD",
 "date": "2026-11-20",
-"valeur": "1,3109",
-"var_1j": "-0,29 %",
-"var_1sem": "-0,93 %",
-"var_ytd": "-2,66 %",
-"var_mois": "-2,02 %"
+"valeur": "1,3077",
+"var_1j": "-0,53 %",
+"var_1sem": "-1,17 %",
+"var_ytd": "-2,90 %",
+"var_mois": "-2,25 %"
 },
 {
 "id": "eurgbp",
 "groupe": "fx",
 "libelle": "EUR/GBP",
 "date": "2026-11-20",
-"valeur": "0,8378",
-"var_1j": "+0,39 %",
-"var_1sem": "+0,34 %",
-"var_ytd": "-3,95 %",
-"var_mois": "+0,24 %"
+"valeur": "0,8382",
+"var_1j": "+0,44 %",
+"var_1sem": "+0,38 %",
+"var_ytd": "-3,90 %",
+"var_mois": "+0,28 %"
 },
 {
 "id": "usdchf",
 "groupe": "fx",
 "libelle": "USD/CHF",
 "date": "2026-11-20",
-"valeur": "0,8391",
-"var_1j": "-0,52 %",
-"var_1sem": "+0,38 %",
-"var_ytd": "+5,99 %",
-"var_mois": "+1,88 %"
+"valeur": "0,8402",
+"var_1j": "-0,39 %",
+"var_1sem": "+0,51 %",
+"var_ytd": "+6,12 %",
+"var_mois": "+2,01 %"
 },
 {
 "id": "usdcny",
 "groupe": "fx",
 "libelle": "USD/CNY",
 "date": "2026-11-20",
-"valeur": "6,6612",
-"var_1j": "-0,10 %",
-"var_1sem": "-0,14 %",
-"var_ytd": "-4,79 %",
-"var_mois": "+0,00 %"
+"valeur": "6,6623",
+"var_1j": "-0,08 %",
+"var_1sem": "-0,12 %",
+"var_ytd": "-4,77 %",
+"var_mois": "+0,02 %"
 },
 {
 "id": "dxy",
 "groupe": "fx",
 "libelle": "Dollar Index (DXY)",
 "date": "2026-11-20",
-"valeur": "103,72",
-"var_1j": "-0,18 %",
-"var_1sem": "+0,29 %",
-"var_ytd": "+5,53 %",
-"var_mois": "+1,80 %"
+"valeur": "103,89",
+"var_1j": "-0,01 %",
+"var_1sem": "+0,46 %",
+"var_ytd": "+5,70 %",
+"var_mois": "+1,97 %"
 },
 {
 "id": "spx",
 "groupe": "equity",
 "libelle": "S&P 500",
 "date": "2026-11-20",
-"valeur": "7 108,55",
-"var_1j": "-0,94 %",
-"var_1sem": "-5,99 %",
-"var_ytd": "+3,84 %",
-"var_mois": "-6,22 %"
+"valeur": "6 910,39",
+"var_1j": "-3,70 %",
+"var_1sem": "-8,61 %",
+"var_ytd": "+0,95 %",
+"var_mois": "-8,83 %"
 },
 {
 "id": "ndx",
 "groupe": "equity",
 "libelle": "Nasdaq 100",
 "date": "2026-11-20",
-"valeur": "25 908,00",
-"var_1j": "-2,30 %",
-"var_1sem": "-7,29 %",
-"var_ytd": "+2,61 %",
-"var_mois": "-8,73 %"
+"valeur": "25 029,00",
+"var_1j": "-5,61 %",
+"var_1sem": "-10,43 %",
+"var_ytd": "-0,87 %",
+"var_mois": "-11,82 %"
 },
 {
 "id": "sx5e",
 "groupe": "equity",
 "libelle": "Euro Stoxx 50",
 "date": "2026-11-20",
-"valeur": "5 997,26",
-"var_1j": "-1,91 %",
-"var_1sem": "-6,10 %",
-"var_ytd": "+3,47 %",
-"var_mois": "-2,19 %"
+"valeur": "5 941,95",
+"var_1j": "-2,81 %",
+"var_1sem": "-6,97 %",
+"var_ytd": "+2,51 %",
+"var_mois": "-3,09 %"
 },
 {
 "id": "cac",
 "groupe": "equity",
 "libelle": "CAC 40",
 "date": "2026-11-20",
-"valeur": "7 989,11",
-"var_1j": "-1,13 %",
-"var_1sem": "-4,54 %",
-"var_ytd": "-1,97 %",
-"var_mois": "+0,25 %"
+"valeur": "7 927,75",
+"var_1j": "-1,89 %",
+"var_1sem": "-5,27 %",
+"var_ytd": "-2,72 %",
+"var_mois": "-0,52 %"
 },
 {
 "id": "dax",
 "groupe": "equity",
 "libelle": "DAX",
 "date": "2026-11-20",
-"valeur": "25 000,70",
-"var_1j": "-1,82 %",
-"var_1sem": "-6,54 %",
-"var_ytd": "+2,08 %",
-"var_mois": "-3,17 %"
+"valeur": "24 802,80",
+"var_1j": "-2,60 %",
+"var_1sem": "-7,28 %",
+"var_ytd": "+1,28 %",
+"var_mois": "-3,93 %"
 },
 {
 "id": "ftse",
 "groupe": "equity",
 "libelle": "FTSE 100",
 "date": "2026-11-20",
-"valeur": "10 415,80",
-"var_1j": "-0,35 %",
-"var_1sem": "-4,46 %",
-"var_ytd": "+4,88 %",
-"var_mois": "-2,93 %"
+"valeur": "10 346,30",
+"var_1j": "-1,02 %",
+"var_1sem": "-5,10 %",
+"var_ytd": "+4,18 %",
+"var_mois": "-3,57 %"
 },
 {
 "id": "nikkei",
@@ -422,33 +422,33 @@
 "groupe": "equity",
 "libelle": "MSCI EM (proxy ETF EEM, $)",
 "date": "2026-11-20",
-"valeur": "55,12",
-"var_1j": "-2,86 %",
-"var_1sem": "-9,51 %",
-"var_ytd": "+0,76 %",
-"var_mois": "-9,69 %"
+"valeur": "53,84",
+"var_1j": "-5,13 %",
+"var_1sem": "-11,62 %",
+"var_ytd": "-1,59 %",
+"var_mois": "-11,80 %"
 },
 {
 "id": "vix",
 "groupe": "vol",
 "libelle": "VIX",
 "date": "2026-11-20",
-"valeur": "27,81",
-"var_1j": "-2,22 %",
-"var_1sem": "+44,09 %",
-"var_ytd": "+86,02 %",
-"var_mois": "+43,20 %"
+"valeur": "35,89",
+"var_1j": "+26,20 %",
+"var_1sem": "+85,96 %",
+"var_ytd": "+140,07 %",
+"var_mois": "+84,81 %"
 },
 {
 "id": "move",
 "groupe": "vol",
 "libelle": "MOVE (vol. taux US)",
 "date": "2026-11-20",
-"valeur": "99,94",
-"var_1j": "+4,07 %",
-"var_1sem": "+1,17 %",
-"var_ytd": "+56,26 %",
-"var_mois": "-0,25 %"
+"valeur": "106,31",
+"var_1j": "+10,70 %",
+"var_1sem": "+7,61 %",
+"var_ytd": "+66,22 %",
+"var_mois": "+6,10 %"
 },
 {
 "id": "us_ig",
@@ -482,77 +482,77 @@
 "groupe": "commo",
 "libelle": "Brent ($/b)",
 "date": "2026-11-20",
-"valeur": "88,24",
-"var_1j": "-4,07 %",
-"var_1sem": "-7,93 %",
-"var_ytd": "+45,01 %",
-"var_mois": "-24,99 %"
+"valeur": "90,03",
+"var_1j": "-2,12 %",
+"var_1sem": "-6,06 %",
+"var_ytd": "+47,95 %",
+"var_mois": "-23,47 %"
 },
 {
 "id": "wti",
 "groupe": "commo",
 "libelle": "WTI ($/b)",
 "date": "2026-11-20",
-"valeur": "81,55",
-"var_1j": "-1,99 %",
-"var_1sem": "-7,92 %",
-"var_ytd": "+42,02 %",
-"var_mois": "-21,68 %"
+"valeur": "83,77",
+"var_1j": "+0,67 %",
+"var_1sem": "-5,41 %",
+"var_ytd": "+45,89 %",
+"var_mois": "-19,54 %"
 },
 {
 "id": "ttf",
 "groupe": "commo",
 "libelle": "Gaz TTF (€/MWh)",
 "date": "2026-11-20",
-"valeur": "87,30",
-"var_1j": "+3,37 %",
-"var_1sem": "-4,02 %",
-"var_ytd": "+210,00 %",
-"var_mois": "-16,01 %"
+"valeur": "88,70",
+"var_1j": "+5,03 %",
+"var_1sem": "-2,48 %",
+"var_ytd": "+214,97 %",
+"var_mois": "-14,67 %"
 },
 {
 "id": "gold",
 "groupe": "commo",
 "libelle": "Or ($/oz)",
 "date": "2026-11-20",
-"valeur": "3 548,1",
-"var_1j": "-3,73 %",
-"var_1sem": "-8,70 %",
-"var_ytd": "-18,27 %",
-"var_mois": "-9,00 %"
+"valeur": "3 523,0",
+"var_1j": "-4,41 %",
+"var_1sem": "-9,35 %",
+"var_ytd": "-18,85 %",
+"var_mois": "-9,64 %"
 },
 {
 "id": "silver",
 "groupe": "commo",
 "libelle": "Argent ($/oz)",
 "date": "2026-11-20",
-"valeur": "41,62",
-"var_1j": "-6,10 %",
-"var_1sem": "-15,13 %",
-"var_ytd": "-40,66 %",
-"var_mois": "-15,24 %"
+"valeur": "40,83",
+"var_1j": "-7,87 %",
+"var_1sem": "-16,73 %",
+"var_ytd": "-41,78 %",
+"var_mois": "-16,84 %"
 },
 {
 "id": "copper",
 "groupe": "commo",
 "libelle": "Cuivre ($/lb)",
 "date": "2026-11-20",
-"valeur": "5,526",
-"var_1j": "-1,76 %",
-"var_1sem": "-9,10 %",
-"var_ytd": "-1,85 %",
-"var_mois": "-14,44 %"
+"valeur": "5,462",
+"var_1j": "-2,90 %",
+"var_1sem": "-10,16 %",
+"var_ytd": "-2,98 %",
+"var_mois": "-15,43 %"
 },
 {
 "id": "btc",
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
 "date": "2026-11-20",
-"valeur": "60 227",
-"var_1j": "-2,71 %",
-"var_1sem": "-11,75 %",
-"var_ytd": "-31,18 %",
-"var_mois": "-22,22 %"
+"valeur": "58 583",
+"var_1j": "-5,36 %",
+"var_1sem": "-14,16 %",
+"var_ytd": "-33,05 %",
+"var_mois": "-24,34 %"
 },
 {
 "id": "us_cpi",
@@ -720,6 +720,18 @@
 ],
 "top10_actualites": [
 {
+"id": "fd2811614640",
+"titre": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+"source": "The Guardian – business",
+"lien": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+"note": 4,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-20T17:26+01:00"
+},
+{
 "id": "cf8738295f10",
 "titre": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
 "source": "Financial Times",
@@ -757,28 +769,38 @@
 "heure": "2026-11-19T15:25+01:00"
 },
 {
-"id": "dbea10a75a84",
-"titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+"id": "137217fbade8",
+"titre": "Federal Reserve announces College Fed Challenge winners",
 "source": "Fed – communiqués",
-"lien": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-"note": 4,
+"lien": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+"note": 3,
 "themes": [
-"Événement clé",
 "Banque centrale"
 ],
-"heure": "2026-11-18T20:00+01:00"
+"heure": "2026-11-20T22:15+01:00"
 },
 {
-"id": "8a3dc2d04dd6",
-"titre": "Barr, Investing in America’s Underserved Communities",
-"source": "Fed – discours",
-"lien": "https://www.federalreserve.gov/newsevents/speech/barr20261118a.htm",
-"note": 4,
+"id": "ca0b6701fd38",
+"titre": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+"source": "CNBC – marchés",
+"lien": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+"note": 3,
 "themes": [
-"Banque centrale",
+"Risque & crédit",
 "Marchés"
 ],
-"heure": "2026-11-18T19:35+01:00"
+"heure": "2026-11-20T20:59+01:00"
+},
+{
+"id": "da9cc5ebd5f3",
+"titre": "Cook, The U.S. Economy in Global Context",
+"source": "Fed – discours",
+"lien": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
+"note": 3,
+"themes": [
+"Banque centrale"
+],
+"heure": "2026-11-20T18:15+01:00"
 },
 {
 "id": "62496b2db133",
@@ -813,38 +835,17 @@
 "Banque centrale"
 ],
 "heure": "2026-11-20T14:25+01:00"
-},
-{
-"id": "8bf1339f28ae",
-"titre": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
-"source": "MarketWatch",
-"lien": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
-"note": 3,
-"themes": [
-"Risque & crédit",
-"Marchés"
-],
-"heure": "2026-11-20T13:43+01:00"
-},
-{
-"id": "5a2f925a88ec",
-"titre": "Christine Lagarde: Acting in time",
-"source": "BCE – communiqués",
-"lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
-"note": 3,
-"themes": [
-"Banque centrale"
-],
-"heure": "2026-11-20T09:30+01:00"
 }
 ],
-"wraps_du_mois": [],
+"wraps_du_mois": [
+"content/wraps/2026-11-20.md"
+],
 "alertes_sources": {},
 "controles_du_mois": {
 "mois": "2026-11",
-"textes_controles": 4,
+"textes_controles": 5,
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "5ceaad3466b553c2"
+"empreinte": "15761f8e99a33a96"
 }
