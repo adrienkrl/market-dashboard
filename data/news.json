@@ -1,7 +1,40 @@
 {
- "updated_at": "2026-11-19T21:07+01:00",
+ "updated_at": "2026-11-20T08:42+01:00",
  "keep_hours": 48,
  "items": [
+  {
+   "id": "cf8738295f10",
+   "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
+   "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T06:00+01:00",
+   "themes": [
+    "Inflation",
+    "Marchés",
+    "Budget & souverains"
+   ],
+   "assets": [
+    "oil"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "4adcecd39d3e",
+   "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "source": "CNBC – économie",
+   "reliability": 2,
+   "published": "2026-11-19T21:21+01:00",
+   "themes": [
+    "Banque centrale",
+    "Risque & crédit"
+   ],
+   "assets": [],
+   "score": 4,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
   {
    "id": "c8279dbe2376",
    "title": "Jefferson, Monetary Policy amid Frequent and Complex Shocks",
@@ -46,6 +79,21 @@
    "assets": [],
    "score": 4,
    "first_seen": "2026-11-19T17:26+01:00"
+  },
+  {
+   "id": "8a54b85e84cb",
+   "title": "Markets are sending troubling signals about the state of the economy",
+   "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T22:57+01:00",
+   "themes": [
+    "Risque & crédit",
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 3,
+   "first_seen": "2026-11-20T08:42+01:00"
   },
   {
    "id": "318382abda6b",
@@ -120,6 +168,230 @@
    "assets": [],
    "score": 3,
    "first_seen": "2026-11-19T17:26+01:00"
+  },
+  {
+   "id": "18b598518360",
+   "title": "Asian stocks headed for worst week since 2020 as Anthropic IPO fails to end AI rout – business live",
+   "link": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-20T08:32+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "41a333d608be",
+   "title": "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
+   "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-20T08:30+01:00",
+   "themes": [
+    "Emploi & croissance"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "6a473a96dfd3",
+   "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
+   "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T08:29+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "79fa21ef1dae",
+   "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
+   "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-20T08:25+01:00",
+   "themes": [
+    "Budget & souverains"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "fb635d8eceb2",
+   "title": "Anthropic’s Wall Street stimulus fades",
+   "link": "https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T06:00+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "b0c10160f8df",
+   "title": "The rift between the US and EU on banks is widening",
+   "link": "https://www.ft.com/content/cf6e81b6-e3aa-4475-8d5b-04eb8809d5ce?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T06:00+01:00",
+   "themes": [
+    "Banque centrale"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "3b9bb6f33db2",
+   "title": "Monetary and Economic Studies (2026)",
+   "link": "http://www.boj.or.jp/en/research/imes/mes/mes26.htm",
+   "source": "Banque du Japon",
+   "reliability": 3,
+   "published": "2026-11-20T03:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "85e518edc048",
+   "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+   "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+   "source": "CNBC – économie",
+   "reliability": 2,
+   "published": "2026-11-20T02:49+01:00",
+   "themes": [
+    "Inflation"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "15f1d8c94111",
+   "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+   "link": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T01:15+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "260bb6773fda",
+   "title": "After Anthropic’s ‘bittersweet’ IPO, here’s what lies ahead",
+   "link": "https://www.marketwatch.com/story/after-anthropics-bittersweet-ipo-heres-what-lies-ahead-8c32fdb7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-20T00:56+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "5bd0a548ad8f",
+   "title": "IA : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/20/intelligence-artificielle-l-action-anthropic-finit-sa-premiere-journee-en-hausse-de-17-et-valorise-l-entreprise-a-1-280-milliards-de-dollars_6813415_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-20T00:30+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "648b1fe6eb32",
+   "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+   "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-20T00:11+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "3e40d072b184",
+   "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+   "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T23:53+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "cf2fc4cee436",
+   "title": "Anthropic’s rocketing IPO",
+   "link": "https://www.ft.com/content/a7e598c1-90b2-41c8-917c-f6fca2dfe5ea?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-19T22:44+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [
+    "nasdaq"
+   ],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "4460d2fd5d32",
+   "title": "Anthropic shares jump 17% after record Wall Street listing",
+   "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-19T22:02+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "c1e5edac8890",
+   "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+   "source": "CNBC – économie",
+   "reliability": 2,
+   "published": "2026-11-19T21:18+01:00",
+   "themes": [
+    "Banque centrale"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-20T08:42+01:00"
   },
   {
    "id": "b3f470b81c37",
@@ -960,75 +1232,414 @@
    "first_seen": "2026-11-19T17:26+01:00"
   },
   {
-   "id": "15646125e56b",
-   "title": "The name’s bond",
-   "link": "https://www.ft.com/content/38a2ce31-d7f5-48d0-a8b6-2b4f3ed45df6?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-18T07:30+01:00",
-   "themes": [
-    "Budget & souverains"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "7a4d124930ea",
-   "title": "When’s the crash? Ask a journalist",
-   "link": "https://www.ft.com/content/fe1766dc-b899-4e34-b68e-a99df8d660f1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-18T07:00+01:00",
-   "themes": [
-    "Risque & crédit"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "aa5360fcc454",
-   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+   "id": "5b5e77b6ee8e",
+   "title": "Should AI be judging our credit worthiness?",
+   "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "reliability": 2,
-   "published": "2026-11-18T05:00+01:00",
-   "themes": [
-    "Budget & souverains"
-   ],
+   "published": "2026-11-20T08:32+01:00",
+   "themes": [],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
   },
   {
-   "id": "60ce8f1ae43d",
-   "title": "Can Labour end the youth unemployment crisis? – podcast",
-   "link": "https://www.theguardian.com/news/audio/2026/nov/18/can-labour-end-the-youth-unemployment-crisis-podcast",
+   "id": "91f1d366ea89",
+   "title": "CAC 40  : Claude entre au pic de sa forme, sans relancer pour autant la thématique IA",
+   "link": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-claude-entre-au-pic-de-sa-forme-sans-relancer-pour-autant-la-thematique-ia-1174141.html",
+   "source": "BFM Bourse",
+   "reliability": 1,
+   "published": "2026-11-20T08:30+01:00",
+   "themes": [],
+   "assets": [
+    "cac 40"
+   ],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "541841f17586",
+   "title": "Les découverts bancaires de moins de 200 euros désormais considérés comme des crédits à la consommation",
+   "link": "https://www.lemonde.fr/argent/article/2026/11/20/les-decouverts-bancaires-de-moins-de-200-euros-desormais-consideres-comme-des-credits-a-la-consommation_6813600_1657007.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-20T08:26+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "334aaaf1d28c",
+   "title": "Light-filled homes for sale in England – in pictures",
+   "link": "https://www.theguardian.com/money/gallery/2026/nov/20/light-filled-homes-for-sale-in-england-in-pictures",
    "source": "The Guardian – business",
    "reliability": 2,
-   "published": "2026-11-18T04:00+01:00",
-   "themes": [
-    "Emploi & croissance",
-    "Risque & crédit"
-   ],
+   "published": "2026-11-20T08:00+01:00",
+   "themes": [],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
   },
   {
-   "id": "1eb6c4f0c38d",
-   "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
+   "id": "041783ec588a",
+   "title": "Aéronautique : Ascendance dévoile le premier avion européen natif en hybride-électrique",
+   "link": "https://www.latribune.fr/article/defense-aerospatiale/aeronautique-defense/57028372863934/aeronautique-ascendance-devoile-le-premier-avion-europeen-natif-en-hybride-electrique",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-20T07:48+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "d9ea20a6f43b",
+   "title": "A bubble in . . . defensive stocks?",
+   "link": "https://www.ft.com/content/a5ea2860-6f59-4898-a98b-04aaa0583962?syn-25a6b1a6=1",
+   "source": "Financial Times",
    "reliability": 2,
-   "published": "2026-11-18T02:18+01:00",
+   "published": "2026-11-20T07:30+01:00",
    "themes": [
     "Marchés"
    ],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "a2731e3fd10e",
+   "title": "Le sommet de Paris contre l’oligarchie internationale, un clin d’œil au colloque Lippmann qui a inventé le néolibéralisme",
+   "link": "https://www.lemonde.fr/idees/article/2026/11/20/le-sommet-de-paris-contre-l-oligarchie-internationale-un-clin-d-il-au-colloque-lippmann-qui-a-invente-le-neoliberalisme_6813596_3232.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-20T07:30+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "66d772a846a0",
+   "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+   "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-20T07:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "5a1637ee3782",
+   "title": "Retour sur la Lune : la Nasa toujours (trop ?) ambitieuse",
+   "link": "https://air-cosmos.latribune.fr/article/espace/89962866035838/retour-sur-la-lune-la-nasa-toujours-trop-ambitieuse",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-20T07:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "d8fdcd3b9c02",
+   "title": "Budget 2027 : pourquoi le Sénat doit trouver 12 milliards d’euros d'économies supplémentaires",
+   "link": "https://www.latribune.fr/article/economie/33803303392615/budget-2027-pourquoi-le-senat-doit-encore-trouver-12-milliards-d-euros-deconomies-supplementaires",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-20T07:00+01:00",
+   "themes": [
+    "Budget & souverains"
+   ],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "8bbb80a3d75a",
+   "title": "Peau artificielle vivante : Urgo veut greffer les premiers patients avant 2040",
+   "link": "https://www.latribune.fr/article/economie/1686311532021214/peau-artificielle-vivante-urgo-veut-greffer-les-premiers-patients-avant-2040",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-20T06:45+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "fc283a6b3755",
+   "title": "So, Anthropic is finally a public company. What now?",
+   "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T06:19+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "ef46fe0fbbcc",
+   "title": "Les nouvelles règles d’Airbnb suscitent la colère des petits propriétaires : « Le fait de payer n’offre pas tous les droits »",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/20/vaisselle-poubelles-draps-les-nouvelles-regles-d-airbnb-suscitent-la-colere-des-petits-proprietaires_6813590_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-20T06:03+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "b3d77399a1e9",
+   "title": "Trump to host memecoin dinner as Democrats take aim at ‘conflicts of interest’",
+   "link": "https://www.ft.com/content/0cb87e56-2b97-4c91-bfa7-a7ab616fd58e?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T06:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "86e1cd59b145",
+   "title": "Worldline bolstered cash flow through delayed payments and early receipts",
+   "link": "https://www.ft.com/content/81d9e216-c04f-43f2-a221-d1da2a53ee50?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T06:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "ab089a370b75",
+   "title": "How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs",
+   "link": "https://www.ft.com/content/221a6fc4-01ac-48fd-95e8-1efb094c3e8d?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T06:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "f241d6c1cdf2",
+   "title": "Is Britain’s state wealth fund putting its billions in the right places?",
+   "link": "https://www.ft.com/content/4c501172-405a-4719-8010-b846383e3e3f?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T06:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "a62258e99e35",
+   "title": "China prepares to restart US private equity investments after pullback",
+   "link": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T06:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "9683466bbdd5",
+   "title": "Comment le problème oligarchique s’est imposé dans le débat démocratique",
+   "link": "https://www.lemonde.fr/idees/article/2026/11/20/comment-le-probleme-oligarchique-s-est-impose-dans-le-debat-democratique_6813586_3232.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-20T06:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "4770e0ec5ddb",
+   "title": "Comment la France a échoué à enrayer sa désindustrialisation : « Plus de 3 000 usines ont fermé depuis 2009 »",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/20/comment-la-france-a-echoue-a-enrayer-sa-desindustrialisation-plus-de-3-000-usines-ont-ferme-depuis-2009_6813580_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-20T05:45+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "6bca88fd82c0",
+   "title": "En Lozère, au sommet d’une montagne, un radar traque les trajectoires suspectes de satellites",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/20/en-lozere-au-sommet-d-une-montagne-un-radar-traque-les-trajectoires-suspectes-de-satellites_6813556_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-20T05:30+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "5aca005e2cdf",
+   "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-20T04:31+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "819d3babef6f",
+   "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-20T03:54+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "8e3d04f61529",
+   "title": "Airbnb's divisive new house rules come into force",
+   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-20T01:12+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "9dbb17faab1d",
+   "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+   "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-20T01:08+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "8a894f1e2424",
+   "title": "Vie chère en outre-mer : l’Assemblée nationale vote une « petite avancée »",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/20/les-deputes-votent-une-petite-avancee-contre-la-vie-chere-en-outre-mer_6813481_823448.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-20T01:08+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "91681bf0848f",
+   "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+   "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-20T01:02+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "31a405b15c37",
+   "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+   "source": "CNBC – marchés",
+   "reliability": 2,
+   "published": "2026-11-20T01:00+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "779c3aaa135e",
+   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-20T00:33+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "28fefe16dbf3",
+   "title": "California targets Nvidia in China AI chip probe",
+   "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-20T00:04+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "669b5a14cdf6",
+   "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+   "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T23:12+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "c74256fff44a",
+   "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-19T22:45+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
+  },
+  {
+   "id": "4bb9ca2e97dd",
+   "title": "Pour sa première (et historique)  journée à la Bourse de New York, Anthropic a fait un carton (+17%) sans toutefois parvenir à rassurer Wall Street sur l&#039;avenir de l&#039;IA",
+   "link": "https://www.tradingsat.com/actualites/informations-societes/pour-sa-premiere-et-historique-journee-a-la-bourse-de-new-york-anthropic-a-fait-un-carton-17-sans-toutefois-parvenir-a-rassurer-wall-street-sur-l-avenir-de-l-ia-1174132.html",
+   "source": "BFM Bourse",
+   "reliability": 1,
+   "published": "2026-11-19T22:06+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-20T08:42+01:00"
   },
   {
    "id": "82e106561f95",
@@ -2345,118 +2956,6 @@
    "assets": [
     "cac 40"
    ],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "dd0b8a370e0d",
-   "title": "CAC 40  : NVidia dépasse les attentes et relève ses perspectives",
-   "link": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-nvidia-depasse-les-attentes-et-releve-ses-perspectives-1173982.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-18T08:30+01:00",
-   "themes": [],
-   "assets": [
-    "cac 40"
-   ],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "f2571879ac65",
-   "title": "How important are Nvidia and Jensen Huang to the US economy?",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-18T07:04+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "4544e1a0a66d",
-   "title": "Brussels to tap Russian frozen asset profits to service new Ukraine loan",
-   "link": "https://www.ft.com/content/08ad089e-bc58-4e0d-b458-a2c4e1dc86f2?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-18T07:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "7722fdb83278",
-   "title": "«Les opérations d&#039;une vie»... Après SpaceX, l&#039;introduction en Bourse d&#039;Anthropic va provoquer des milliards d&#039;achats contraints",
-   "link": "https://www.tradingsat.com/actualites/informations-societes/les-operations-d-une-vie-apres-spacex-l-introduction-en-bourse-d-anthropic-va-provoquer-des-milliards-d-achats-contraints-1173838.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-18T06:00+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "942df5e1cc0d",
-   "title": "Waymo pulls driverless taxis from all US freeways",
-   "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-18T04:07+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "5ecd266f9306",
-   "title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
-   "link": "https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-18T01:41+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "66d74eefcb23",
-   "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-   "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
-   "source": "CNBC – économie",
-   "reliability": 2,
-   "published": "2026-11-18T01:35+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "ca73aba529d8",
-   "title": "Europe plans to catch the next computer chip wave",
-   "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-18T01:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "3e19db2c7da4",
-   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-18T00:02+01:00",
-   "themes": [],
-   "assets": [],
    "score": 1,
    "first_seen": "2026-11-19T17:26+01:00"
   }

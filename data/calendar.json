@@ -1,6 +1,6 @@
 {
- "refreshed_at": "2026-11-19T21:07+01:00",
- "updated_at": "2026-11-19T21:07+01:00",
+ "refreshed_at": "2026-11-20T08:42+01:00",
+ "updated_at": "2026-11-20T08:42+01:00",
  "events": [
   {
    "id": "us_retail-2026-11-17",
@@ -196,6 +196,44 @@
      "unit": "%",
      "previous": 6.5,
      "previous_period": "2026-09-01"
+    }
+   }
+  },
+  {
+   "id": "ea_retail-2026-12-04",
+   "kind": "macro",
+   "label": "Ventes au détail zone euro",
+   "stars": 1,
+   "date": "2026-12-04",
+   "time_paris": "2026-12-04T11:00+01:00",
+   "series": null,
+   "series2": null,
+   "source": "Eurostat – calendrier de diffusion",
+   "url": "https://ec.europa.eu/eurostat/news/release-calendar"
+  },
+  {
+   "id": "nfp-2026-12-04",
+   "kind": "macro",
+   "label": "Emploi US (NFP, chômage)",
+   "stars": 3,
+   "date": "2026-12-04",
+   "time_paris": "2026-12-04T14:30+01:00",
+   "series": "nfp",
+   "series2": "us_unemp",
+   "source": "FRED – calendrier des publications",
+   "url": "https://fred.stlouisfed.org/release?rid=50",
+   "values": {
+    "nfp": {
+     "label": "NFP US (créations, milliers)",
+     "unit": "k",
+     "previous": 165.0,
+     "previous_period": "2026-10-01"
+    },
+    "us_unemp": {
+     "label": "Chômage US",
+     "unit": "%",
+     "previous": 4.1,
+     "previous_period": "2026-10-01"
     }
    }
   }
