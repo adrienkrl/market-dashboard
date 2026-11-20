@@ -1,6 +1,6 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-20T22:34+01:00",
+"genere_le": "2026-11-20T23:41+01:00",
 "date": "2026-11-20",
 "jour": "vendredi",
 "drapeaux": {
@@ -201,12 +201,12 @@
 "id": "us2s10s",
 "groupe": "spreads",
 "libelle": "Pente US 2s10s",
-"date": "2026-11-19",
-"valeur": "28 pb",
+"date": "2026-11-20",
+"valeur": "29 pb",
 "var_1j": "+1 pb",
-"var_1sem": "+4 pb",
-"var_ytd": "-43 pb",
-"var_mois": "-10 pb"
+"var_1sem": "+2 pb",
+"var_ytd": "-42 pb",
+"var_mois": "-9 pb"
 },
 {
 "id": "de2s10s",
@@ -223,12 +223,12 @@
 "id": "us_be10",
 "groupe": "expect",
 "libelle": "Point mort d'inflation US 10 ans",
-"date": "2026-11-19",
-"valeur": "2,16 %",
-"var_1j": "-3 pb",
-"var_1sem": "-8 pb",
-"var_ytd": "-9 pb",
-"var_mois": "-18 pb"
+"date": "2026-11-20",
+"valeur": "2,15 %",
+"var_1j": "-1 pb",
+"var_1sem": "-9 pb",
+"var_ytd": "-10 pb",
+"var_mois": "-19 pb"
 },
 {
 "id": "us_proxy",
@@ -257,77 +257,77 @@
 "groupe": "fx",
 "libelle": "EUR/USD",
 "date": "2026-11-20",
-"valeur": "1,0965",
-"var_1j": "-0,06 %",
-"var_1sem": "-0,77 %",
-"var_ytd": "-6,66 %",
-"var_mois": "-1,95 %"
+"valeur": "1,0975",
+"var_1j": "+0,02 %",
+"var_1sem": "-0,69 %",
+"var_ytd": "-6,58 %",
+"var_mois": "-1,86 %"
 },
 {
 "id": "usdjpy",
 "groupe": "fx",
 "libelle": "USD/JPY",
 "date": "2026-11-20",
-"valeur": "158,61",
-"var_1j": "-0,49 %",
-"var_1sem": "-0,79 %",
-"var_ytd": "+1,40 %",
-"var_mois": "+0,51 %"
+"valeur": "158,51",
+"var_1j": "-0,55 %",
+"var_1sem": "-0,85 %",
+"var_ytd": "+1,34 %",
+"var_mois": "+0,45 %"
 },
 {
 "id": "gbpusd",
 "groupe": "fx",
 "libelle": "GBP/USD",
 "date": "2026-11-20",
-"valeur": "1,3077",
-"var_1j": "-0,53 %",
-"var_1sem": "-1,17 %",
-"var_ytd": "-2,90 %",
-"var_mois": "-2,25 %"
+"valeur": "1,3082",
+"var_1j": "-0,49 %",
+"var_1sem": "-1,13 %",
+"var_ytd": "-2,86 %",
+"var_mois": "-2,22 %"
 },
 {
 "id": "eurgbp",
 "groupe": "fx",
 "libelle": "EUR/GBP",
 "date": "2026-11-20",
-"valeur": "0,8382",
-"var_1j": "+0,44 %",
-"var_1sem": "+0,38 %",
-"var_ytd": "-3,90 %",
-"var_mois": "+0,28 %"
+"valeur": "0,8381",
+"var_1j": "+0,43 %",
+"var_1sem": "+0,37 %",
+"var_ytd": "-3,91 %",
+"var_mois": "+0,27 %"
 },
 {
 "id": "usdchf",
 "groupe": "fx",
 "libelle": "USD/CHF",
 "date": "2026-11-20",
-"valeur": "0,8402",
-"var_1j": "-0,39 %",
-"var_1sem": "+0,51 %",
-"var_ytd": "+6,12 %",
-"var_mois": "+2,01 %"
+"valeur": "0,8396",
+"var_1j": "-0,47 %",
+"var_1sem": "+0,43 %",
+"var_ytd": "+6,04 %",
+"var_mois": "+1,94 %"
 },
 {
 "id": "usdcny",
 "groupe": "fx",
 "libelle": "USD/CNY",
 "date": "2026-11-20",
-"valeur": "6,6623",
-"var_1j": "-0,08 %",
-"var_1sem": "-0,12 %",
-"var_ytd": "-4,77 %",
-"var_mois": "+0,02 %"
+"valeur": "6,6765",
+"var_1j": "+0,13 %",
+"var_1sem": "+0,09 %",
+"var_ytd": "-4,57 %",
+"var_mois": "+0,23 %"
 },
 {
 "id": "dxy",
 "groupe": "fx",
 "libelle": "Dollar Index (DXY)",
 "date": "2026-11-20",
-"valeur": "103,89",
-"var_1j": "-0,01 %",
-"var_1sem": "+0,46 %",
-"var_ytd": "+5,70 %",
-"var_mois": "+1,97 %"
+"valeur": "103,84",
+"var_1j": "-0,06 %",
+"var_1sem": "+0,42 %",
+"var_ytd": "+5,66 %",
+"var_mois": "+1,92 %"
 },
 {
 "id": "spx",
@@ -482,22 +482,22 @@
 "groupe": "commo",
 "libelle": "Brent ($/b)",
 "date": "2026-11-20",
-"valeur": "90,03",
-"var_1j": "-2,12 %",
-"var_1sem": "-6,06 %",
-"var_ytd": "+47,95 %",
-"var_mois": "-23,47 %"
+"valeur": "89,87",
+"var_1j": "-2,29 %",
+"var_1sem": "-6,23 %",
+"var_ytd": "+47,69 %",
+"var_mois": "-23,61 %"
 },
 {
 "id": "wti",
 "groupe": "commo",
 "libelle": "WTI ($/b)",
 "date": "2026-11-20",
-"valeur": "83,77",
-"var_1j": "+0,67 %",
-"var_1sem": "-5,41 %",
-"var_ytd": "+45,89 %",
-"var_mois": "-19,54 %"
+"valeur": "83,62",
+"var_1j": "+0,49 %",
+"var_1sem": "-5,58 %",
+"var_ytd": "+45,63 %",
+"var_mois": "-19,69 %"
 },
 {
 "id": "ttf",
@@ -515,44 +515,44 @@
 "groupe": "commo",
 "libelle": "Or ($/oz)",
 "date": "2026-11-20",
-"valeur": "3 523,0",
-"var_1j": "-4,41 %",
-"var_1sem": "-9,35 %",
-"var_ytd": "-18,85 %",
-"var_mois": "-9,64 %"
+"valeur": "3 539,0",
+"var_1j": "-3,98 %",
+"var_1sem": "-8,94 %",
+"var_ytd": "-18,48 %",
+"var_mois": "-9,23 %"
 },
 {
 "id": "silver",
 "groupe": "commo",
 "libelle": "Argent ($/oz)",
 "date": "2026-11-20",
-"valeur": "40,83",
-"var_1j": "-7,87 %",
-"var_1sem": "-16,73 %",
-"var_ytd": "-41,78 %",
-"var_mois": "-16,84 %"
+"valeur": "41,08",
+"var_1j": "-7,31 %",
+"var_1sem": "-16,22 %",
+"var_ytd": "-41,43 %",
+"var_mois": "-16,33 %"
 },
 {
 "id": "copper",
 "groupe": "commo",
 "libelle": "Cuivre ($/lb)",
 "date": "2026-11-20",
-"valeur": "5,462",
-"var_1j": "-2,90 %",
-"var_1sem": "-10,16 %",
-"var_ytd": "-2,98 %",
-"var_mois": "-15,43 %"
+"valeur": "5,465",
+"var_1j": "-2,84 %",
+"var_1sem": "-10,11 %",
+"var_ytd": "-2,93 %",
+"var_mois": "-15,38 %"
 },
 {
 "id": "btc",
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
 "date": "2026-11-20",
-"valeur": "58 583",
-"var_1j": "-5,36 %",
-"var_1sem": "-14,16 %",
-"var_ytd": "-33,05 %",
-"var_mois": "-24,34 %"
+"valeur": "59 076",
+"var_1j": "-4,56 %",
+"var_1sem": "-13,44 %",
+"var_ytd": "-32,49 %",
+"var_mois": "-23,71 %"
 },
 {
 "id": "us_cpi",
@@ -769,6 +769,18 @@
 "heure": "2026-11-19T15:25+01:00"
 },
 {
+"id": "6eb83dcfe68d",
+"titre": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+"note": 3,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-20T22:52+01:00"
+},
+{
 "id": "137217fbade8",
 "titre": "Federal Reserve announces College Fed Challenge winners",
 "source": "Fed – communiqués",
@@ -824,17 +836,6 @@
 "Marchés"
 ],
 "heure": "2026-11-20T15:01+01:00"
-},
-{
-"id": "b31d9867d890",
-"titre": "Waller, Opening Remarks",
-"source": "Fed – discours",
-"lien": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
-"note": 3,
-"themes": [
-"Banque centrale"
-],
-"heure": "2026-11-20T14:25+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -847,5 +848,5 @@
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "15761f8e99a33a96"
+"empreinte": "b3c5fbe389fe4a6d"
 }
