@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:41+01:00",
+ "generated_at": "2026-11-21T15:39+01:00",
  "groups": [
   {
    "id": "policy",
@@ -60,16 +60,12 @@
    "show_bp": null,
    "restricted": null,
    "display": "fed_range",
-   "date": "2026-11-20",
+   "date": "2026-11-21",
    "value": 4.0,
    "chg_1d": 0.0,
    "chg_1w": 0.0,
    "chg_ytd": 25.0,
    "spark": [
-    [
-     "2026-08-20",
-     3.75
-    ],
     [
      "2026-08-21",
      3.75
@@ -436,6 +432,10 @@
     ],
     [
      "2026-11-20",
+     4.0
+    ],
+    [
+     "2026-11-21",
      4.0
     ]
    ],
@@ -5692,7 +5692,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "usdjpy",
@@ -5983,7 +5983,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "gbpusd",
@@ -5998,16 +5998,12 @@
    "show_bp": null,
    "restricted": null,
    "display": null,
-   "date": "2026-11-20",
-   "value": 1.30864,
-   "chg_1d": -0.46,
-   "chg_1w": -1.1,
-   "chg_ytd": -2.83,
+   "date": "2026-11-21",
+   "value": 1.30818,
+   "chg_1d": -0.04,
+   "chg_1w": -1.13,
+   "chg_ytd": -2.86,
    "spark": [
-    [
-     "2026-08-20",
-     1.35999
-    ],
     [
      "2026-08-21",
      1.36435
@@ -6271,10 +6267,14 @@
     [
      "2026-11-20",
      1.30864
+    ],
+    [
+     "2026-11-21",
+     1.30818
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "eurgbp",
@@ -6565,7 +6565,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "usdchf",
@@ -6856,7 +6856,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "usdcny",
@@ -7147,7 +7147,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "dxy",
@@ -7434,7 +7434,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "spx",
@@ -7721,7 +7721,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "ndx",
@@ -8008,7 +8008,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "sx5e",
@@ -8299,7 +8299,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "cac",
@@ -8590,7 +8590,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "dax",
@@ -8881,7 +8881,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "ftse",
@@ -9168,7 +9168,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "nikkei",
@@ -9439,7 +9439,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "hsi",
@@ -9722,7 +9722,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "em",
@@ -10009,7 +10009,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "vix",
@@ -10300,7 +10300,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "vstoxx",
@@ -10595,7 +10595,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "us_ig",
@@ -10955,7 +10955,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "wti",
@@ -11242,7 +11242,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "ttf",
@@ -11529,7 +11529,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "gold",
@@ -11816,7 +11816,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "silver",
@@ -12103,7 +12103,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "copper",
@@ -12390,7 +12390,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "btc",
@@ -12406,10 +12406,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-21",
-   "value": 58154.7,
-   "chg_1d": -1.1,
-   "chg_1w": -9.31,
-   "chg_ytd": -33.54,
+   "value": 60144.7,
+   "chg_1d": 2.29,
+   "chg_1w": -6.21,
+   "chg_ytd": -31.27,
    "spark": [
     [
      "2026-08-21",
@@ -12781,11 +12781,11 @@
     ],
     [
      "2026-11-21",
-     58154.7
+     60144.7
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "15:39"
   },
   {
    "id": "us_cpi",
