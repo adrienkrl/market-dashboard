@@ -1,12 +1,12 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-20T23:41+01:00",
-"date": "2026-11-20",
-"jour": "vendredi",
+"genere_le": "2026-11-21T08:41+01:00",
+"date": "2026-11-21",
+"jour": "samedi",
 "drapeaux": {
 "rapport_mensuel_a_ecrire": false,
 "lendemain_reunion": [],
-"vendredi": true
+"vendredi": false
 },
 "chiffres": [
 {
@@ -257,77 +257,77 @@
 "groupe": "fx",
 "libelle": "EUR/USD",
 "date": "2026-11-20",
-"valeur": "1,0975",
-"var_1j": "+0,02 %",
-"var_1sem": "-0,69 %",
-"var_ytd": "-6,58 %",
-"var_mois": "-1,86 %"
+"valeur": "1,0970",
+"var_1j": "-0,02 %",
+"var_1sem": "-0,73 %",
+"var_ytd": "-6,62 %",
+"var_mois": "-1,91 %"
 },
 {
 "id": "usdjpy",
 "groupe": "fx",
 "libelle": "USD/JPY",
 "date": "2026-11-20",
-"valeur": "158,51",
-"var_1j": "-0,55 %",
-"var_1sem": "-0,85 %",
-"var_ytd": "+1,34 %",
-"var_mois": "+0,45 %"
+"valeur": "159,71",
+"var_1j": "+0,20 %",
+"var_1sem": "-0,11 %",
+"var_ytd": "+2,11 %",
+"var_mois": "+1,21 %"
 },
 {
 "id": "gbpusd",
 "groupe": "fx",
 "libelle": "GBP/USD",
 "date": "2026-11-20",
-"valeur": "1,3082",
-"var_1j": "-0,49 %",
-"var_1sem": "-1,13 %",
-"var_ytd": "-2,86 %",
-"var_mois": "-2,22 %"
+"valeur": "1,3086",
+"var_1j": "-0,46 %",
+"var_1sem": "-1,10 %",
+"var_ytd": "-2,83 %",
+"var_mois": "-2,18 %"
 },
 {
 "id": "eurgbp",
 "groupe": "fx",
 "libelle": "EUR/GBP",
 "date": "2026-11-20",
-"valeur": "0,8381",
-"var_1j": "+0,43 %",
-"var_1sem": "+0,37 %",
-"var_ytd": "-3,91 %",
-"var_mois": "+0,27 %"
+"valeur": "0,8380",
+"var_1j": "+0,41 %",
+"var_1sem": "+0,36 %",
+"var_ytd": "-3,93 %",
+"var_mois": "+0,26 %"
 },
 {
 "id": "usdchf",
 "groupe": "fx",
 "libelle": "USD/CHF",
 "date": "2026-11-20",
-"valeur": "0,8396",
-"var_1j": "-0,47 %",
-"var_1sem": "+0,43 %",
-"var_ytd": "+6,04 %",
-"var_mois": "+1,94 %"
+"valeur": "0,8441",
+"var_1j": "+0,07 %",
+"var_1sem": "+0,98 %",
+"var_ytd": "+6,62 %",
+"var_mois": "+2,49 %"
 },
 {
 "id": "usdcny",
 "groupe": "fx",
 "libelle": "USD/CNY",
-"date": "2026-11-20",
-"valeur": "6,6765",
-"var_1j": "+0,13 %",
-"var_1sem": "+0,09 %",
-"var_ytd": "-4,57 %",
-"var_mois": "+0,23 %"
+"date": "2026-11-21",
+"valeur": "6,6772",
+"var_1j": "+0,16 %",
+"var_1sem": "+0,10 %",
+"var_ytd": "-4,56 %",
+"var_mois": "+0,24 %"
 },
 {
 "id": "dxy",
 "groupe": "fx",
 "libelle": "Dollar Index (DXY)",
 "date": "2026-11-20",
-"valeur": "103,84",
-"var_1j": "-0,06 %",
-"var_1sem": "+0,42 %",
-"var_ytd": "+5,66 %",
-"var_mois": "+1,92 %"
+"valeur": "103,81",
+"var_1j": "-0,09 %",
+"var_1sem": "+0,39 %",
+"var_ytd": "+5,63 %",
+"var_mois": "+1,89 %"
 },
 {
 "id": "spx",
@@ -445,9 +445,9 @@
 "libelle": "MOVE (vol. taux US)",
 "date": "2026-11-20",
 "valeur": "106,31",
-"var_1j": "+10,70 %",
+"var_1j": "+10,69 %",
 "var_1sem": "+7,61 %",
-"var_ytd": "+66,22 %",
+"var_ytd": "+66,21 %",
 "var_mois": "+6,10 %"
 },
 {
@@ -482,77 +482,77 @@
 "groupe": "commo",
 "libelle": "Brent ($/b)",
 "date": "2026-11-20",
-"valeur": "89,87",
-"var_1j": "-2,29 %",
-"var_1sem": "-6,23 %",
-"var_ytd": "+47,69 %",
-"var_mois": "-23,61 %"
+"valeur": "92,57",
+"var_1j": "+0,64 %",
+"var_1sem": "-3,41 %",
+"var_ytd": "+52,13 %",
+"var_mois": "-21,31 %"
 },
 {
 "id": "wti",
 "groupe": "commo",
 "libelle": "WTI ($/b)",
 "date": "2026-11-20",
-"valeur": "83,62",
-"var_1j": "+0,49 %",
-"var_1sem": "-5,58 %",
-"var_ytd": "+45,63 %",
-"var_mois": "-19,69 %"
+"valeur": "83,98",
+"var_1j": "+0,93 %",
+"var_1sem": "-5,17 %",
+"var_ytd": "+46,26 %",
+"var_mois": "-19,34 %"
 },
 {
 "id": "ttf",
 "groupe": "commo",
 "libelle": "Gaz TTF (€/MWh)",
 "date": "2026-11-20",
-"valeur": "88,70",
-"var_1j": "+5,03 %",
-"var_1sem": "-2,48 %",
-"var_ytd": "+214,97 %",
-"var_mois": "-14,67 %"
+"valeur": "88,45",
+"var_1j": "+4,73 %",
+"var_1sem": "-2,75 %",
+"var_ytd": "+214,09 %",
+"var_mois": "-14,91 %"
 },
 {
 "id": "gold",
 "groupe": "commo",
 "libelle": "Or ($/oz)",
 "date": "2026-11-20",
-"valeur": "3 539,0",
-"var_1j": "-3,98 %",
-"var_1sem": "-8,94 %",
-"var_ytd": "-18,48 %",
-"var_mois": "-9,23 %"
+"valeur": "3 515,4",
+"var_1j": "-4,62 %",
+"var_1sem": "-9,54 %",
+"var_ytd": "-19,02 %",
+"var_mois": "-9,84 %"
 },
 {
 "id": "silver",
 "groupe": "commo",
 "libelle": "Argent ($/oz)",
 "date": "2026-11-20",
-"valeur": "41,08",
-"var_1j": "-7,31 %",
-"var_1sem": "-16,22 %",
-"var_ytd": "-41,43 %",
-"var_mois": "-16,33 %"
+"valeur": "41,03",
+"var_1j": "-7,41 %",
+"var_1sem": "-16,31 %",
+"var_ytd": "-41,49 %",
+"var_mois": "-16,42 %"
 },
 {
 "id": "copper",
 "groupe": "commo",
 "libelle": "Cuivre ($/lb)",
 "date": "2026-11-20",
-"valeur": "5,465",
-"var_1j": "-2,84 %",
-"var_1sem": "-10,11 %",
-"var_ytd": "-2,93 %",
-"var_mois": "-15,38 %"
+"valeur": "5,477",
+"var_1j": "-2,63 %",
+"var_1sem": "-9,91 %",
+"var_ytd": "-2,72 %",
+"var_mois": "-15,20 %"
 },
 {
 "id": "btc",
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
-"date": "2026-11-20",
-"valeur": "59 076",
-"var_1j": "-4,56 %",
-"var_1sem": "-13,44 %",
-"var_ytd": "-32,49 %",
-"var_mois": "-23,71 %"
+"date": "2026-11-21",
+"valeur": "58 155",
+"var_1j": "-1,10 %",
+"var_1sem": "-9,31 %",
+"var_ytd": "-33,54 %",
+"var_mois": "-24,90 %"
 },
 {
 "id": "us_cpi",
@@ -560,7 +560,8 @@
 "libelle": "CPI US (a/a)",
 "date": "2026-09-01",
 "valeur": "3,7 %",
-"precedent": "3,4 %"
+"precedent": "3,4 %",
+"attention": "Donnée non mise à jour par la source depuis plusieurs jours"
 },
 {
 "id": "us_core_cpi",
@@ -568,7 +569,8 @@
 "libelle": "CPI US core (a/a)",
 "date": "2026-09-01",
 "valeur": "2,6 %",
-"precedent": "2,5 %"
+"precedent": "2,5 %",
+"attention": "Donnée non mise à jour par la source depuis plusieurs jours"
 },
 {
 "id": "us_core_pce",
@@ -576,7 +578,8 @@
 "libelle": "PCE core US (a/a)",
 "date": "2026-09-01",
 "valeur": "3,1 %",
-"precedent": "3,0 %"
+"precedent": "3,0 %",
+"attention": "Donnée non mise à jour par la source depuis plusieurs jours"
 },
 {
 "id": "ea_hicp",
@@ -624,7 +627,8 @@
 "libelle": "Chômage zone euro",
 "date": "2026-09-01",
 "valeur": "6,5 %",
-"precedent": "6,5 %"
+"precedent": "6,5 %",
+"attention": "Donnée non mise à jour par la source depuis plusieurs jours"
 },
 {
 "id": "us_gdp",
@@ -661,21 +665,18 @@
 "raison": "Données propriétaires S&P Global / HCOB, non redistribuables gratuitement."
 }
 ],
-"agenda_3_jours": [],
-"publie_depuis_hier": [
+"agenda_3_jours": [
 {
-"date": "2026-11-19",
+"date": "2026-11-23",
 "heure_paris": "19:00",
-"evenement": "Adjudication Trésor US – 9-Year 8-Month TIPS",
-"importance": 2,
+"evenement": "Adjudication Trésor US – 2-Year Note",
+"importance": 1,
 "consensus": "n.d.",
-"rendement_precedent": "2,653 %",
-"rendement_servi": "2,903 %",
-"bid_to_cover": "2,43",
-"variation": "+25,0 pb",
-"note": "Montant offert : 19 Md$"
+"rendement_precedent": "4,708 %",
+"note": "Montant offert : 69 Md$"
 }
 ],
+"publie_depuis_hier": [],
 "evenements_de_la_semaine": [
 {
 "date": "2026-11-17",
@@ -769,6 +770,32 @@
 "heure": "2026-11-19T15:25+01:00"
 },
 {
+"id": "a55ce1749647",
+"titre": "How can investors succeed in markets today?",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/22b3765d-ff3d-4f07-8982-5a222dbb862e?syn-25a6b1a6=1",
+"note": 3,
+"themes": [
+"Inflation",
+"Risque & crédit",
+"Marchés",
+"Budget & souverains"
+],
+"heure": "2026-11-21T06:00+01:00"
+},
+{
+"id": "9703f79f5f78",
+"titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+"source": "Le Monde – économie",
+"lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+"note": 3,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-21T01:33+01:00"
+},
+{
 "id": "6eb83dcfe68d",
 "titre": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
 "source": "Financial Times",
@@ -813,29 +840,6 @@
 "Banque centrale"
 ],
 "heure": "2026-11-20T18:15+01:00"
-},
-{
-"id": "62496b2db133",
-"titre": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-"source": "Fed – communiqués",
-"lien": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-"note": 3,
-"themes": [
-"Banque centrale"
-],
-"heure": "2026-11-20T16:00+01:00"
-},
-{
-"id": "ca1b4ecb67a7",
-"titre": "Anthropic shares tumble as AI giant swept up in tech sell-off",
-"source": "Financial Times",
-"lien": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
-"note": 3,
-"themes": [
-"Risque & crédit",
-"Marchés"
-],
-"heure": "2026-11-20T15:01+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -844,9 +848,9 @@
 "alertes_sources": {},
 "controles_du_mois": {
 "mois": "2026-11",
-"textes_controles": 5,
+"textes_controles": 7,
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "b3c5fbe389fe4a6d"
+"empreinte": "248b10a0180fc677"
 }

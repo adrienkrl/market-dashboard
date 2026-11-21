@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T23:41+01:00",
+ "updated_at": "2026-11-21T08:41+01:00",
  "keep_hours": 48,
  "items": [
   {
@@ -66,6 +66,38 @@
    "assets": [],
    "score": 4,
    "first_seen": "2026-11-19T17:26+01:00"
+  },
+  {
+   "id": "a55ce1749647",
+   "title": "How can investors succeed in markets today?",
+   "link": "https://www.ft.com/content/22b3765d-ff3d-4f07-8982-5a222dbb862e?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-21T06:00+01:00",
+   "themes": [
+    "Inflation",
+    "Risque & crédit",
+    "Marchés",
+    "Budget & souverains"
+   ],
+   "assets": [],
+   "score": 3,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "9703f79f5f78",
+   "title": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-21T01:33+01:00",
+   "themes": [
+    "Risque & crédit",
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 3,
+   "first_seen": "2026-11-21T08:41+01:00"
   },
   {
    "id": "6eb83dcfe68d",
@@ -244,18 +276,74 @@
    "first_seen": "2026-11-19T21:07+01:00"
   },
   {
-   "id": "3e5da690e0ca",
-   "title": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
-   "link": "http://www.boj.or.jp/en/mopo/diet/d_state/dst261119a.htm",
-   "source": "Banque du Japon",
-   "reliability": 3,
-   "published": "2026-11-19T02:13+01:00",
+   "id": "0c08a6f395c3",
+   "title": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
+   "link": "https://www.theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-21T08:00+01:00",
    "themes": [
-    "Banque centrale"
+    "Inflation"
    ],
    "assets": [],
-   "score": 3,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 2,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "d2ef14e6431d",
+   "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
+   "link": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-21T06:00+01:00",
+   "themes": [],
+   "assets": [
+    "oil"
+   ],
+   "score": 2,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "c9cb1c105650",
+   "title": "Sixième samedi de manifestations contre la vie chère en France, dans un contexte de baisse de la mobilisation",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/21/sixieme-samedi-de-manifestations-contre-la-vie-chere-en-france-dans-un-contexte-de-baisse-de-la-mobilisation_6813913_3224.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-21T05:30+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "6db58f120f92",
+   "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+   "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-20T23:44+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "eadd2e9099a2",
+   "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+   "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-20T23:44+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-21T08:41+01:00"
   },
   {
    "id": "4371c6cf8e98",
@@ -1166,280 +1254,148 @@
    "first_seen": "2026-11-19T17:26+01:00"
   },
   {
-   "id": "2d9adea4acff",
-   "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
-   "link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
-   "source": "Bank of England",
-   "reliability": 3,
-   "published": "2026-11-19T08:30+01:00",
-   "themes": [
-    "Banque centrale",
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "e9e1c038bca0",
-   "title": "OPINION. « Les émissions mondiales de CO2 baissent. Et c'est la croissance qui l'a permis »",
-   "link": "https://www.latribune.fr/article/idees/1124560769612114/opinion-les-emissions-mondiales-de-co2-baissent-et-cest-la-croissance-qui-la-permis",
+   "id": "17e1ece896e2",
+   "title": "OPINION. « Notre jeunesse a besoin de croire en l'avenir : donnons-lui les moyens de le construire »",
+   "link": "https://www.latribune.fr/article/idees/11220931921315/opinion-notre-jeunesse-a-besoin-de-croire-en-lavenir-donnons-lui-les-moyens-de-le-construire",
    "source": "La Tribune",
    "reliability": 1,
-   "published": "2026-11-19T08:15+01:00",
-   "themes": [
-    "Emploi & croissance",
-    "Budget & souverains"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "b0c59260f2cc",
-   "title": "Dallages industriels : comment la robotisation des entrepôts propulse Qualidal",
-   "link": "https://www.latribune.fr/article/entreprises-finance/industrie/96337685874126/dallages-industriels-comment-la-robotisation-des-entrepots-propulse-qualidal",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T08:05+01:00",
-   "themes": [
-    "Emploi & croissance"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "64d4bb67d42a",
-   "title": "Anthropic raises $81bn in record IPO",
-   "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T08:04+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "050a70da6a7d",
-   "title": "Developments in Real Exports and Real Imports",
-   "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
-   "source": "Banque du Japon",
-   "reliability": 3,
-   "published": "2026-11-19T08:00+01:00",
+   "published": "2026-11-21T08:14+01:00",
    "themes": [],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
   },
   {
-   "id": "66dea129e44d",
-   "title": "Trains de nuit : l’Etat renonce à commander des rames neuves et opte pour la rénovation des voitures Corail",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/19/trains-de-nuit-l-etat-renonce-a-commander-des-rames-neuves-et-opte-pour-la-renovation-des-voitures-corail_6813244_3234.html",
+   "id": "7f340cfffd78",
+   "title": "Pharmacie : Upsa rapatrie en France la production de deux médicaments stratégiques",
+   "link": "https://www.latribune.fr/article/entreprises-finance/industrie/14733742729992/pharmacie-upsa-rapatrie-en-france-la-production-de-deux-medicaments-strategiques",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T08:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "c591d3c8ec9b",
+   "title": "Sommet Choose France : « Une cinquante de projets industriels sera présentée ce lundi », annonce le ministre de l’Industrie",
+   "link": "https://www.latribune.fr/article/entreprises-finance/industrie/250343849401514/sommet-choose-france-une-cinquante-de-projets-industriels-sera-presentee-ce-lundi-annonce-le-ministre-de-l-industrie",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T07:30+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "961319f9b772",
+   "title": "A Agen, les irréductibles opposants à la ligne à grande vitesse Bordeaux-Toulouse : « On a un pays qui est superbe et ils vont venir le massacrer. Qu’est-ce qu’on va laisser à nos enfants ? »",
+   "link": "https://www.lemonde.fr/m-le-mag/article/2026/11/21/a-agen-les-irreductibles-opposants-a-la-ligne-a-grande-vitesse-bordeaux-toulouse-on-a-un-pays-qui-est-superbe-et-ils-vont-venir-le-massacrer-qu-est-ce-qu-on-va-laisser-a-nos-enfants_6813947_4500055.html",
    "source": "Le Monde – économie",
    "reliability": 2,
-   "published": "2026-11-19T07:40+01:00",
-   "themes": [
-    "Budget & souverains"
-   ],
+   "published": "2026-11-21T07:00+01:00",
+   "themes": [],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
   },
   {
-   "id": "676ff91fd9e7",
-   "title": "Grade I interiors, gold bars, cost fears: Bank of England faces headache over £160m revamp",
-   "link": "https://www.theguardian.com/business/2026/nov/19/bank-of-england-revamp",
+   "id": "2ca8c27f9e0a",
+   "title": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/21/telephonie-mobile-par-satellite-le-chemin-tortueux-des-operateurs-europeens-vers-une-constellation-souveraine_6813948_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-21T07:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "563a6f7d0c6c",
+   "title": "Panne des communications martiennes : les activités scientifiques du rover Perseverance en pause",
+   "link": "https://air-cosmos.latribune.fr/article/espace/34696315550583/panne-des-communications-martiennes-les-activites-scientifiques-du-rover-perseverance-en-pause",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T07:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "80ac659d6f41",
+   "title": "« L’explosion de l’extrême richesse constitue le fait social majeur de notre temps » : le manifeste de plus de 110 intellectuels contre l’oligarchie",
+   "link": "https://www.lemonde.fr/idees/article/2026/11/21/l-explosion-de-l-extreme-richesse-constitue-le-fait-social-majeur-de-notre-temps-le-manifeste-de-plus-de-110-intellectuels-contre-l-oligarchie_6813943_3232.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-21T06:25+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "3625e16f7bd3",
+   "title": "US watchdogs pick a bad time to cut disclosure on executive pay",
+   "link": "https://www.ft.com/content/a8a45cf2-f096-4f33-8df5-46a689bde104?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-21T06:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "9db7b9b768e2",
+   "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
+   "link": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-21T06:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "0ece2ac3e5d4",
+   "title": "Quelles précautions prendre quand on prête une somme d’argent à un proche ?",
+   "link": "https://www.lemonde.fr/argent/article/2026/11/21/quelles-precautions-prendre-quand-on-prete-une-somme-d-argent-a-un-proche_6813921_1657007.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-21T06:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "5ebf853562b4",
+   "title": "« GTA VI » s’offre un lancement record avec 3,79 milliards de dollars de ventes dès le premier jour",
+   "link": "https://www.lemonde.fr/pixels/article/2026/11/21/gta-vi-s-offre-un-lancement-record-avec-3-79-milliards-de-dollars-de-ventes-des-le-premier-jour_6813745_4408996.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-21T01:13+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
+  },
+  {
+   "id": "96a7f9767d2d",
+   "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+   "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
    "source": "The Guardian – business",
    "reliability": 2,
-   "published": "2026-11-19T07:00+01:00",
-   "themes": [
-    "Banque centrale",
-    "Marchés"
-   ],
-   "assets": [
-    "gold"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "d9d5e86ef285",
-   "title": "Nunez-Geffrey, les amis de Vesoul serrent les rangs",
-   "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/17584195879319/nunez-geffrey-les-amis-de-vesoul-serrent-les-rangs",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T06:45+01:00",
-   "themes": [
-    "Risque & crédit"
-   ],
+   "published": "2026-11-21T00:42+01:00",
+   "themes": [],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "f40b2eda78ae",
-   "title": "Blocage d'Ormuz : comment cette crise historique a instauré un nouvel ordre énergétique mondial",
-   "link": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/1955375196074/blocage-dormuz-comment-cette-crise-historique-a-instaure-un-nouvel-ordre-energetique-mondial",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T06:30+01:00",
-   "themes": [
-    "Risque & crédit"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "41c7f907561c",
-   "title": "Energy markets can ‘manage without’ the Strait of Hormuz, says IEA",
-   "link": "https://www.ft.com/content/1e00aad2-0007-4328-8492-0fea09aa69ad?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [
-    "oil"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "b2f80c308225",
-   "title": "Anthropic’s magnificent IPO",
-   "link": "https://www.ft.com/content/74801528-833d-412f-b939-24f68c2c3fc1?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [
-    "dollar"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "8bd7714bdada",
-   "title": "Retail investors face squeeze in blockbuster IPO",
-   "link": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "aa7070b97712",
-   "title": "Gold loses its lustre for investors",
-   "link": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [
-    "gold"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "674fe4276e92",
-   "title": "Palm oil’s rise will put packaged-food producers in the shade",
-   "link": "https://www.ft.com/content/9d07e7c5-38db-4b39-b355-80976df01208?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "dac3169e013f",
-   "title": "La crise dans le détroit d’Ormuz favorise une « étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [
-    "Risque & crédit"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "3a42e9135665",
-   "title": "Aux Etats-Unis, Wall Street met fin à l’euphorie généralisée sur l’IA et cherche à trier les gagnants et les perdants de cette révolution",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/19/aux-etats-unis-wall-street-met-fin-a-l-euphorie-generalisee-sur-l-ia-et-cherche-a-trier-les-gagnants-et-les-perdants-de-cette-revolution_6813232_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [
-    "Emploi & croissance",
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "b7d063b8807d",
-   "title": "Anthropic : comment la start-up californienne, qui entre en Bourse aujourd’hui, a détrôné OpenAI",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-comment-anthropic-a-detrone-openai_6813227_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T05:45+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "b0e3085011e7",
-   "title": "Intelligence artificielle : avec une action mise en vente à 83 dollars, Anthropic est valorisée à 1 500 milliards de dollars, à la veille de son entrée en Bourse",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/19/intelligence-artificielle-avec-une-action-mise-en-vente-a-83-dollars-anthropic-valorisee-1-500-milliards-de-dollars-a-la-veille-de-son-entree-en-bourse_6813215_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T01:20+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "b7ed276b63ab",
-   "title": "The seven Anthropic founders who are about to become multi-billionaires",
-   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T00:42+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
   },
   {
    "id": "36fb31620a7c",
@@ -1634,6 +1590,18 @@
    "assets": [],
    "score": 1,
    "first_seen": "2026-11-20T22:34+01:00"
+  },
+  {
+   "id": "767c2779862d",
+   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-20T18:49+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T08:41+01:00"
   },
   {
    "id": "2035a5ed9a18",
@@ -3330,316 +3298,6 @@
    ],
    "score": 1,
    "first_seen": "2026-11-20T16:28+01:00"
-  },
-  {
-   "id": "9aa56bddc555",
-   "title": "CAC 40  : Le marché sous les sunlights d&#039;Anthropic",
-   "link": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-le-marche-sous-les-sunlights-d-anthropic-1174058.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-19T08:30+01:00",
-   "themes": [],
-   "assets": [
-    "cac 40"
-   ],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "5830457c381d",
-   "title": "Régularisation des sans-papiers : « Nous ne pouvons pas bénéficier de leur travail et leur refuser la stabilité administrative qui leur permettrait de vivre dignement »",
-   "link": "https://www.lemonde.fr/idees/article/2026/11/19/regularisation-des-sans-papiers-nous-ne-pouvons-pas-beneficier-de-leur-travail-et-leur-refuser-la-stabilite-administrative-qui-leur-permettrait-de-vivre-dignement_6813248_3232.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T08:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "68f802bce425",
-   "title": "Anthropic revenue target: $600bn, soonish",
-   "link": "https://www.ft.com/content/ea8434c7-59d9-42cf-afd4-97cf42544c59?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T07:30+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "7c7ba7c7fb79",
-   "title": "Increase in direct cremations since pandemic",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T07:23+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "16f2411dc939",
-   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T07:15+01:00",
-   "themes": [
-    "Budget & souverains"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "09e31e5eb10d",
-   "title": "Aéronautique : moins de 200 millions d'euros à rembourser, les finances de la supply chain rebondissent en France",
-   "link": "https://www.latribune.fr/article/defense-aerospatiale/aeronautique-defense/10800253133527/aeronautique-moins-de-200-millions-deuros-a-rembourser-les-finances-de-la-supply-chain-rebondissent-en-france",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T07:12+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "edc7b11d3ab2",
-   "title": "Leftover pumpkins help deliver 1,000th free meal",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T07:04+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "6e1285be9d75",
-   "title": "Brussels failing to deliver on competitiveness, says Booking.com chief",
-   "link": "https://www.ft.com/content/31447aee-2e10-4170-8792-bd7d60d5bc40?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T07:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "0272da6ff38e",
-   "title": "L’incontournable M. Tanguy. La chronique de Jules Pecnard",
-   "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/96625616565862/l-incontournable-m-tanguy-la-chronique-de-jules-pecnard",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T07:00+01:00",
-   "themes": [
-    "Budget & souverains"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "5cdd8ef9a5f1",
-   "title": "Flexibility more important to jobseekers than pay, global survey finds",
-   "link": "https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-19T06:45+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "d6fd94593f9f",
-   "title": "OPINION. « Etats-Unis : la panne sans coupable » (Michel Santi)",
-   "link": "https://www.latribune.fr/article/idees/94651110492312/opinion-etats-unis-la-panne-sans-coupable-michel-santi",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T06:45+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "07ff0378e77c",
-   "title": "Acquisition d'Avio par ICEYE : une question de vie ou de mort pour les start-up spatiales européennes",
-   "link": "https://www.latribune.fr/article/defense-aerospatiale/spatial/1039619520457714/acquisition-davio-par-iceye-une-question-de-vie-ou-de-mort-pour-les-start-up-spatiales-europeennes",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T06:30+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "0af375db0033",
-   "title": "En quête de parrainages, Teddy Riner se rendra au congrès des maires",
-   "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/1159329868964214/en-quete-de-parrainages-teddy-riner-se-rendra-au-congres-des-maires",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T06:30+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "ca0841e944a1",
-   "title": "AI advances trigger new safety fears on eve of market debut",
-   "link": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "89b10df278c0",
-   "title": "Private equity’s liquidity cure needs a better formula",
-   "link": "https://www.ft.com/content/2af3765e-d689-4418-bdd2-5b34042df396",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "4afb7daa8324",
-   "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
-   "link": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "e5f4de845173",
-   "title": "Anthropic : pourquoi son introduction en Bourse est-elle si attendue ?",
-   "link": "https://www.lemonde.fr/videos/video/2026/11/19/anthropic-pourquoi-son-introduction-en-bourse-est-elle-si-attendue_6813229_1669088.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "f61588eae338",
-   "title": "« La République des travailleurs » : un manifeste pour « démocratiser » le capitalisme, dans l’entreprise et ailleurs",
-   "link": "https://www.lemonde.fr/vie-au-travail/article/2026/11/19/la-republique-des-travailleurs-un-manifeste-pour-democratiser-le-capitalisme-dans-l-entreprise-et-ailleurs_6813230_6768900.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "642d44e7f2f1",
-   "title": "Anthropic débarque à Wall Street, prêt à signer la plus grande introduction en Bourse de l&#039;histoire... Faut-il pour autant se ruer dès le premier jour sur l&#039;action du créateur de Claude ?",
-   "link": "https://www.tradingsat.com/actualites/informations-societes/anthropic-debarque-a-wall-street-pret-a-signer-la-plus-grande-introduction-en-bourse-de-l-histoire-faut-il-pour-autant-se-ruer-des-le-premier-jour-sur-l-action-du-createur-de-claude-1174016.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-19T06:00+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "d412c50db1b7",
-   "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-   "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T03:59+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "dc8971aae4da",
-   "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
-   "link": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-19T02:07+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "6820aed82388",
-   "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-   "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T01:05+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "7586268f3351",
-   "title": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
-   "link": "https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T01:01+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "2a19c93c43c3",
-   "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T01:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "87fd25ae87d1",
-   "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-   "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T00:47+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
   }
  ],
  "errors": {},
