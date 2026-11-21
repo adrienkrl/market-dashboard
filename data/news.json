@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T15:40+01:00",
+ "updated_at": "2026-11-21T21:55+01:00",
  "keep_hours": 48,
  "items": [
   {
@@ -34,21 +34,6 @@
    "assets": [
     "oil"
    ],
-   "score": 4,
-   "first_seen": "2026-11-20T08:42+01:00"
-  },
-  {
-   "id": "4adcecd39d3e",
-   "title": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-   "source": "CNBC – économie",
-   "reliability": 2,
-   "published": "2026-11-19T21:21+01:00",
-   "themes": [
-    "Banque centrale",
-    "Risque & crédit"
-   ],
-   "assets": [],
    "score": 4,
    "first_seen": "2026-11-20T08:42+01:00"
   },
@@ -228,37 +213,6 @@
    "assets": [],
    "score": 3,
    "first_seen": "2026-11-20T08:42+01:00"
-  },
-  {
-   "id": "318382abda6b",
-   "title": "Brazil’s central bank steps in to stem real’s slide since Lula’s re-election",
-   "link": "https://www.ft.com/content/94379926-211c-4ca6-a53a-f7e4df1a2675?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T20:25+01:00",
-   "themes": [
-    "Banque centrale"
-   ],
-   "assets": [
-    "dollar"
-   ],
-   "score": 3,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "5591e008c561",
-   "title": "‘Rockets are hard’ — yet this analyst thinks AST SpaceMobile’s stock is ready to rebound",
-   "link": "https://www.marketwatch.com/story/rockets-are-hard-yet-this-analyst-thinks-ast-spacemobiles-stock-is-ready-to-rebound-b9ce6f9c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T19:07+01:00",
-   "themes": [
-    "Risque & crédit",
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 3,
-   "first_seen": "2026-11-19T21:07+01:00"
   },
   {
    "id": "c58d8da5fef8",
@@ -573,6 +527,20 @@
    ],
    "score": 2,
    "first_seen": "2026-11-20T23:41+01:00"
+  },
+  {
+   "id": "c1e5edac8890",
+   "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+   "source": "CNBC – économie",
+   "reliability": 2,
+   "published": "2026-11-20T22:07+01:00",
+   "themes": [
+    "Banque centrale"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-21T21:55+01:00"
   },
   {
    "id": "eaf243185a18",
@@ -1023,250 +991,236 @@
    "first_seen": "2026-11-20T08:42+01:00"
   },
   {
-   "id": "c1e5edac8890",
-   "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-   "source": "CNBC – économie",
-   "reliability": 2,
-   "published": "2026-11-19T21:18+01:00",
-   "themes": [
-    "Banque centrale"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-20T08:42+01:00"
-  },
-  {
-   "id": "b3f470b81c37",
-   "title": "The surprising reason the U.S. economy is speeding up — and might have more room to run",
-   "link": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T20:13+01:00",
-   "themes": [
-    "Emploi & croissance"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "f1b9eaa5143f",
-   "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-   "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-19T19:15+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "f1857f5968b1",
-   "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
-   "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T19:00+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "915247a2abd7",
-   "title": "Encore plus fort que SpaceX... Débuts canon pour Anthropic à Wall Street qui bondit de 33% pour ses premiers échanges et signe la plus grande introduction en Bourse de l&#039;histoire",
-   "link": "https://www.tradingsat.com/actualites/informations-societes/encore-plus-fort-que-spacex-debuts-canon-pour-anthropic-a-wall-street-qui-bondit-de-33-pour-ses-premiers-echanges-et-signe-la-plus-grande-introduction-en-bourse-de-l-histoire-1174112.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-19T17:54+01:00",
-   "themes": [
-    "Marchés",
-    "Budget & souverains"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "c87692579238",
-   "title": "Central banks ❤️ US dollars",
-   "link": "https://www.ft.com/content/cb01773d-32ae-424c-a5be-a0b960d353ce",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T17:50+01:00",
-   "themes": [
-    "Banque centrale"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "cdcd628a9ead",
-   "title": "Maintenance : Ryanair choisit l’Espagne",
-   "link": "https://air-cosmos.latribune.fr/article/aviation-civile/81336356754374/maintenance-ryanair-choisit-l-espagne",
+   "id": "a57849c0edd4",
+   "title": "Emmanuel Macron veut convoquer un Congrès pour adopter une règle d’or budgétaire",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/78452239301209/emmanuel-macron-veut-convoquer-un-congres-pour-adopter-une-regle-d-or-budgetaire",
    "source": "La Tribune",
    "reliability": 1,
-   "published": "2026-11-19T17:50+01:00",
+   "published": "2026-11-21T21:35+01:00",
    "themes": [
-    "Emploi & croissance"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "96041542dcbf",
-   "title": "CAC 40 : Anthropic s&#039;envole de plus de 30% pour ses premiers pas à Wall Street, le CAC 40 cède encore du terrain",
-   "link": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-anthropic-s-envole-de-plus-de-30-pour-ses-premiers-pas-a-wall-street-le-cac-40-cede-encore-du-terrain-1174126.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-19T17:46+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [
-    "cac 40"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "a1e062aede4a",
-   "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-   "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T17:27+01:00",
-   "themes": [
-    "Marchés",
     "Budget & souverains"
    ],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:29+01:00"
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
   },
   {
-   "id": "8ea62b1fb64a",
-   "title": "Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live",
-   "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-   "source": "The Guardian – business",
+   "id": "abf9bc70588c",
+   "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+   "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+   "source": "MarketWatch",
    "reliability": 2,
-   "published": "2026-11-19T17:24+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [
-    "dollar"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "23e4229d8f3b",
-   "title": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
-   "link": "https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-19T17:24+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [
-    "nasdaq"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-19T17:43+01:00"
-  },
-  {
-   "id": "884e4442a40a",
-   "title": "Anthropic shares indicated to open 33% higher at $110",
-   "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T17:19+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "241d9c35f2a8",
-   "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
-   "source": "Fed – communiqués",
-   "reliability": 3,
-   "published": "2026-11-19T17:00+01:00",
-   "themes": [
-    "Banque centrale"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "1e75cc3e067b",
-   "title": "More support for households reliant on heating oil",
-   "link": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T16:22+01:00",
+   "published": "2026-11-21T21:15+01:00",
    "themes": [],
-   "assets": [
-    "oil"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "50a5a499604d",
-   "title": "AI demand will push up interest rates around the world, IMF head warns",
-   "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-19T16:15+01:00",
-   "themes": [
-    "Banque centrale"
-   ],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
   },
   {
-   "id": "a566f1d619ba",
-   "title": "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
-   "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+   "id": "85eddbc47c24",
+   "title": "Marylise Léon, secrétaire générale de la CFDT : « La réforme des retraites du RN est une grande supercherie »",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/3460248785825814/marylise-leon-secretaire-generale-de-la-cfdt-la-reforme-des-retraites-du-rn-est-une-grande-supercherie",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T21:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "4d1af77c24b4",
+   "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+   "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "reliability": 2,
-   "published": "2026-11-19T15:52+01:00",
+   "published": "2026-11-21T20:45+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "70723a2bbabc",
+   "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+   "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-21T20:45+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "3a4ef99fd06b",
+   "title": "Colère sociale : malgré une mobilisation en baisse, entre 80.000 et 150.000 personnes se sont réunies en France",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/societe/40149880577556/colere-sociale-malgre-une-mobilisation-en-baisse-entre-80-000-et-150-000-personnes-se-sont-reunies-en-france",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T20:31+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "0371485c3a10",
+   "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+   "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-21T20:23+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "22173821e33b",
+   "title": "OPINION. « Souveraineté cognitive : et si l'on commençait par les enfants ? » par Jacky Galicher, ancien DSI-RSSI de l'académie de Versailles",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/18049470467446/opinion-souverainete-cognitive-et-si-lon-commencait-par-les-enfants-par-jacky-galicher-ancien-dsi-rssi-de-lacademie-de-versailles",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T19:54+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "c9999acd8c2a",
+   "title": "Grand Prix de F1 : ce qui se dépense à Vegas... reste à Vegas",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/sports/1719378512472/grand-prix-de-f1-ce-qui-se-depense-a-vegas-reste-a-vegas",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T19:53+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "c3f832d5a946",
+   "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+   "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-21T19:19+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "4d457c826483",
+   "title": "Vincent Cassel : « Quasimodo c’est mon monstre, et je voulais qu’on m’y reconnaisse »",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/culture-lifestyle/cinema-ecrans/5339918363374/vincent-cassel-quasimodo-c-est-mon-monstre-et-je-voulais-qu-on-m-y-reconnaisse",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T19:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "9b2b341c79b0",
+   "title": "Présidentielle : Face à Mélenchon, Ruffin, Autain et Tondelier abdiquent",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/3421530826412314/presidentielle-face-a-melenchon-ruffin-autain-et-tondelier-abdiquent",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T18:56+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "3a74bc58811e",
+   "title": "OPINION. « Souveraineté et réindustrialisation passent par l’école », par Emmanuelle Galichet, enseignante-chercheure",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/62892914476067/opinion-souverainete-et-reindustrialisation-passent-par-l-ecole-par-emmanuelle-galichet-enseignante-chercheure",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T18:39+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "64e94c9a6c5d",
+   "title": "Paolo Bulgari, président du groupe de joaillerie racheté par LVMH, est mort à 89 ans",
+   "link": "https://www.lemonde.fr/disparitions/article/2026/11/21/paolo-bulgari-president-du-groupe-de-joaillerie-rachete-par-lvmh-est-mort-a-89-ans_6814053_3382.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-21T18:28+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "7981a16a9493",
+   "title": "Désobéir au pouvoir politique : le débat resurgit dans la fonction publique",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/21/desobeir-au-pouvoir-politique-le-debat-resurgit-dans-la-fonction-publique_6814050_823448.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-21T18:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "93f92bb58e46",
+   "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+   "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-21T17:50+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "60fbdc46a1dd",
+   "title": "OPINION. « Fonds Chaleur : ne coupons pas l’élan des territoires », par  Christophe Béchu, François Baroin, Emmanuel Grégoire et 35 maires et présidents de collectivités",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/98805145906944/opinion-fonds-chaleur-ne-coupons-pas-l-elan-des-territoires-par-christophe-bechu-francois-baroin-emmanuel-gregoire-et-35-maires-et-presidents-de-collectivites",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T17:27+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "4e73940bc6db",
+   "title": "Manifestations du 21 novembre : entre 80 000 et 150 000 personnes se sont mobilisées en France",
+   "link": "https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-21T17:04+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
+   "id": "1e9896097c5f",
+   "title": "L'Union européenne et l'Indonésie renforcent leur lien commercial",
+   "link": "https://www.latribune.fr/article/economie/20981268770617/lunion-europeenne-et-lindonesie-renforcent-leur-lien-commercial",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-21T16:58+01:00",
    "themes": [
     "Marchés"
    ],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "aea521ed9f60",
-   "title": "Sandisk’s stock split is almost here. This is what investors need to know.",
-   "link": "https://www.marketwatch.com/story/sandisks-stock-split-is-almost-here-this-is-what-investors-need-to-know-e0a18461?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T15:42+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-19T17:26+01:00"
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
   },
   {
    "id": "1252cb01de9d",
@@ -2377,6 +2331,18 @@
    "first_seen": "2026-11-20T16:28+01:00"
   },
   {
+   "id": "38ff8cacb9f5",
+   "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
+   "link": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-20T09:52+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
    "id": "e98e4000d3ac",
    "title": "VALLOUREC : Perspectives décevantes, rebond de la rentabilité repoussé à 2027... Vallourec déçoit le marché et chute de près de 13%",
    "link": "https://www.tradingsat.com/vallourec-FR0013506730/actualites/vallourec-perspectives-decevantes-rebond-de-la-rentabilite-repousse-a-2027-vallourec-decoit-le-marche-et-chute-de-pres-de-13-1174152.html",
@@ -2785,6 +2751,18 @@
    "first_seen": "2026-11-20T08:42+01:00"
   },
   {
+   "id": "4524fd3f0ca3",
+   "title": "AMD dives on short seller report of alleged China exposure",
+   "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "source": "CNBC – marchés",
+   "reliability": 2,
+   "published": "2026-11-20T01:08+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-21T21:55+01:00"
+  },
+  {
    "id": "91681bf0848f",
    "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
    "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
@@ -2871,400 +2849,6 @@
    "assets": [],
    "score": 1,
    "first_seen": "2026-11-20T08:42+01:00"
-  },
-  {
-   "id": "6dd2ec3981ff",
-   "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
-   "link": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-19T21:05+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-20T16:28+01:00"
-  },
-  {
-   "id": "82e106561f95",
-   "title": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T20:30+01:00",
-   "themes": [
-    "Budget & souverains"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "ce16a44f179f",
-   "title": "INFO LTD. Le député Jérémie Iordanoff démissionne des Écologistes après la main tendue de Tondelier à LFI",
-   "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/1740407884796214/info-ltd-le-depute-jeremie-iordanoff-demissionne-des-ecologistes-apres-la-main-tendue-de-tondelier-a-lfi",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T20:14+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "8266f2c3f2eb",
-   "title": "Lanceurs : OHB s’intéresse à des tirs depuis l’Irlande",
-   "link": "https://air-cosmos.latribune.fr/article/espace/32417743922642/lanceurs-ohb-s-interesse-a-des-tirs-depuis-l-irlande",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T20:06+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "85c5d31f6852",
-   "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-   "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T19:54+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "116a5f790cd5",
-   "title": "Social Security should be shut down, this Republican senator says",
-   "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T19:53+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "a99126454e64",
-   "title": "Elon Musk becomes the latest tech billionaire to make a peace offering to Democrats after the midterms",
-   "link": "https://www.marketwatch.com/story/elon-musk-becomes-the-latest-tech-billionaire-to-make-a-peace-offering-to-democrats-after-the-midterms-05df0c0e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T19:43+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "7eaa4c94e13d",
-   "title": "Avio : de la séduction au concret aux Etats-Unis",
-   "link": "https://air-cosmos.latribune.fr/article/strategies/64094241362114/avio-de-la-seduction-au-concret-aux-etats-unis",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T19:25+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "38ff8cacb9f5",
-   "title": "Climate talks drop fossil fuel phaseout and pivot to carbon capture",
-   "link": "https://www.ft.com/content/134dcef4-9453-48bd-bcbd-4180818d3aca?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T19:16+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "fb0127a77dd4",
-   "title": "My wife pays for her family to visit us in New York. How do I tell her we can’t afford it?",
-   "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T19:15+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "d68120705108",
-   "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
-   "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T19:03+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "b09e06c07aa7",
-   "title": "Méthane : l’UE reporte l’entrée en vigueur de son règlement pionnier au nom de la sécurité énergétique",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/19/l-union-europeenne-reporte-l-entree-en-vigueur-de-son-reglement-pionnier-sur-le-methane-au-nom-de-la-securite-energetique_6813359_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T18:32+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "43a525a11c5f",
-   "title": "HugoDécrypte, Guillaume Pley... L'Arcom impose aux créateurs de contenus de respecter le pluralisme dans leur traitement de la présidentielle",
-   "link": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/15811435080933/hugodecrypte-guillaume-pley-larcom-impose-aux-createurs-de-respecter-le-pluralisme-dans-leur-traitement-de-la-presidentielle",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T18:30+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "f1587f80d3b3",
-   "title": "En cette fin d’année, le commerce de l’habillement s’alarme de la conjoncture",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/19/en-cette-fin-d-annee-le-commerce-de-l-habillement-s-alarme-de-la-conjoncture_6813351_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T18:04+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "70e57ccbad54",
-   "title": "L'ART rend un avis conforme sous réserves sur le projet de contrat de régulation économique (CRE) du groupe ADP",
-   "link": "https://air-cosmos.latribune.fr/article/aviation-civile/40434665903259/lart-rend-un-avis-conforme-sous-reserves-sur-le-projet-de-contrat-de-regulation-economique-cre-du-groupe-adp",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T18:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "df33ebc7e597",
-   "title": "Trump administration plans further cuts at US audit regulator",
-   "link": "https://www.ft.com/content/9c07ad42-0778-4a1c-b30b-f561f672f92e?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-19T17:54+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "73f112013fe7",
-   "title": "Le dispositif « Territoires zéro chômeur de longue durée », expérimenté depuis dix ans, pérennisé par les députés",
-   "link": "https://www.lemonde.fr/politique/article/2026/11/19/le-dispositif-territoires-zero-chomeur-de-longue-duree-experimente-depuis-dix-ans-perennise-par-les-deputes_6813347_823448.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T17:45+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T21:07+01:00"
-  },
-  {
-   "id": "4524fd3f0ca3",
-   "title": "AMD falls on short-seller report of alleged China exposure",
-   "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-   "source": "CNBC – marchés",
-   "reliability": 2,
-   "published": "2026-11-19T17:24+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "236dcf22c884",
-   "title": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
-   "link": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T17:21+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "a2baf74492b3",
-   "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T17:15+01:00",
-   "themes": [
-    "Risque & crédit"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "70723a2bbabc",
-   "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-   "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T17:14+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "3e5c462fb7d5",
-   "title": "A Lyon, le promoteur immobilier Nexity livre des logements conçus sans climatisation ni chauffage",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/19/a-lyon-le-promoteur-immobilier-nexity-livre-des-logements-concus-sans-climatisation-ni-chauffage_6813342_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T17:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "44077dac6b84",
-   "title": "Dissuasion avancée : après le Royaume-Uni, l’armée de l’Air s’entraîne avec la Suède",
-   "link": "https://air-cosmos.latribune.fr/article/defense/31186342803174/dissuasion-avancee-apres-le-royaume-uni-l-armee-de-l-air-s-entraine-avec-la-suede",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T17:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "c6d87bb33ae7",
-   "title": "Anthropic raises $81bn in record-breaking stock market debut",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-19T16:58+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "5bbd79450c61",
-   "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-   "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T16:57+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "62e76243fda5",
-   "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?",
-   "link": "https://www.marketwatch.com/story/can-anthropics-ipo-do-for-the-stock-market-what-nvidias-earnings-couldnt-be67a434?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T16:51+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "5d8913f71b9f",
-   "title": "‘Pot luck service’: Royal Mail on course to miss delivery targets for fourth year in a row",
-   "link": "https://www.theguardian.com/business/2026/nov/19/royal-mail-to-miss-delivery-targets-fourth-year-in-row",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-19T16:42+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "d104f4257ee4",
-   "title": "Avec 107 milliards levés à Wall Street, Anthropic efface le record de SpaceX",
-   "link": "https://www.latribune.fr/article/banques-finance/industrie-financiere/1609287453844614/avec-plus-de-80-milliards-leves-a-wall-street-anthropic-efface-le-record-spacex",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T16:36+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "9f00d044ab70",
-   "title": "Echec de Vulcan : Blue Origin hors de cause d’après les premiers éléments de l’enquête",
-   "link": "https://air-cosmos.latribune.fr/article/espace/25061386133197/echec-de-vulcan-blue-origin-hors-de-cause-d-apres-les-premiers-elements-de-l-enquete",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-19T16:28+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "d690caa12512",
-   "title": "Trump says Americans should ‘relax’ as Washington scrambles to get to the bottom of outages",
-   "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T16:01+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "f41fd6f27c29",
-   "title": "« Inside Deutsche Bank » : comment l’argent du clan Al-Assad a circulé en Europe, malgré les enquêtes judiciaires",
-   "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-comment-l-argent-du-clan-al-assad-a-circule-en-europe-malgre-les-enquetes-judiciaires_6813322_4355770.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-19T16:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
-  },
-  {
-   "id": "adbbf08a4bfd",
-   "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
-   "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-19T15:48+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-19T17:26+01:00"
   }
  ],
  "errors": {},

@@ -1,6 +1,6 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-21T15:40+01:00",
+"genere_le": "2026-11-21T21:56+01:00",
 "date": "2026-11-21",
 "jour": "samedi",
 "drapeaux": {
@@ -312,11 +312,11 @@
 "groupe": "fx",
 "libelle": "USD/CNY",
 "date": "2026-11-21",
-"valeur": "6,6772",
-"var_1j": "+0,16 %",
-"var_1sem": "+0,10 %",
-"var_ytd": "-4,56 %",
-"var_mois": "+0,24 %"
+"valeur": "6,6623",
+"var_1j": "-0,06 %",
+"var_1sem": "-0,12 %",
+"var_ytd": "-4,77 %",
+"var_mois": "+0,02 %"
 },
 {
 "id": "dxy",
@@ -548,11 +548,11 @@
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
 "date": "2026-11-21",
-"valeur": "60 145",
-"var_1j": "+2,29 %",
-"var_1sem": "-6,21 %",
-"var_ytd": "-31,27 %",
-"var_mois": "-22,33 %"
+"valeur": "60 276",
+"var_1j": "+2,51 %",
+"var_1sem": "-6,01 %",
+"var_ytd": "-31,12 %",
+"var_mois": "-22,16 %"
 },
 {
 "id": "us_cpi",
@@ -746,18 +746,6 @@
 "heure": "2026-11-20T06:00+01:00"
 },
 {
-"id": "4adcecd39d3e",
-"titre": "Peterson: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-"source": "CNBC – économie",
-"lien": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-"note": 4,
-"themes": [
-"Banque centrale",
-"Risque & crédit"
-],
-"heure": "2026-11-19T21:21+01:00"
-},
-{
 "id": "a55ce1749647",
 "titre": "How can investors succeed in markets today?",
 "source": "Financial Times",
@@ -839,6 +827,18 @@
 "Banque centrale"
 ],
 "heure": "2026-11-20T16:00+01:00"
+},
+{
+"id": "ca1b4ecb67a7",
+"titre": "Anthropic shares tumble as AI giant swept up in tech sell-off",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+"note": 3,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-20T15:01+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -851,5 +851,5 @@
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "5c9284c80d50bf32"
+"empreinte": "301fa659afe8d21e"
 }
