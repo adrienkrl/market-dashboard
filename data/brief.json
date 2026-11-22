@@ -1,6 +1,6 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-22T08:42+01:00",
+"genere_le": "2026-11-22T15:36+01:00",
 "date": "2026-11-22",
 "jour": "dimanche",
 "drapeaux": {
@@ -13,7 +13,7 @@
 "id": "fed_upper",
 "groupe": "policy",
 "libelle": "Fed funds – borne haute",
-"date": "2026-11-21",
+"date": "2026-11-22",
 "valeur": "3,75 – 4,00 %",
 "var_1j": "+0 pb",
 "var_1sem": "+0 pb",
@@ -312,11 +312,11 @@
 "groupe": "fx",
 "libelle": "USD/CNY",
 "date": "2026-11-22",
-"valeur": "6,6772",
-"var_1j": "+0,22 %",
-"var_1sem": "+0,10 %",
-"var_ytd": "-4,56 %",
-"var_mois": "+0,24 %"
+"valeur": "6,6765",
+"var_1j": "+0,21 %",
+"var_1sem": "+0,09 %",
+"var_ytd": "-4,57 %",
+"var_mois": "+0,23 %"
 },
 {
 "id": "dxy",
@@ -548,11 +548,11 @@
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
 "date": "2026-11-22",
-"valeur": "58 938",
-"var_1j": "-1,92 %",
-"var_1sem": "-9,75 %",
-"var_ytd": "-32,65 %",
-"var_mois": "-23,89 %"
+"valeur": "60 583",
+"var_1j": "+0,81 %",
+"var_1sem": "-7,23 %",
+"var_ytd": "-30,77 %",
+"var_mois": "-21,76 %"
 },
 {
 "id": "us_cpi",
@@ -825,27 +825,26 @@
 "heure": "2026-11-20T16:00+01:00"
 },
 {
-"id": "ca1b4ecb67a7",
-"titre": "Anthropic shares tumble as AI giant swept up in tech sell-off",
-"source": "Financial Times",
-"lien": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
-"note": 3,
+"id": "d6d28b06e4a5",
+"titre": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+"source": "MarketWatch",
+"lien": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+"note": 2,
 "themes": [
-"Risque & crédit",
 "Marchés"
 ],
-"heure": "2026-11-20T15:01+01:00"
+"heure": "2026-11-22T15:00+01:00"
 },
 {
-"id": "b31d9867d890",
-"titre": "Waller, Opening Remarks",
-"source": "Fed – discours",
-"lien": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
-"note": 3,
+"id": "5846632e2117",
+"titre": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
+"source": "MarketWatch",
+"lien": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
+"note": 2,
 "themes": [
-"Banque centrale"
+"Marchés"
 ],
-"heure": "2026-11-20T14:25+01:00"
+"heure": "2026-11-22T13:30+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -858,5 +857,5 @@
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "8f0ecb656c032d87"
+"empreinte": "9ff082421a671ebd"
 }
