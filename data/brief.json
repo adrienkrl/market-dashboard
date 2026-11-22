@@ -1,8 +1,8 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-21T21:56+01:00",
-"date": "2026-11-21",
-"jour": "samedi",
+"genere_le": "2026-11-22T08:42+01:00",
+"date": "2026-11-22",
+"jour": "dimanche",
 "drapeaux": {
 "rapport_mensuel_a_ecrire": false,
 "lendemain_reunion": [],
@@ -278,9 +278,9 @@
 "id": "gbpusd",
 "groupe": "fx",
 "libelle": "GBP/USD",
-"date": "2026-11-21",
+"date": "2026-11-22",
 "valeur": "1,3082",
-"var_1j": "-0,04 %",
+"var_1j": "+0,00 %",
 "var_1sem": "-1,13 %",
 "var_ytd": "-2,86 %",
 "var_mois": "-2,22 %"
@@ -311,12 +311,12 @@
 "id": "usdcny",
 "groupe": "fx",
 "libelle": "USD/CNY",
-"date": "2026-11-21",
-"valeur": "6,6623",
-"var_1j": "-0,06 %",
-"var_1sem": "-0,12 %",
-"var_ytd": "-4,77 %",
-"var_mois": "+0,02 %"
+"date": "2026-11-22",
+"valeur": "6,6772",
+"var_1j": "+0,22 %",
+"var_1sem": "+0,10 %",
+"var_ytd": "-4,56 %",
+"var_mois": "+0,24 %"
 },
 {
 "id": "dxy",
@@ -482,22 +482,22 @@
 "groupe": "commo",
 "libelle": "Brent ($/b)",
 "date": "2026-11-20",
-"valeur": "92,57",
-"var_1j": "+0,64 %",
-"var_1sem": "-3,41 %",
-"var_ytd": "+52,13 %",
-"var_mois": "-21,31 %"
+"valeur": "89,95",
+"var_1j": "-2,21 %",
+"var_1sem": "-6,15 %",
+"var_ytd": "+47,82 %",
+"var_mois": "-23,54 %"
 },
 {
 "id": "wti",
 "groupe": "commo",
 "libelle": "WTI ($/b)",
 "date": "2026-11-20",
-"valeur": "83,98",
-"var_1j": "+0,93 %",
-"var_1sem": "-5,17 %",
-"var_ytd": "+46,26 %",
-"var_mois": "-19,34 %"
+"valeur": "83,41",
+"var_1j": "+0,24 %",
+"var_1sem": "-5,82 %",
+"var_ytd": "+45,26 %",
+"var_mois": "-19,89 %"
 },
 {
 "id": "ttf",
@@ -526,33 +526,33 @@
 "groupe": "commo",
 "libelle": "Argent ($/oz)",
 "date": "2026-11-20",
-"valeur": "41,03",
-"var_1j": "-7,41 %",
-"var_1sem": "-16,31 %",
-"var_ytd": "-41,49 %",
-"var_mois": "-16,42 %"
+"valeur": "41,07",
+"var_1j": "-7,33 %",
+"var_1sem": "-16,24 %",
+"var_ytd": "-41,44 %",
+"var_mois": "-16,35 %"
 },
 {
 "id": "copper",
 "groupe": "commo",
 "libelle": "Cuivre ($/lb)",
 "date": "2026-11-20",
-"valeur": "5,477",
-"var_1j": "-2,63 %",
-"var_1sem": "-9,91 %",
-"var_ytd": "-2,72 %",
-"var_mois": "-15,20 %"
+"valeur": "5,485",
+"var_1j": "-2,49 %",
+"var_1sem": "-9,78 %",
+"var_ytd": "-2,58 %",
+"var_mois": "-15,07 %"
 },
 {
 "id": "btc",
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
-"date": "2026-11-21",
-"valeur": "60 276",
-"var_1j": "+2,51 %",
-"var_1sem": "-6,01 %",
-"var_ytd": "-31,12 %",
-"var_mois": "-22,16 %"
+"date": "2026-11-22",
+"valeur": "58 938",
+"var_1j": "-1,92 %",
+"var_1sem": "-9,75 %",
+"var_ytd": "-32,65 %",
+"var_mois": "-23,89 %"
 },
 {
 "id": "us_cpi",
@@ -674,6 +674,15 @@
 "consensus": "n.d.",
 "rendement_precedent": "4,708 %",
 "note": "Montant offert : 69 Md$"
+},
+{
+"date": "2026-11-24",
+"heure_paris": "19:00",
+"evenement": "Adjudication Trésor US – 5-Year Note",
+"importance": 1,
+"consensus": "n.d.",
+"rendement_precedent": "4,845 %",
+"note": "Montant offert : 70 Md$"
 }
 ],
 "publie_depuis_hier": [],
@@ -731,19 +740,6 @@
 "Marchés"
 ],
 "heure": "2026-11-20T17:26+01:00"
-},
-{
-"id": "cf8738295f10",
-"titre": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
-"source": "Financial Times",
-"lien": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
-"note": 4,
-"themes": [
-"Inflation",
-"Marchés",
-"Budget & souverains"
-],
-"heure": "2026-11-20T06:00+01:00"
 },
 {
 "id": "a55ce1749647",
@@ -839,6 +835,17 @@
 "Marchés"
 ],
 "heure": "2026-11-20T15:01+01:00"
+},
+{
+"id": "b31d9867d890",
+"titre": "Waller, Opening Remarks",
+"source": "Fed – discours",
+"lien": "https://www.federalreserve.gov/newsevents/speech/waller20261120a.htm",
+"note": 3,
+"themes": [
+"Banque centrale"
+],
+"heure": "2026-11-20T14:25+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -847,9 +854,9 @@
 "alertes_sources": {},
 "controles_du_mois": {
 "mois": "2026-11",
-"textes_controles": 7,
+"textes_controles": 9,
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "301fa659afe8d21e"
+"empreinte": "8f0ecb656c032d87"
 }
