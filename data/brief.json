@@ -1,6 +1,6 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-22T15:36+01:00",
+"genere_le": "2026-11-22T22:04+01:00",
 "date": "2026-11-22",
 "jour": "dimanche",
 "drapeaux": {
@@ -312,11 +312,11 @@
 "groupe": "fx",
 "libelle": "USD/CNY",
 "date": "2026-11-22",
-"valeur": "6,6765",
-"var_1j": "+0,21 %",
-"var_1sem": "+0,09 %",
-"var_ytd": "-4,57 %",
-"var_mois": "+0,23 %"
+"valeur": "6,6623",
+"var_1j": "+0,00 %",
+"var_1sem": "-0,12 %",
+"var_ytd": "-4,77 %",
+"var_mois": "+0,02 %"
 },
 {
 "id": "dxy",
@@ -548,11 +548,11 @@
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
 "date": "2026-11-22",
-"valeur": "60 583",
-"var_1j": "+0,81 %",
-"var_1sem": "-7,23 %",
-"var_ytd": "-30,77 %",
-"var_mois": "-21,76 %"
+"valeur": "60 936",
+"var_1j": "+1,40 %",
+"var_1sem": "-6,69 %",
+"var_ytd": "-30,37 %",
+"var_mois": "-21,31 %"
 },
 {
 "id": "us_cpi",
@@ -730,8 +730,20 @@
 ],
 "top10_actualites": [
 {
+"id": "7abcb9e67aa8",
+"titre": "Tech stock sell-off drags markets down as Anthropic shares slide",
+"source": "BBC Business",
+"lien": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+"note": 4,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-20T23:42+01:00"
+},
+{
 "id": "fd2811614640",
-"titre": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+"titre": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
 "source": "The Guardian – business",
 "lien": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
 "note": 4,
@@ -739,7 +751,7 @@
 "Risque & crédit",
 "Marchés"
 ],
-"heure": "2026-11-20T17:26+01:00"
+"heure": "2026-11-20T22:38+01:00"
 },
 {
 "id": "a55ce1749647",
@@ -791,38 +803,37 @@
 "heure": "2026-11-20T22:15+01:00"
 },
 {
-"id": "ca0b6701fd38",
-"titre": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-"source": "CNBC – marchés",
-"lien": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-"note": 3,
+"id": "13e9533680fb",
+"titre": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
+"source": "Le Monde – économie",
+"lien": "https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html",
+"note": 2,
 "themes": [
-"Risque & crédit",
-"Marchés"
+"Budget & souverains"
 ],
-"heure": "2026-11-20T20:59+01:00"
+"heure": "2026-11-22T19:53+01:00"
 },
 {
-"id": "da9cc5ebd5f3",
-"titre": "Cook, The U.S. Economy in Global Context",
-"source": "Fed – discours",
-"lien": "https://www.federalreserve.gov/newsevents/speech/cook20261120a.htm",
-"note": 3,
+"id": "459286d9475e",
+"titre": "These little-known investments could be among the best bargains in a crash",
+"source": "MarketWatch",
+"lien": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+"note": 2,
 "themes": [
-"Banque centrale"
+"Risque & crédit"
 ],
-"heure": "2026-11-20T18:15+01:00"
+"heure": "2026-11-22T19:23+01:00"
 },
 {
-"id": "62496b2db133",
-"titre": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-"source": "Fed – communiqués",
-"lien": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-"note": 3,
+"id": "93000ba93e86",
+"titre": "Dans le Nord, Vanderschooten fait le pari de relancer le linge de maison made in France",
+"source": "Le Monde – économie",
+"lien": "https://www.lemonde.fr/economie/article/2026/11/22/dans-le-nord-vanderschooten-fait-le-pari-de-relancer-le-linge-de-maison-made-in-france_6814226_3234.html",
+"note": 2,
 "themes": [
-"Banque centrale"
+"Risque & crédit"
 ],
-"heure": "2026-11-20T16:00+01:00"
+"heure": "2026-11-22T17:00+01:00"
 },
 {
 "id": "d6d28b06e4a5",
@@ -834,17 +845,6 @@
 "Marchés"
 ],
 "heure": "2026-11-22T15:00+01:00"
-},
-{
-"id": "5846632e2117",
-"titre": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
-"source": "MarketWatch",
-"lien": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
-"note": 2,
-"themes": [
-"Marchés"
-],
-"heure": "2026-11-22T13:30+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -857,5 +857,5 @@
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "9ff082421a671ebd"
+"empreinte": "8424bb45b6022a11"
 }

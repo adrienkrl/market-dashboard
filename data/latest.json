@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:35+01:00",
+ "generated_at": "2026-11-22T22:04+01:00",
  "groups": [
   {
    "id": "policy",
@@ -5692,7 +5692,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "usdjpy",
@@ -5983,7 +5983,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "gbpusd",
@@ -6274,7 +6274,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "eurgbp",
@@ -6565,7 +6565,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "usdchf",
@@ -6856,7 +6856,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "usdcny",
@@ -6872,10 +6872,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-22",
-   "value": 6.6765,
-   "chg_1d": 0.21,
-   "chg_1w": 0.09,
-   "chg_ytd": -4.57,
+   "value": 6.6623,
+   "chg_1d": 0.0,
+   "chg_1w": -0.12,
+   "chg_ytd": -4.77,
    "spark": [
     [
      "2026-08-24",
@@ -7143,11 +7143,11 @@
     ],
     [
      "2026-11-22",
-     6.6765
+     6.6623
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "dxy",
@@ -7434,7 +7434,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "spx",
@@ -7721,7 +7721,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "ndx",
@@ -8008,7 +8008,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "sx5e",
@@ -8299,7 +8299,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "cac",
@@ -8590,7 +8590,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "dax",
@@ -8881,7 +8881,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "ftse",
@@ -9168,7 +9168,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "nikkei",
@@ -9439,7 +9439,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "hsi",
@@ -9722,7 +9722,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "em",
@@ -10009,7 +10009,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "vix",
@@ -10300,7 +10300,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "vstoxx",
@@ -10595,7 +10595,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "us_ig",
@@ -10955,7 +10955,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "wti",
@@ -11242,7 +11242,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "ttf",
@@ -11529,7 +11529,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "gold",
@@ -11816,7 +11816,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "silver",
@@ -12103,7 +12103,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "copper",
@@ -12390,7 +12390,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "btc",
@@ -12406,10 +12406,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-22",
-   "value": 60583.2,
-   "chg_1d": 0.81,
-   "chg_1w": -7.23,
-   "chg_ytd": -30.77,
+   "value": 60936.0,
+   "chg_1d": 1.4,
+   "chg_1w": -6.69,
+   "chg_ytd": -30.37,
    "spark": [
     [
      "2026-08-22",
@@ -12781,11 +12781,11 @@
     ],
     [
      "2026-11-22",
-     60583.2
+     60936.0
     ]
    ],
    "status": "ok",
-   "fetched_at": "15:35"
+   "fetched_at": "22:04"
   },
   {
    "id": "us_cpi",
