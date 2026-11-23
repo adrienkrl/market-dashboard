@@ -1,6 +1,6 @@
 {
  "refreshed_at": "2026-11-23T08:42+01:00",
- "updated_at": "2026-11-23T08:42+01:00",
+ "updated_at": "2026-11-23T19:10+01:00",
  "events": [
   {
    "id": "us_retail-2026-11-17",
@@ -79,7 +79,10 @@
    "source": "TreasuryDirect",
    "url": "https://www.treasurydirect.gov/auctions/upcoming/",
    "previous": 4.708,
-   "previous_date": "2026-10-26"
+   "previous_date": "2026-10-26",
+   "actual": 4.7,
+   "bid_to_cover": 2.65,
+   "change_bp": -0.8
   },
   {
    "id": "ust-91282CRZ6-2026-11-24",

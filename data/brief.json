@@ -1,6 +1,6 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-23T08:42+01:00",
+"genere_le": "2026-11-23T19:10+01:00",
 "date": "2026-11-23",
 "jour": "lundi",
 "drapeaux": {
@@ -13,7 +13,7 @@
 "id": "fed_upper",
 "groupe": "policy",
 "libelle": "Fed funds – borne haute",
-"date": "2026-11-22",
+"date": "2026-11-23",
 "valeur": "3,75 – 4,00 %",
 "var_1j": "+0 pb",
 "var_1sem": "+0 pb",
@@ -35,7 +35,7 @@
 "id": "boe_bank",
 "groupe": "policy",
 "libelle": "BoE – Bank Rate",
-"date": "2026-11-19",
+"date": "2026-11-20",
 "valeur": "4,00 %",
 "var_1j": "+0 pb",
 "var_1sem": "+0 pb",
@@ -68,12 +68,12 @@
 "id": "sofr",
 "groupe": "short",
 "libelle": "SOFR",
-"date": "2026-11-19",
-"valeur": "3,91 %",
+"date": "2026-11-20",
+"valeur": "3,92 %",
 "var_1j": "+1 pb",
-"var_1sem": "+1 pb",
-"var_ytd": "+4 pb",
-"var_mois": "-4 pb"
+"var_1sem": "+2 pb",
+"var_ytd": "+5 pb",
+"var_mois": "-3 pb"
 },
 {
 "id": "euribor3m",
@@ -121,10 +121,10 @@
 "id": "de2y",
 "groupe": "govt",
 "libelle": "Bund 2 ans",
-"date": "2026-11-20",
+"date": "2026-11-23",
 "valeur": "3,08 %",
-"var_1j": "-6 pb",
-"var_1sem": "-5 pb",
+"var_1j": "+0 pb",
+"var_1sem": "-8 pb",
 "var_ytd": "+97 pb",
 "var_mois": "+2 pb"
 },
@@ -132,12 +132,12 @@
 "id": "de10y",
 "groupe": "govt",
 "libelle": "Bund 10 ans",
-"date": "2026-11-20",
-"valeur": "3,39 %",
-"var_1j": "-6 pb",
-"var_1sem": "-4 pb",
-"var_ytd": "+45 pb",
-"var_mois": "-1 pb"
+"date": "2026-11-23",
+"valeur": "3,37 %",
+"var_1j": "-2 pb",
+"var_1sem": "-8 pb",
+"var_ytd": "+43 pb",
+"var_mois": "-3 pb"
 },
 {
 "id": "fr10y_m",
@@ -161,12 +161,12 @@
 "id": "gb10y",
 "groupe": "govt",
 "libelle": "Gilt 10 ans",
-"date": "2026-11-18",
-"valeur": "5,27 %",
-"var_1j": "-8 pb",
-"var_1sem": "+6 pb",
-"var_ytd": "+80 pb",
-"var_mois": "+2 pb"
+"date": "2026-11-19",
+"valeur": "5,29 %",
+"var_1j": "+2 pb",
+"var_1sem": "+4 pb",
+"var_ytd": "+82 pb",
+"var_mois": "+4 pb"
 },
 {
 "id": "jp10y",
@@ -212,12 +212,12 @@
 "id": "de2s10s",
 "groupe": "spreads",
 "libelle": "Pente Allemagne 2s10s",
-"date": "2026-11-20",
-"valeur": "31 pb",
-"var_1j": "+0 pb",
-"var_1sem": "+1 pb",
-"var_ytd": "-52 pb",
-"var_mois": "-3 pb"
+"date": "2026-11-23",
+"valeur": "29 pb",
+"var_1j": "-2 pb",
+"var_1sem": "+0 pb",
+"var_ytd": "-54 pb",
+"var_mois": "-5 pb"
 },
 {
 "id": "us_be10",
@@ -245,10 +245,10 @@
 "id": "eu_proxy",
 "groupe": "expect",
 "libelle": "Proxy : Bund 2 ans – taux de dépôt BCE",
-"date": "2026-11-20",
+"date": "2026-11-23",
 "valeur": "58 pb",
-"var_1j": "-6 pb",
-"var_1sem": "-5 pb",
+"var_1j": "+0 pb",
+"var_1sem": "-8 pb",
 "var_ytd": "+47 pb",
 "var_mois": "+2 pb"
 },
@@ -257,44 +257,44 @@
 "groupe": "fx",
 "libelle": "EUR/USD",
 "date": "2026-11-23",
-"valeur": "1,1005",
-"var_1j": "+0,32 %",
-"var_1sem": "-0,18 %",
-"var_ytd": "-6,32 %",
-"var_mois": "-1,59 %"
+"valeur": "1,0886",
+"var_1j": "-0,76 %",
+"var_1sem": "-1,26 %",
+"var_ytd": "-7,33 %",
+"var_mois": "-2,65 %"
 },
 {
 "id": "usdjpy",
 "groupe": "fx",
 "libelle": "USD/JPY",
 "date": "2026-11-23",
-"valeur": "158,93",
-"var_1j": "-0,48 %",
-"var_1sem": "-0,53 %",
-"var_ytd": "+1,61 %",
-"var_mois": "+0,72 %"
+"valeur": "159,24",
+"var_1j": "-0,29 %",
+"var_1sem": "-0,34 %",
+"var_ytd": "+1,81 %",
+"var_mois": "+0,91 %"
 },
 {
 "id": "gbpusd",
 "groupe": "fx",
 "libelle": "GBP/USD",
 "date": "2026-11-23",
-"valeur": "1,3122",
-"var_1j": "+0,31 %",
-"var_1sem": "-0,72 %",
-"var_ytd": "-2,56 %",
-"var_mois": "-1,92 %"
+"valeur": "1,3015",
+"var_1j": "-0,51 %",
+"var_1sem": "-1,53 %",
+"var_ytd": "-3,36 %",
+"var_mois": "-2,72 %"
 },
 {
 "id": "eurgbp",
 "groupe": "fx",
 "libelle": "EUR/GBP",
 "date": "2026-11-23",
-"valeur": "0,8382",
-"var_1j": "+0,02 %",
-"var_1sem": "+0,49 %",
-"var_ytd": "-3,90 %",
-"var_mois": "+0,28 %"
+"valeur": "0,8362",
+"var_1j": "-0,21 %",
+"var_1sem": "+0,25 %",
+"var_ytd": "-4,13 %",
+"var_mois": "+0,04 %"
 },
 {
 "id": "usdchf",
@@ -312,88 +312,88 @@
 "groupe": "fx",
 "libelle": "USD/CNY",
 "date": "2026-11-23",
-"valeur": "6,6637",
-"var_1j": "+0,02 %",
-"var_1sem": "-0,11 %",
-"var_ytd": "-4,75 %",
-"var_mois": "+0,04 %"
+"valeur": "6,6547",
+"var_1j": "-0,11 %",
+"var_1sem": "-0,24 %",
+"var_ytd": "-4,88 %",
+"var_mois": "-0,09 %"
 },
 {
 "id": "dxy",
 "groupe": "fx",
 "libelle": "Dollar Index (DXY)",
 "date": "2026-11-23",
-"valeur": "103,62",
-"var_1j": "-0,18 %",
-"var_1sem": "+0,07 %",
-"var_ytd": "+5,43 %",
-"var_mois": "+1,71 %"
+"valeur": "104,50",
+"var_1j": "+0,67 %",
+"var_1sem": "+0,92 %",
+"var_ytd": "+6,33 %",
+"var_mois": "+2,57 %"
 },
 {
 "id": "spx",
 "groupe": "equity",
 "libelle": "S&P 500",
-"date": "2026-11-20",
-"valeur": "6 910,39",
-"var_1j": "-3,70 %",
-"var_1sem": "-8,61 %",
-"var_ytd": "+0,95 %",
-"var_mois": "-8,83 %"
+"date": "2026-11-23",
+"valeur": "7 246,56",
+"var_1j": "+4,86 %",
+"var_1sem": "-2,29 %",
+"var_ytd": "+5,86 %",
+"var_mois": "-4,40 %"
 },
 {
 "id": "ndx",
 "groupe": "equity",
 "libelle": "Nasdaq 100",
-"date": "2026-11-20",
-"valeur": "25 029,00",
-"var_1j": "-5,61 %",
-"var_1sem": "-10,43 %",
-"var_ytd": "-0,87 %",
-"var_mois": "-11,82 %"
+"date": "2026-11-23",
+"valeur": "26 760,70",
+"var_1j": "+6,92 %",
+"var_1sem": "-1,60 %",
+"var_ytd": "+5,98 %",
+"var_mois": "-5,72 %"
 },
 {
 "id": "sx5e",
 "groupe": "equity",
 "libelle": "Euro Stoxx 50",
-"date": "2026-11-20",
-"valeur": "5 941,95",
-"var_1j": "-2,81 %",
-"var_1sem": "-6,97 %",
-"var_ytd": "+2,51 %",
-"var_mois": "-3,09 %"
+"date": "2026-11-23",
+"valeur": "6 074,47",
+"var_1j": "+2,23 %",
+"var_1sem": "-4,31 %",
+"var_ytd": "+4,80 %",
+"var_mois": "-0,93 %"
 },
 {
 "id": "cac",
 "groupe": "equity",
 "libelle": "CAC 40",
-"date": "2026-11-20",
-"valeur": "7 927,75",
-"var_1j": "-1,89 %",
-"var_1sem": "-5,27 %",
-"var_ytd": "-2,72 %",
-"var_mois": "-0,52 %"
+"date": "2026-11-23",
+"valeur": "8 044,84",
+"var_1j": "+1,48 %",
+"var_1sem": "-3,68 %",
+"var_ytd": "-1,28 %",
+"var_mois": "+0,95 %"
 },
 {
 "id": "dax",
 "groupe": "equity",
 "libelle": "DAX",
-"date": "2026-11-20",
-"valeur": "24 802,80",
-"var_1j": "-2,60 %",
-"var_1sem": "-7,28 %",
-"var_ytd": "+1,28 %",
-"var_mois": "-3,93 %"
+"date": "2026-11-23",
+"valeur": "25 337,30",
+"var_1j": "+2,15 %",
+"var_1sem": "-4,74 %",
+"var_ytd": "+3,46 %",
+"var_mois": "-1,86 %"
 },
 {
 "id": "ftse",
 "groupe": "equity",
 "libelle": "FTSE 100",
-"date": "2026-11-20",
-"valeur": "10 346,30",
-"var_1j": "-1,02 %",
-"var_1sem": "-5,10 %",
-"var_ytd": "+4,18 %",
-"var_mois": "-3,57 %"
+"date": "2026-11-23",
+"valeur": "10 480,80",
+"var_1j": "+1,30 %",
+"var_1sem": "-3,68 %",
+"var_ytd": "+5,53 %",
+"var_mois": "-2,32 %"
 },
 {
 "id": "nikkei",
@@ -421,138 +421,138 @@
 "id": "em",
 "groupe": "equity",
 "libelle": "MSCI EM (proxy ETF EEM, $)",
-"date": "2026-11-20",
-"valeur": "53,84",
-"var_1j": "-5,13 %",
-"var_1sem": "-11,62 %",
-"var_ytd": "-1,59 %",
-"var_mois": "-11,80 %"
+"date": "2026-11-23",
+"valeur": "57,95",
+"var_1j": "+7,64 %",
+"var_1sem": "-1,59 %",
+"var_ytd": "+5,93 %",
+"var_mois": "-5,05 %"
 },
 {
 "id": "vix",
 "groupe": "vol",
 "libelle": "VIX",
-"date": "2026-11-20",
-"valeur": "35,89",
-"var_1j": "+26,20 %",
-"var_1sem": "+85,96 %",
-"var_ytd": "+140,07 %",
-"var_mois": "+84,81 %"
+"date": "2026-11-23",
+"valeur": "27,60",
+"var_1j": "-23,10 %",
+"var_1sem": "+20,47 %",
+"var_ytd": "+84,62 %",
+"var_mois": "+42,12 %"
 },
 {
 "id": "move",
 "groupe": "vol",
 "libelle": "MOVE (vol. taux US)",
-"date": "2026-11-20",
-"valeur": "106,31",
-"var_1j": "+10,69 %",
-"var_1sem": "+7,61 %",
-"var_ytd": "+66,21 %",
-"var_mois": "+6,10 %"
+"date": "2026-11-23",
+"valeur": "102,14",
+"var_1j": "-3,92 %",
+"var_1sem": "+0,85 %",
+"var_ytd": "+59,70 %",
+"var_mois": "+1,94 %"
 },
 {
 "id": "us_ig",
 "groupe": "credit",
 "libelle": "OAS Investment Grade US",
-"date": "2026-11-19",
-"var_1j": "+1 pb",
-"var_1sem": "+5 pb",
-"var_ytd": "+15 pb"
+"date": "2026-11-20",
+"var_1j": "+4 pb",
+"var_1sem": "+9 pb",
+"var_ytd": "+19 pb"
 },
 {
 "id": "us_hy",
 "groupe": "credit",
 "libelle": "OAS High Yield US",
-"date": "2026-11-19",
-"var_1j": "+5 pb",
-"var_1sem": "+32 pb",
-"var_ytd": "+71 pb"
+"date": "2026-11-20",
+"var_1j": "+24 pb",
+"var_1sem": "+53 pb",
+"var_ytd": "+95 pb"
 },
 {
 "id": "eu_hy",
 "groupe": "credit",
 "libelle": "OAS High Yield euro",
-"date": "2026-11-19",
-"var_1j": "-2 pb",
-"var_1sem": "+14 pb",
-"var_ytd": "+67 pb"
+"date": "2026-11-20",
+"var_1j": "+17 pb",
+"var_1sem": "+28 pb",
+"var_ytd": "+84 pb"
 },
 {
 "id": "brent",
 "groupe": "commo",
 "libelle": "Brent ($/b)",
 "date": "2026-11-23",
-"valeur": "89,58",
-"var_1j": "-3,23 %",
-"var_1sem": "-3,09 %",
-"var_ytd": "+47,21 %",
-"var_mois": "-23,85 %"
+"valeur": "87,35",
+"var_1j": "-5,64 %",
+"var_1sem": "-5,51 %",
+"var_ytd": "+43,55 %",
+"var_mois": "-25,75 %"
 },
 {
 "id": "wti",
 "groupe": "commo",
 "libelle": "WTI ($/b)",
 "date": "2026-11-23",
-"valeur": "83,04",
-"var_1j": "-1,12 %",
-"var_1sem": "-3,13 %",
-"var_ytd": "+44,62 %",
-"var_mois": "-20,25 %"
+"valeur": "81,09",
+"var_1j": "-3,44 %",
+"var_1sem": "-5,40 %",
+"var_ytd": "+41,22 %",
+"var_mois": "-22,12 %"
 },
 {
 "id": "ttf",
 "groupe": "commo",
 "libelle": "Gaz TTF (€/MWh)",
-"date": "2026-11-20",
-"valeur": "88,45",
-"var_1j": "+4,73 %",
-"var_1sem": "-2,75 %",
-"var_ytd": "+214,09 %",
-"var_mois": "-14,91 %"
+"date": "2026-11-23",
+"valeur": "91,39",
+"var_1j": "+3,32 %",
+"var_1sem": "+7,84 %",
+"var_ytd": "+224,53 %",
+"var_mois": "-12,08 %"
 },
 {
 "id": "gold",
 "groupe": "commo",
 "libelle": "Or ($/oz)",
 "date": "2026-11-23",
-"valeur": "3 629,9",
-"var_1j": "+3,26 %",
-"var_1sem": "-5,79 %",
-"var_ytd": "-16,38 %",
-"var_mois": "-6,90 %"
+"valeur": "3 654,2",
+"var_1j": "+3,95 %",
+"var_1sem": "-5,16 %",
+"var_ytd": "-15,82 %",
+"var_mois": "-6,28 %"
 },
 {
 "id": "silver",
 "groupe": "commo",
 "libelle": "Argent ($/oz)",
 "date": "2026-11-23",
-"valeur": "42,63",
-"var_1j": "+3,90 %",
-"var_1sem": "-8,87 %",
-"var_ytd": "-39,21 %",
-"var_mois": "-13,16 %"
+"valeur": "43,14",
+"var_1j": "+5,13 %",
+"var_1sem": "-7,79 %",
+"var_ytd": "-38,49 %",
+"var_mois": "-12,13 %"
 },
 {
 "id": "copper",
 "groupe": "commo",
 "libelle": "Cuivre ($/lb)",
 "date": "2026-11-23",
-"valeur": "5,533",
-"var_1j": "+1,02 %",
-"var_1sem": "-7,74 %",
-"var_ytd": "-1,72 %",
-"var_mois": "-14,33 %"
+"valeur": "5,634",
+"var_1j": "+2,87 %",
+"var_1sem": "-6,06 %",
+"var_ytd": "+0,07 %",
+"var_mois": "-12,77 %"
 },
 {
 "id": "btc",
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
 "date": "2026-11-23",
-"valeur": "61 432",
-"var_1j": "+0,44 %",
-"var_1sem": "-5,28 %",
-"var_ytd": "-29,80 %",
-"var_mois": "-20,67 %"
+"valeur": "61 505",
+"var_1j": "+0,56 %",
+"var_1sem": "-5,17 %",
+"var_ytd": "-29,72 %",
+"var_mois": "-20,57 %"
 },
 {
 "id": "us_cpi",
@@ -673,6 +673,9 @@
 "importance": 1,
 "consensus": "n.d.",
 "rendement_precedent": "4,708 %",
+"rendement_servi": "4,700 %",
+"bid_to_cover": "2,65",
+"variation": "-0,8 pb",
 "note": "Montant offert : 69 Md$"
 },
 {
@@ -720,7 +723,20 @@
 "note": "Montant offert : 44 Md$"
 }
 ],
-"publie_depuis_hier": [],
+"publie_depuis_hier": [
+{
+"date": "2026-11-23",
+"heure_paris": "19:00",
+"evenement": "Adjudication Trésor US – 2-Year Note",
+"importance": 1,
+"consensus": "n.d.",
+"rendement_precedent": "4,708 %",
+"rendement_servi": "4,700 %",
+"bid_to_cover": "2,65",
+"variation": "-0,8 pb",
+"note": "Montant offert : 69 Md$"
+}
+],
 "evenements_de_la_semaine": [
 {
 "date": "2026-11-17",
@@ -769,10 +785,82 @@
 "importance": 1,
 "consensus": "n.d.",
 "rendement_precedent": "4,708 %",
+"rendement_servi": "4,700 %",
+"bid_to_cover": "2,65",
+"variation": "-0,8 pb",
 "note": "Montant offert : 69 Md$"
 }
 ],
 "top10_actualites": [
+{
+"id": "2316ea321be0",
+"titre": "Gas prices in Europe surge as forecast cold snap feeds supply shortage fears",
+"source": "The Guardian – business",
+"lien": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
+"note": 4,
+"themes": [
+"Banque centrale",
+"Marchés"
+],
+"heure": "2026-11-23T09:45+01:00"
+},
+{
+"id": "dd6e64bcc52a",
+"titre": "Philip R. Lane: Climate change and monetary policy",
+"source": "BCE – communiqués",
+"lien": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+"note": 3,
+"themes": [
+"Banque centrale"
+],
+"heure": "2026-11-23T15:30+01:00"
+},
+{
+"id": "bc3461a0e3cb",
+"titre": "Capita boss exits and shares crash after civil service pensions failures",
+"source": "The Guardian – business",
+"lien": "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
+"note": 3,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-23T11:01+01:00"
+},
+{
+"id": "97aff51dc296",
+"titre": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+"source": "BCE – communiqués",
+"lien": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+"note": 3,
+"themes": [
+"Banque centrale"
+],
+"heure": "2026-11-23T11:00+01:00"
+},
+{
+"id": "1c4013d2aca8",
+"titre": "General insurance stress test highlights value of rehearsing crisis response and recovery",
+"source": "Bank of England",
+"lien": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+"note": 3,
+"themes": [
+"Risque & crédit"
+],
+"heure": "2026-11-23T11:00+01:00"
+},
+{
+"id": "5f6a610d6270",
+"titre": "« La chute des Bourses asiatiques ressemble plus à un krach qu’à une simple correction »",
+"source": "Le Monde – économie",
+"lien": "https://www.lemonde.fr/economie/article/2026/11/23/la-chute-des-bourses-asiatiques-ressemble-plus-a-un-krach-qu-a-une-simple-correction_6814369_3234.html",
+"note": 3,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-23T10:30+01:00"
+},
 {
 "id": "2f322f0fd1eb",
 "titre": "Tech sell-off eases as stock market support measures are deployed after AI slump – business live",
@@ -798,90 +886,26 @@
 "heure": "2026-11-23T05:58+01:00"
 },
 {
-"id": "bc55153bc9cb",
-"titre": "CAC 40  : La thématique IA flanche en Bourse, le VIX franchit les 35",
-"source": "BFM Bourse",
-"lien": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-la-thematique-ia-flanche-en-bourse-le-vix-franchit-les-35-1174216.html",
+"id": "1273406ed2c6",
+"titre": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday",
+"source": "MarketWatch",
+"lien": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
 "note": 2,
 "themes": [
 "Marchés"
 ],
-"heure": "2026-11-23T08:30+01:00"
+"heure": "2026-11-23T18:54+01:00"
 },
 {
-"id": "b51b3d885cdf",
-"titre": "Grieving families getting into debt and doing without memorials due to benefit freezes",
-"source": "The Guardian – business",
-"lien": "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
-"note": 2,
-"themes": [
-"Budget & souverains"
-],
-"heure": "2026-11-23T08:00+01:00"
-},
-{
-"id": "e995d4d0cb4a",
-"titre": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
-"source": "The Guardian – business",
-"lien": "https://www.theguardian.com/technology/2026/nov/23/apple-iphone-duo-review-most-novel-interesting-iphone-in-almost-a-decade",
-"note": 2,
-"themes": [],
-"heure": "2026-11-23T08:00+01:00"
-},
-{
-"id": "7b25f34093ec",
-"titre": "From rotation to contagion",
-"source": "Financial Times",
-"lien": "https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1",
-"note": 2,
-"themes": [
-"Risque & crédit"
-],
-"heure": "2026-11-23T07:30+01:00"
-},
-{
-"id": "c06f0fb080b6",
-"titre": "Asian regulators rush to support sagging markets as AI trade falters",
-"source": "Financial Times",
-"lien": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
-"note": 2,
-"themes": [
-"Marchés"
-],
-"heure": "2026-11-23T07:07+01:00"
-},
-{
-"id": "1008b634a4e1",
-"titre": "Man swaps Australia for south Wales over 'unreal' house prices as locals struggle to buy",
+"id": "03500cce3b61",
+"titre": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
 "source": "BBC Business",
-"lien": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
+"lien": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
 "note": 2,
 "themes": [
 "Marchés"
 ],
-"heure": "2026-11-23T07:03+01:00"
-},
-{
-"id": "8d25250898f6",
-"titre": "The Federal Reserve’s balance sheet yo-yo",
-"source": "Financial Times",
-"lien": "https://www.ft.com/content/be4b5919-1d5a-4706-a942-800ccf157601",
-"note": 2,
-"themes": [
-"Banque centrale"
-],
-"heure": "2026-11-23T06:30+01:00"
-},
-{
-"id": "51136259feb1",
-"titre": "Pension fund managers complain they were fired for shunning tech stocks",
-"source": "Financial Times",
-"lien": "https://www.ft.com/content/047a6fec-f0da-41e1-94f6-f7698e4c8cb0?syn-25a6b1a6=1",
-"note": 2,
-"themes": [
-"Marchés"
-],
-"heure": "2026-11-23T06:00+01:00"
+"heure": "2026-11-23T18:42+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -894,5 +918,5 @@
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "058d1bc15aea0536"
+"empreinte": "3f98e7633face56b"
 }
