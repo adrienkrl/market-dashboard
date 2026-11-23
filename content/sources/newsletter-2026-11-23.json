@@ -1,0 +1,861 @@
+{
+"_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
+"genere_le": "2026-11-22T22:04+01:00",
+"date": "2026-11-22",
+"jour": "dimanche",
+"drapeaux": {
+"rapport_mensuel_a_ecrire": false,
+"lendemain_reunion": [],
+"vendredi": false
+},
+"chiffres": [
+{
+"id": "fed_upper",
+"groupe": "policy",
+"libelle": "Fed funds – borne haute",
+"date": "2026-11-22",
+"valeur": "3,75 – 4,00 %",
+"var_1j": "+0 pb",
+"var_1sem": "+0 pb",
+"var_ytd": "+25 pb",
+"var_mois": "+0 pb"
+},
+{
+"id": "ecb_dfr",
+"groupe": "policy",
+"libelle": "BCE – taux de dépôt",
+"date": "2026-09-16",
+"valeur": "2,50 %",
+"var_1j": "+0 pb",
+"var_1sem": "+0 pb",
+"var_ytd": "+50 pb",
+"var_mois": "+0 pb"
+},
+{
+"id": "boe_bank",
+"groupe": "policy",
+"libelle": "BoE – Bank Rate",
+"date": "2026-11-19",
+"valeur": "4,00 %",
+"var_1j": "+0 pb",
+"var_1sem": "+0 pb",
+"var_ytd": "+25 pb",
+"var_mois": "+25 pb"
+},
+{
+"id": "boj_call",
+"groupe": "policy",
+"libelle": "BoJ – taux call JJ (cible de politique)",
+"date": "2026-11-18",
+"valeur": "1,23 %",
+"var_1j": "+0 pb",
+"var_1sem": "-0 pb",
+"var_ytd": "+50 pb",
+"var_mois": "+0 pb"
+},
+{
+"id": "estr",
+"groupe": "short",
+"libelle": "€STR",
+"date": "2026-11-19",
+"valeur": "2,44 %",
+"var_1j": "-0 pb",
+"var_1sem": "-0 pb",
+"var_ytd": "+52 pb",
+"var_mois": "+0 pb"
+},
+{
+"id": "sofr",
+"groupe": "short",
+"libelle": "SOFR",
+"date": "2026-11-19",
+"valeur": "3,91 %",
+"var_1j": "+1 pb",
+"var_1sem": "+1 pb",
+"var_ytd": "+4 pb",
+"var_mois": "-4 pb"
+},
+{
+"id": "euribor3m",
+"groupe": "short",
+"libelle": "Euribor 3M (moy. mensuelle)",
+"date": "2026-10-01",
+"valeur": "2,63 %",
+"var_ytd": "+59 pb",
+"var_1mois": "+0 pb"
+},
+{
+"id": "us2y",
+"groupe": "govt",
+"libelle": "US 2 ans",
+"date": "2026-11-19",
+"valeur": "4,76 %",
+"var_1j": "-4 pb",
+"var_1sem": "-10 pb",
+"var_ytd": "+129 pb",
+"var_mois": "+20 pb"
+},
+{
+"id": "us10y",
+"groupe": "govt",
+"libelle": "US 10 ans",
+"date": "2026-11-19",
+"valeur": "5,04 %",
+"var_1j": "-3 pb",
+"var_1sem": "-6 pb",
+"var_ytd": "+86 pb",
+"var_mois": "+10 pb"
+},
+{
+"id": "us30y",
+"groupe": "govt",
+"libelle": "US 30 ans",
+"date": "2026-11-19",
+"valeur": "5,40 %",
+"var_1j": "-1 pb",
+"var_1sem": "-3 pb",
+"var_ytd": "+56 pb",
+"var_mois": "+9 pb"
+},
+{
+"id": "de2y",
+"groupe": "govt",
+"libelle": "Bund 2 ans",
+"date": "2026-11-20",
+"valeur": "3,08 %",
+"var_1j": "-6 pb",
+"var_1sem": "-5 pb",
+"var_ytd": "+97 pb",
+"var_mois": "+2 pb"
+},
+{
+"id": "de10y",
+"groupe": "govt",
+"libelle": "Bund 10 ans",
+"date": "2026-11-20",
+"valeur": "3,39 %",
+"var_1j": "-6 pb",
+"var_1sem": "-4 pb",
+"var_ytd": "+45 pb",
+"var_mois": "-1 pb"
+},
+{
+"id": "fr10y_m",
+"groupe": "govt",
+"libelle": "OAT 10 ans (moy. mensuelle)",
+"date": "2026-10-01",
+"valeur": "4,89 %",
+"var_ytd": "+133 pb",
+"var_1mois": "+45 pb"
+},
+{
+"id": "it10y_m",
+"groupe": "govt",
+"libelle": "BTP 10 ans (moy. mensuelle)",
+"date": "2026-10-01",
+"valeur": "4,68 %",
+"var_ytd": "+113 pb",
+"var_1mois": "+32 pb"
+},
+{
+"id": "gb10y",
+"groupe": "govt",
+"libelle": "Gilt 10 ans",
+"date": "2026-11-18",
+"valeur": "5,27 %",
+"var_1j": "-8 pb",
+"var_1sem": "+6 pb",
+"var_ytd": "+80 pb",
+"var_mois": "+2 pb"
+},
+{
+"id": "jp10y",
+"groupe": "govt",
+"libelle": "JGB 10 ans",
+"date": "2026-11-19",
+"valeur": "2,87 %",
+"var_1j": "-5 pb",
+"var_1sem": "+3 pb",
+"var_ytd": "+80 pb",
+"var_mois": "+5 pb"
+},
+{
+"id": "oat_bund",
+"groupe": "spreads",
+"libelle": "Spread OAT – Bund 10 ans (mensuel)",
+"date": "2026-10-01",
+"valeur": "147 pb",
+"var_ytd": "+73 pb",
+"var_1mois": "+51 pb"
+},
+{
+"id": "btp_bund",
+"groupe": "spreads",
+"libelle": "Spread BTP – Bund 10 ans (mensuel)",
+"date": "2026-10-01",
+"valeur": "126 pb",
+"var_ytd": "+52 pb",
+"var_1mois": "+38 pb"
+},
+{
+"id": "us2s10s",
+"groupe": "spreads",
+"libelle": "Pente US 2s10s",
+"date": "2026-11-20",
+"valeur": "29 pb",
+"var_1j": "+1 pb",
+"var_1sem": "+2 pb",
+"var_ytd": "-42 pb",
+"var_mois": "-9 pb"
+},
+{
+"id": "de2s10s",
+"groupe": "spreads",
+"libelle": "Pente Allemagne 2s10s",
+"date": "2026-11-20",
+"valeur": "31 pb",
+"var_1j": "+0 pb",
+"var_1sem": "+1 pb",
+"var_ytd": "-52 pb",
+"var_mois": "-3 pb"
+},
+{
+"id": "us_be10",
+"groupe": "expect",
+"libelle": "Point mort d'inflation US 10 ans",
+"date": "2026-11-20",
+"valeur": "2,15 %",
+"var_1j": "-1 pb",
+"var_1sem": "-9 pb",
+"var_ytd": "-10 pb",
+"var_mois": "-19 pb"
+},
+{
+"id": "us_proxy",
+"groupe": "expect",
+"libelle": "Proxy : US 2 ans – Fed (milieu)",
+"date": "2026-11-19",
+"valeur": "88 pb",
+"var_1j": "-4 pb",
+"var_1sem": "-10 pb",
+"var_ytd": "+104 pb",
+"var_mois": "+20 pb"
+},
+{
+"id": "eu_proxy",
+"groupe": "expect",
+"libelle": "Proxy : Bund 2 ans – taux de dépôt BCE",
+"date": "2026-11-20",
+"valeur": "58 pb",
+"var_1j": "-6 pb",
+"var_1sem": "-5 pb",
+"var_ytd": "+47 pb",
+"var_mois": "+2 pb"
+},
+{
+"id": "eurusd",
+"groupe": "fx",
+"libelle": "EUR/USD",
+"date": "2026-11-20",
+"valeur": "1,0970",
+"var_1j": "-0,02 %",
+"var_1sem": "-0,73 %",
+"var_ytd": "-6,62 %",
+"var_mois": "-1,91 %"
+},
+{
+"id": "usdjpy",
+"groupe": "fx",
+"libelle": "USD/JPY",
+"date": "2026-11-20",
+"valeur": "159,71",
+"var_1j": "+0,20 %",
+"var_1sem": "-0,11 %",
+"var_ytd": "+2,11 %",
+"var_mois": "+1,21 %"
+},
+{
+"id": "gbpusd",
+"groupe": "fx",
+"libelle": "GBP/USD",
+"date": "2026-11-22",
+"valeur": "1,3082",
+"var_1j": "+0,00 %",
+"var_1sem": "-1,13 %",
+"var_ytd": "-2,86 %",
+"var_mois": "-2,22 %"
+},
+{
+"id": "eurgbp",
+"groupe": "fx",
+"libelle": "EUR/GBP",
+"date": "2026-11-20",
+"valeur": "0,8380",
+"var_1j": "+0,41 %",
+"var_1sem": "+0,36 %",
+"var_ytd": "-3,93 %",
+"var_mois": "+0,26 %"
+},
+{
+"id": "usdchf",
+"groupe": "fx",
+"libelle": "USD/CHF",
+"date": "2026-11-20",
+"valeur": "0,8441",
+"var_1j": "+0,07 %",
+"var_1sem": "+0,98 %",
+"var_ytd": "+6,62 %",
+"var_mois": "+2,49 %"
+},
+{
+"id": "usdcny",
+"groupe": "fx",
+"libelle": "USD/CNY",
+"date": "2026-11-22",
+"valeur": "6,6623",
+"var_1j": "+0,00 %",
+"var_1sem": "-0,12 %",
+"var_ytd": "-4,77 %",
+"var_mois": "+0,02 %"
+},
+{
+"id": "dxy",
+"groupe": "fx",
+"libelle": "Dollar Index (DXY)",
+"date": "2026-11-20",
+"valeur": "103,81",
+"var_1j": "-0,09 %",
+"var_1sem": "+0,39 %",
+"var_ytd": "+5,63 %",
+"var_mois": "+1,89 %"
+},
+{
+"id": "spx",
+"groupe": "equity",
+"libelle": "S&P 500",
+"date": "2026-11-20",
+"valeur": "6 910,39",
+"var_1j": "-3,70 %",
+"var_1sem": "-8,61 %",
+"var_ytd": "+0,95 %",
+"var_mois": "-8,83 %"
+},
+{
+"id": "ndx",
+"groupe": "equity",
+"libelle": "Nasdaq 100",
+"date": "2026-11-20",
+"valeur": "25 029,00",
+"var_1j": "-5,61 %",
+"var_1sem": "-10,43 %",
+"var_ytd": "-0,87 %",
+"var_mois": "-11,82 %"
+},
+{
+"id": "sx5e",
+"groupe": "equity",
+"libelle": "Euro Stoxx 50",
+"date": "2026-11-20",
+"valeur": "5 941,95",
+"var_1j": "-2,81 %",
+"var_1sem": "-6,97 %",
+"var_ytd": "+2,51 %",
+"var_mois": "-3,09 %"
+},
+{
+"id": "cac",
+"groupe": "equity",
+"libelle": "CAC 40",
+"date": "2026-11-20",
+"valeur": "7 927,75",
+"var_1j": "-1,89 %",
+"var_1sem": "-5,27 %",
+"var_ytd": "-2,72 %",
+"var_mois": "-0,52 %"
+},
+{
+"id": "dax",
+"groupe": "equity",
+"libelle": "DAX",
+"date": "2026-11-20",
+"valeur": "24 802,80",
+"var_1j": "-2,60 %",
+"var_1sem": "-7,28 %",
+"var_ytd": "+1,28 %",
+"var_mois": "-3,93 %"
+},
+{
+"id": "ftse",
+"groupe": "equity",
+"libelle": "FTSE 100",
+"date": "2026-11-20",
+"valeur": "10 346,30",
+"var_1j": "-1,02 %",
+"var_1sem": "-5,10 %",
+"var_ytd": "+4,18 %",
+"var_mois": "-3,57 %"
+},
+{
+"id": "nikkei",
+"groupe": "equity",
+"libelle": "Nikkei 225",
+"date": "2026-11-20",
+"valeur": "56 436,60",
+"var_1j": "-5,06 %",
+"var_1sem": "-7,70 %",
+"var_ytd": "+12,11 %",
+"var_mois": "-10,83 %"
+},
+{
+"id": "hsi",
+"groupe": "equity",
+"libelle": "Hang Seng",
+"date": "2026-11-20",
+"valeur": "22 410,80",
+"var_1j": "-1,89 %",
+"var_1sem": "-5,19 %",
+"var_ytd": "-12,56 %",
+"var_mois": "-3,79 %"
+},
+{
+"id": "em",
+"groupe": "equity",
+"libelle": "MSCI EM (proxy ETF EEM, $)",
+"date": "2026-11-20",
+"valeur": "53,84",
+"var_1j": "-5,13 %",
+"var_1sem": "-11,62 %",
+"var_ytd": "-1,59 %",
+"var_mois": "-11,80 %"
+},
+{
+"id": "vix",
+"groupe": "vol",
+"libelle": "VIX",
+"date": "2026-11-20",
+"valeur": "35,89",
+"var_1j": "+26,20 %",
+"var_1sem": "+85,96 %",
+"var_ytd": "+140,07 %",
+"var_mois": "+84,81 %"
+},
+{
+"id": "move",
+"groupe": "vol",
+"libelle": "MOVE (vol. taux US)",
+"date": "2026-11-20",
+"valeur": "106,31",
+"var_1j": "+10,69 %",
+"var_1sem": "+7,61 %",
+"var_ytd": "+66,21 %",
+"var_mois": "+6,10 %"
+},
+{
+"id": "us_ig",
+"groupe": "credit",
+"libelle": "OAS Investment Grade US",
+"date": "2026-11-19",
+"var_1j": "+1 pb",
+"var_1sem": "+5 pb",
+"var_ytd": "+15 pb"
+},
+{
+"id": "us_hy",
+"groupe": "credit",
+"libelle": "OAS High Yield US",
+"date": "2026-11-19",
+"var_1j": "+5 pb",
+"var_1sem": "+32 pb",
+"var_ytd": "+71 pb"
+},
+{
+"id": "eu_hy",
+"groupe": "credit",
+"libelle": "OAS High Yield euro",
+"date": "2026-11-19",
+"var_1j": "-2 pb",
+"var_1sem": "+14 pb",
+"var_ytd": "+67 pb"
+},
+{
+"id": "brent",
+"groupe": "commo",
+"libelle": "Brent ($/b)",
+"date": "2026-11-20",
+"valeur": "89,95",
+"var_1j": "-2,21 %",
+"var_1sem": "-6,15 %",
+"var_ytd": "+47,82 %",
+"var_mois": "-23,54 %"
+},
+{
+"id": "wti",
+"groupe": "commo",
+"libelle": "WTI ($/b)",
+"date": "2026-11-20",
+"valeur": "83,41",
+"var_1j": "+0,24 %",
+"var_1sem": "-5,82 %",
+"var_ytd": "+45,26 %",
+"var_mois": "-19,89 %"
+},
+{
+"id": "ttf",
+"groupe": "commo",
+"libelle": "Gaz TTF (€/MWh)",
+"date": "2026-11-20",
+"valeur": "88,45",
+"var_1j": "+4,73 %",
+"var_1sem": "-2,75 %",
+"var_ytd": "+214,09 %",
+"var_mois": "-14,91 %"
+},
+{
+"id": "gold",
+"groupe": "commo",
+"libelle": "Or ($/oz)",
+"date": "2026-11-20",
+"valeur": "3 515,4",
+"var_1j": "-4,62 %",
+"var_1sem": "-9,54 %",
+"var_ytd": "-19,02 %",
+"var_mois": "-9,84 %"
+},
+{
+"id": "silver",
+"groupe": "commo",
+"libelle": "Argent ($/oz)",
+"date": "2026-11-20",
+"valeur": "41,07",
+"var_1j": "-7,33 %",
+"var_1sem": "-16,24 %",
+"var_ytd": "-41,44 %",
+"var_mois": "-16,35 %"
+},
+{
+"id": "copper",
+"groupe": "commo",
+"libelle": "Cuivre ($/lb)",
+"date": "2026-11-20",
+"valeur": "5,485",
+"var_1j": "-2,49 %",
+"var_1sem": "-9,78 %",
+"var_ytd": "-2,58 %",
+"var_mois": "-15,07 %"
+},
+{
+"id": "btc",
+"groupe": "commo",
+"libelle": "Bitcoin ($)",
+"date": "2026-11-22",
+"valeur": "60 936",
+"var_1j": "+1,40 %",
+"var_1sem": "-6,69 %",
+"var_ytd": "-30,37 %",
+"var_mois": "-21,31 %"
+},
+{
+"id": "us_cpi",
+"groupe": "macro",
+"libelle": "CPI US (a/a)",
+"date": "2026-09-01",
+"valeur": "3,7 %",
+"precedent": "3,4 %",
+"attention": "Donnée non mise à jour par la source depuis plusieurs jours"
+},
+{
+"id": "us_core_cpi",
+"groupe": "macro",
+"libelle": "CPI US core (a/a)",
+"date": "2026-09-01",
+"valeur": "2,6 %",
+"precedent": "2,5 %",
+"attention": "Donnée non mise à jour par la source depuis plusieurs jours"
+},
+{
+"id": "us_core_pce",
+"groupe": "macro",
+"libelle": "PCE core US (a/a)",
+"date": "2026-09-01",
+"valeur": "3,1 %",
+"precedent": "3,0 %",
+"attention": "Donnée non mise à jour par la source depuis plusieurs jours"
+},
+{
+"id": "ea_hicp",
+"groupe": "macro",
+"libelle": "HICP zone euro (a/a)",
+"date": "2026-10-01",
+"valeur": "4,0 %",
+"precedent": "3,8 %"
+},
+{
+"id": "ea_core",
+"groupe": "macro",
+"libelle": "HICP core zone euro (a/a)",
+"date": "2026-10-01",
+"valeur": "2,6 %",
+"precedent": "2,5 %"
+},
+{
+"id": "fr_hicp",
+"groupe": "macro",
+"libelle": "Inflation France – IPCH (a/a)",
+"date": "2026-10-01",
+"valeur": "3,7 %",
+"precedent": "3,4 %"
+},
+{
+"id": "nfp",
+"groupe": "macro",
+"libelle": "NFP US (créations, milliers)",
+"date": "2026-10-01",
+"valeur": "165 k",
+"precedent": "60 k"
+},
+{
+"id": "us_unemp",
+"groupe": "macro",
+"libelle": "Chômage US",
+"date": "2026-10-01",
+"valeur": "4,1 %",
+"precedent": "4,2 %"
+},
+{
+"id": "ea_unemp",
+"groupe": "macro",
+"libelle": "Chômage zone euro",
+"date": "2026-09-01",
+"valeur": "6,5 %",
+"precedent": "6,5 %",
+"attention": "Donnée non mise à jour par la source depuis plusieurs jours"
+},
+{
+"id": "us_gdp",
+"groupe": "macro",
+"libelle": "PIB US (t/t annualisé)",
+"date": "2026-07-01",
+"valeur": "3,4 %",
+"precedent": "2,2 %"
+},
+{
+"id": "ea_gdp",
+"groupe": "macro",
+"libelle": "PIB zone euro (t/t)",
+"date": "2026-07-01",
+"valeur": "0,4 %",
+"precedent": "0,6 %"
+}
+],
+"indisponibles": [
+{
+"label": "VSTOXX",
+"raison": "Aucune source gratuite stable (ticker Yahoo retiré, données STOXX sous licence)."
+},
+{
+"label": "OAS Investment Grade euro",
+"raison": "Série non diffusée sur FRED ; iTraxx Main payant."
+},
+{
+"label": "PIB Chine",
+"raison": "Pas d'API gratuite à jour (la série OCDE sur FRED s'arrête en 2023)."
+},
+{
+"label": "PMI composites",
+"raison": "Données propriétaires S&P Global / HCOB, non redistribuables gratuitement."
+}
+],
+"agenda_3_jours": [
+{
+"date": "2026-11-23",
+"heure_paris": "19:00",
+"evenement": "Adjudication Trésor US – 2-Year Note",
+"importance": 1,
+"consensus": "n.d.",
+"rendement_precedent": "4,708 %",
+"note": "Montant offert : 69 Md$"
+},
+{
+"date": "2026-11-24",
+"heure_paris": "19:00",
+"evenement": "Adjudication Trésor US – 5-Year Note",
+"importance": 1,
+"consensus": "n.d.",
+"rendement_precedent": "4,845 %",
+"note": "Montant offert : 70 Md$"
+}
+],
+"publie_depuis_hier": [],
+"evenements_de_la_semaine": [
+{
+"date": "2026-11-17",
+"heure_paris": "14:30",
+"evenement": "Ventes au détail US",
+"importance": 2,
+"consensus": "n.d."
+},
+{
+"date": "2026-11-18",
+"heure_paris": "11:00",
+"evenement": "HICP zone euro – chiffre définitif",
+"importance": 1,
+"consensus": "n.d.",
+"valeurs": [
+{
+"serie": "HICP zone euro (a/a)",
+"precedent": "3,8 %",
+"reel": "4,0 %",
+"reel_moins_precedent": "+0,2 pt"
+},
+{
+"serie": "HICP core zone euro (a/a)",
+"precedent": "2,5 %",
+"reel": "2,6 %",
+"reel_moins_precedent": "+0,1 pt"
+}
+]
+},
+{
+"date": "2026-11-19",
+"heure_paris": "19:00",
+"evenement": "Adjudication Trésor US – 9-Year 8-Month TIPS",
+"importance": 2,
+"consensus": "n.d.",
+"rendement_precedent": "2,653 %",
+"rendement_servi": "2,903 %",
+"bid_to_cover": "2,43",
+"variation": "+25,0 pb",
+"note": "Montant offert : 19 Md$"
+}
+],
+"top10_actualites": [
+{
+"id": "7abcb9e67aa8",
+"titre": "Tech stock sell-off drags markets down as Anthropic shares slide",
+"source": "BBC Business",
+"lien": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+"note": 4,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-20T23:42+01:00"
+},
+{
+"id": "fd2811614640",
+"titre": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+"source": "The Guardian – business",
+"lien": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+"note": 4,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-20T22:38+01:00"
+},
+{
+"id": "a55ce1749647",
+"titre": "How can investors succeed in markets today?",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/22b3765d-ff3d-4f07-8982-5a222dbb862e?syn-25a6b1a6=1",
+"note": 3,
+"themes": [
+"Inflation",
+"Risque & crédit",
+"Marchés",
+"Budget & souverains"
+],
+"heure": "2026-11-21T06:00+01:00"
+},
+{
+"id": "9703f79f5f78",
+"titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+"source": "Le Monde – économie",
+"lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+"note": 3,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-21T01:33+01:00"
+},
+{
+"id": "6eb83dcfe68d",
+"titre": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+"note": 3,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-20T22:52+01:00"
+},
+{
+"id": "137217fbade8",
+"titre": "Federal Reserve announces College Fed Challenge winners",
+"source": "Fed – communiqués",
+"lien": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+"note": 3,
+"themes": [
+"Banque centrale"
+],
+"heure": "2026-11-20T22:15+01:00"
+},
+{
+"id": "13e9533680fb",
+"titre": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
+"source": "Le Monde – économie",
+"lien": "https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html",
+"note": 2,
+"themes": [
+"Budget & souverains"
+],
+"heure": "2026-11-22T19:53+01:00"
+},
+{
+"id": "459286d9475e",
+"titre": "These little-known investments could be among the best bargains in a crash",
+"source": "MarketWatch",
+"lien": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+"note": 2,
+"themes": [
+"Risque & crédit"
+],
+"heure": "2026-11-22T19:23+01:00"
+},
+{
+"id": "93000ba93e86",
+"titre": "Dans le Nord, Vanderschooten fait le pari de relancer le linge de maison made in France",
+"source": "Le Monde – économie",
+"lien": "https://www.lemonde.fr/economie/article/2026/11/22/dans-le-nord-vanderschooten-fait-le-pari-de-relancer-le-linge-de-maison-made-in-france_6814226_3234.html",
+"note": 2,
+"themes": [
+"Risque & crédit"
+],
+"heure": "2026-11-22T17:00+01:00"
+},
+{
+"id": "d6d28b06e4a5",
+"titre": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+"source": "MarketWatch",
+"lien": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+"note": 2,
+"themes": [
+"Marchés"
+],
+"heure": "2026-11-22T15:00+01:00"
+}
+],
+"wraps_du_mois": [
+"content/wraps/2026-11-20.md"
+],
+"alertes_sources": {},
+"controles_du_mois": {
+"mois": "2026-11",
+"textes_controles": 9,
+"textes_avec_ecarts": 0,
+"ecarts": []
+},
+"empreinte": "8424bb45b6022a11"
+}
