@@ -1,6 +1,6 @@
 {
- "refreshed_at": "2026-11-22T08:41+01:00",
- "updated_at": "2026-11-22T22:04+01:00",
+ "refreshed_at": "2026-11-23T08:42+01:00",
+ "updated_at": "2026-11-23T08:42+01:00",
  "events": [
   {
    "id": "us_retail-2026-11-17",
@@ -234,6 +234,26 @@
      "unit": "%",
      "previous": 4.1,
      "previous_period": "2026-10-01"
+    }
+   }
+  },
+  {
+   "id": "ea_gdp-2026-12-07",
+   "kind": "macro",
+   "label": "PIB zone euro",
+   "stars": 2,
+   "date": "2026-12-07",
+   "time_paris": "2026-12-07T11:00+01:00",
+   "series": "ea_gdp",
+   "series2": null,
+   "source": "Eurostat – calendrier de diffusion",
+   "url": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "values": {
+    "ea_gdp": {
+     "label": "PIB zone euro (t/t)",
+     "unit": "%",
+     "previous": 0.4,
+     "previous_period": "2026-07-01"
     }
    }
   }

@@ -1,8 +1,8 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-22T22:04+01:00",
-"date": "2026-11-22",
-"jour": "dimanche",
+"genere_le": "2026-11-23T08:42+01:00",
+"date": "2026-11-23",
+"jour": "lundi",
 "drapeaux": {
 "rapport_mensuel_a_ecrire": false,
 "lendemain_reunion": [],
@@ -57,10 +57,10 @@
 "id": "estr",
 "groupe": "short",
 "libelle": "€STR",
-"date": "2026-11-19",
+"date": "2026-11-20",
 "valeur": "2,44 %",
-"var_1j": "-0 pb",
-"var_1sem": "-0 pb",
+"var_1j": "+0 pb",
+"var_1sem": "+1 pb",
 "var_ytd": "+52 pb",
 "var_mois": "+0 pb"
 },
@@ -256,45 +256,45 @@
 "id": "eurusd",
 "groupe": "fx",
 "libelle": "EUR/USD",
-"date": "2026-11-20",
-"valeur": "1,0970",
-"var_1j": "-0,02 %",
-"var_1sem": "-0,73 %",
-"var_ytd": "-6,62 %",
-"var_mois": "-1,91 %"
+"date": "2026-11-23",
+"valeur": "1,1005",
+"var_1j": "+0,32 %",
+"var_1sem": "-0,18 %",
+"var_ytd": "-6,32 %",
+"var_mois": "-1,59 %"
 },
 {
 "id": "usdjpy",
 "groupe": "fx",
 "libelle": "USD/JPY",
-"date": "2026-11-20",
-"valeur": "159,71",
-"var_1j": "+0,20 %",
-"var_1sem": "-0,11 %",
-"var_ytd": "+2,11 %",
-"var_mois": "+1,21 %"
+"date": "2026-11-23",
+"valeur": "158,93",
+"var_1j": "-0,48 %",
+"var_1sem": "-0,53 %",
+"var_ytd": "+1,61 %",
+"var_mois": "+0,72 %"
 },
 {
 "id": "gbpusd",
 "groupe": "fx",
 "libelle": "GBP/USD",
-"date": "2026-11-22",
-"valeur": "1,3082",
-"var_1j": "+0,00 %",
-"var_1sem": "-1,13 %",
-"var_ytd": "-2,86 %",
-"var_mois": "-2,22 %"
+"date": "2026-11-23",
+"valeur": "1,3122",
+"var_1j": "+0,31 %",
+"var_1sem": "-0,72 %",
+"var_ytd": "-2,56 %",
+"var_mois": "-1,92 %"
 },
 {
 "id": "eurgbp",
 "groupe": "fx",
 "libelle": "EUR/GBP",
-"date": "2026-11-20",
-"valeur": "0,8380",
-"var_1j": "+0,41 %",
-"var_1sem": "+0,36 %",
-"var_ytd": "-3,93 %",
-"var_mois": "+0,26 %"
+"date": "2026-11-23",
+"valeur": "0,8382",
+"var_1j": "+0,02 %",
+"var_1sem": "+0,49 %",
+"var_ytd": "-3,90 %",
+"var_mois": "+0,28 %"
 },
 {
 "id": "usdchf",
@@ -311,23 +311,23 @@
 "id": "usdcny",
 "groupe": "fx",
 "libelle": "USD/CNY",
-"date": "2026-11-22",
-"valeur": "6,6623",
-"var_1j": "+0,00 %",
-"var_1sem": "-0,12 %",
-"var_ytd": "-4,77 %",
-"var_mois": "+0,02 %"
+"date": "2026-11-23",
+"valeur": "6,6637",
+"var_1j": "+0,02 %",
+"var_1sem": "-0,11 %",
+"var_ytd": "-4,75 %",
+"var_mois": "+0,04 %"
 },
 {
 "id": "dxy",
 "groupe": "fx",
 "libelle": "Dollar Index (DXY)",
-"date": "2026-11-20",
-"valeur": "103,81",
-"var_1j": "-0,09 %",
-"var_1sem": "+0,39 %",
-"var_ytd": "+5,63 %",
-"var_mois": "+1,89 %"
+"date": "2026-11-23",
+"valeur": "103,62",
+"var_1j": "-0,18 %",
+"var_1sem": "+0,07 %",
+"var_ytd": "+5,43 %",
+"var_mois": "+1,71 %"
 },
 {
 "id": "spx",
@@ -410,12 +410,12 @@
 "id": "hsi",
 "groupe": "equity",
 "libelle": "Hang Seng",
-"date": "2026-11-20",
-"valeur": "22 410,80",
-"var_1j": "-1,89 %",
-"var_1sem": "-5,19 %",
-"var_ytd": "-12,56 %",
-"var_mois": "-3,79 %"
+"date": "2026-11-23",
+"valeur": "22 378,80",
+"var_1j": "-0,14 %",
+"var_1sem": "-5,79 %",
+"var_ytd": "-12,69 %",
+"var_mois": "-3,93 %"
 },
 {
 "id": "em",
@@ -481,23 +481,23 @@
 "id": "brent",
 "groupe": "commo",
 "libelle": "Brent ($/b)",
-"date": "2026-11-20",
-"valeur": "89,95",
-"var_1j": "-2,21 %",
-"var_1sem": "-6,15 %",
-"var_ytd": "+47,82 %",
-"var_mois": "-23,54 %"
+"date": "2026-11-23",
+"valeur": "89,58",
+"var_1j": "-3,23 %",
+"var_1sem": "-3,09 %",
+"var_ytd": "+47,21 %",
+"var_mois": "-23,85 %"
 },
 {
 "id": "wti",
 "groupe": "commo",
 "libelle": "WTI ($/b)",
-"date": "2026-11-20",
-"valeur": "83,41",
-"var_1j": "+0,24 %",
-"var_1sem": "-5,82 %",
-"var_ytd": "+45,26 %",
-"var_mois": "-19,89 %"
+"date": "2026-11-23",
+"valeur": "83,04",
+"var_1j": "-1,12 %",
+"var_1sem": "-3,13 %",
+"var_ytd": "+44,62 %",
+"var_mois": "-20,25 %"
 },
 {
 "id": "ttf",
@@ -514,45 +514,45 @@
 "id": "gold",
 "groupe": "commo",
 "libelle": "Or ($/oz)",
-"date": "2026-11-20",
-"valeur": "3 515,4",
-"var_1j": "-4,62 %",
-"var_1sem": "-9,54 %",
-"var_ytd": "-19,02 %",
-"var_mois": "-9,84 %"
+"date": "2026-11-23",
+"valeur": "3 629,9",
+"var_1j": "+3,26 %",
+"var_1sem": "-5,79 %",
+"var_ytd": "-16,38 %",
+"var_mois": "-6,90 %"
 },
 {
 "id": "silver",
 "groupe": "commo",
 "libelle": "Argent ($/oz)",
-"date": "2026-11-20",
-"valeur": "41,07",
-"var_1j": "-7,33 %",
-"var_1sem": "-16,24 %",
-"var_ytd": "-41,44 %",
-"var_mois": "-16,35 %"
+"date": "2026-11-23",
+"valeur": "42,63",
+"var_1j": "+3,90 %",
+"var_1sem": "-8,87 %",
+"var_ytd": "-39,21 %",
+"var_mois": "-13,16 %"
 },
 {
 "id": "copper",
 "groupe": "commo",
 "libelle": "Cuivre ($/lb)",
-"date": "2026-11-20",
-"valeur": "5,485",
-"var_1j": "-2,49 %",
-"var_1sem": "-9,78 %",
-"var_ytd": "-2,58 %",
-"var_mois": "-15,07 %"
+"date": "2026-11-23",
+"valeur": "5,533",
+"var_1j": "+1,02 %",
+"var_1sem": "-7,74 %",
+"var_ytd": "-1,72 %",
+"var_mois": "-14,33 %"
 },
 {
 "id": "btc",
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
-"date": "2026-11-22",
-"valeur": "60 936",
-"var_1j": "+1,40 %",
-"var_1sem": "-6,69 %",
-"var_ytd": "-30,37 %",
-"var_mois": "-21,31 %"
+"date": "2026-11-23",
+"valeur": "61 432",
+"var_1j": "+0,44 %",
+"var_1sem": "-5,28 %",
+"var_ytd": "-29,80 %",
+"var_mois": "-20,67 %"
 },
 {
 "id": "us_cpi",
@@ -683,6 +683,41 @@
 "consensus": "n.d.",
 "rendement_precedent": "4,845 %",
 "note": "Montant offert : 70 Md$"
+},
+{
+"date": "2026-11-25",
+"heure_paris": "14:30",
+"evenement": "PCE core US (revenus et dépenses)",
+"importance": 3,
+"consensus": "n.d.",
+"valeurs": [
+{
+"serie": "PCE core US (a/a)",
+"precedent": "3,1 %"
+}
+]
+},
+{
+"date": "2026-11-25",
+"heure_paris": "14:30",
+"evenement": "PIB US",
+"importance": 2,
+"consensus": "n.d.",
+"valeurs": [
+{
+"serie": "PIB US (t/t annualisé)",
+"precedent": "3,4 %"
+}
+]
+},
+{
+"date": "2026-11-25",
+"heure_paris": "17:30",
+"evenement": "Adjudication Trésor US – 7-Year Note",
+"importance": 1,
+"consensus": "n.d.",
+"rendement_precedent": "4,894 %",
+"note": "Montant offert : 44 Md$"
 }
 ],
 "publie_depuis_hier": [],
@@ -726,125 +761,127 @@
 "bid_to_cover": "2,43",
 "variation": "+25,0 pb",
 "note": "Montant offert : 19 Md$"
+},
+{
+"date": "2026-11-23",
+"heure_paris": "19:00",
+"evenement": "Adjudication Trésor US – 2-Year Note",
+"importance": 1,
+"consensus": "n.d.",
+"rendement_precedent": "4,708 %",
+"note": "Montant offert : 69 Md$"
 }
 ],
 "top10_actualites": [
 {
-"id": "7abcb9e67aa8",
-"titre": "Tech stock sell-off drags markets down as Anthropic shares slide",
-"source": "BBC Business",
-"lien": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-"note": 4,
-"themes": [
-"Risque & crédit",
-"Marchés"
-],
-"heure": "2026-11-20T23:42+01:00"
-},
-{
-"id": "fd2811614640",
-"titre": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+"id": "2f322f0fd1eb",
+"titre": "Tech sell-off eases as stock market support measures are deployed after AI slump – business live",
 "source": "The Guardian – business",
-"lien": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-"note": 4,
-"themes": [
-"Risque & crédit",
-"Marchés"
-],
-"heure": "2026-11-20T22:38+01:00"
-},
-{
-"id": "a55ce1749647",
-"titre": "How can investors succeed in markets today?",
-"source": "Financial Times",
-"lien": "https://www.ft.com/content/22b3765d-ff3d-4f07-8982-5a222dbb862e?syn-25a6b1a6=1",
+"lien": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
 "note": 3,
 "themes": [
-"Inflation",
 "Risque & crédit",
-"Marchés",
+"Marchés"
+],
+"heure": "2026-11-23T08:16+01:00"
+},
+{
+"id": "9edcdf98dbe5",
+"titre": "Wall Street set to rebound after AI stock sell-off",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+"note": 3,
+"themes": [
+"Risque & crédit",
+"Marchés"
+],
+"heure": "2026-11-23T05:58+01:00"
+},
+{
+"id": "bc55153bc9cb",
+"titre": "CAC 40  : La thématique IA flanche en Bourse, le VIX franchit les 35",
+"source": "BFM Bourse",
+"lien": "https://www.tradingsat.com/cac-40-FR0003500008/conseils/cac-40-la-thematique-ia-flanche-en-bourse-le-vix-franchit-les-35-1174216.html",
+"note": 2,
+"themes": [
+"Marchés"
+],
+"heure": "2026-11-23T08:30+01:00"
+},
+{
+"id": "b51b3d885cdf",
+"titre": "Grieving families getting into debt and doing without memorials due to benefit freezes",
+"source": "The Guardian – business",
+"lien": "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
+"note": 2,
+"themes": [
 "Budget & souverains"
 ],
-"heure": "2026-11-21T06:00+01:00"
+"heure": "2026-11-23T08:00+01:00"
 },
 {
-"id": "9703f79f5f78",
-"titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
-"source": "Le Monde – économie",
-"lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
-"note": 3,
-"themes": [
-"Risque & crédit",
-"Marchés"
-],
-"heure": "2026-11-21T01:33+01:00"
+"id": "e995d4d0cb4a",
+"titre": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
+"source": "The Guardian – business",
+"lien": "https://www.theguardian.com/technology/2026/nov/23/apple-iphone-duo-review-most-novel-interesting-iphone-in-almost-a-decade",
+"note": 2,
+"themes": [],
+"heure": "2026-11-23T08:00+01:00"
 },
 {
-"id": "6eb83dcfe68d",
-"titre": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+"id": "7b25f34093ec",
+"titre": "From rotation to contagion",
 "source": "Financial Times",
-"lien": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-"note": 3,
+"lien": "https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1",
+"note": 2,
 "themes": [
-"Risque & crédit",
-"Marchés"
+"Risque & crédit"
 ],
-"heure": "2026-11-20T22:52+01:00"
+"heure": "2026-11-23T07:30+01:00"
 },
 {
-"id": "137217fbade8",
-"titre": "Federal Reserve announces College Fed Challenge winners",
-"source": "Fed – communiqués",
-"lien": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-"note": 3,
+"id": "c06f0fb080b6",
+"titre": "Asian regulators rush to support sagging markets as AI trade falters",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
+"note": 2,
+"themes": [
+"Marchés"
+],
+"heure": "2026-11-23T07:07+01:00"
+},
+{
+"id": "1008b634a4e1",
+"titre": "Man swaps Australia for south Wales over 'unreal' house prices as locals struggle to buy",
+"source": "BBC Business",
+"lien": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
+"note": 2,
+"themes": [
+"Marchés"
+],
+"heure": "2026-11-23T07:03+01:00"
+},
+{
+"id": "8d25250898f6",
+"titre": "The Federal Reserve’s balance sheet yo-yo",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/be4b5919-1d5a-4706-a942-800ccf157601",
+"note": 2,
 "themes": [
 "Banque centrale"
 ],
-"heure": "2026-11-20T22:15+01:00"
+"heure": "2026-11-23T06:30+01:00"
 },
 {
-"id": "13e9533680fb",
-"titre": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
-"source": "Le Monde – économie",
-"lien": "https://www.lemonde.fr/politique/article/2026/11/22/emmanuel-macron-envisage-de-reunir-le-congres-a-versailles-pour-faire-adopter-une-regle-d-or-budgetaire-une-procedure-inedite-a-plus-d-un-titre_6814241_823448.html",
-"note": 2,
-"themes": [
-"Budget & souverains"
-],
-"heure": "2026-11-22T19:53+01:00"
-},
-{
-"id": "459286d9475e",
-"titre": "These little-known investments could be among the best bargains in a crash",
-"source": "MarketWatch",
-"lien": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
-"note": 2,
-"themes": [
-"Risque & crédit"
-],
-"heure": "2026-11-22T19:23+01:00"
-},
-{
-"id": "93000ba93e86",
-"titre": "Dans le Nord, Vanderschooten fait le pari de relancer le linge de maison made in France",
-"source": "Le Monde – économie",
-"lien": "https://www.lemonde.fr/economie/article/2026/11/22/dans-le-nord-vanderschooten-fait-le-pari-de-relancer-le-linge-de-maison-made-in-france_6814226_3234.html",
-"note": 2,
-"themes": [
-"Risque & crédit"
-],
-"heure": "2026-11-22T17:00+01:00"
-},
-{
-"id": "d6d28b06e4a5",
-"titre": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
-"source": "MarketWatch",
-"lien": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+"id": "51136259feb1",
+"titre": "Pension fund managers complain they were fired for shunning tech stocks",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/047a6fec-f0da-41e1-94f6-f7698e4c8cb0?syn-25a6b1a6=1",
 "note": 2,
 "themes": [
 "Marchés"
 ],
-"heure": "2026-11-22T15:00+01:00"
+"heure": "2026-11-23T06:00+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -853,9 +890,9 @@
 "alertes_sources": {},
 "controles_du_mois": {
 "mois": "2026-11",
-"textes_controles": 9,
+"textes_controles": 11,
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "8424bb45b6022a11"
+"empreinte": "058d1bc15aea0536"
 }
