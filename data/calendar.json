@@ -1,19 +1,7 @@
 {
- "refreshed_at": "2026-11-24T08:41+01:00",
- "updated_at": "2026-11-24T18:46+01:00",
+ "refreshed_at": "2026-11-25T08:42+01:00",
+ "updated_at": "2026-11-25T08:42+01:00",
  "events": [
-  {
-   "id": "us_retail-2026-11-17",
-   "kind": "macro",
-   "label": "Ventes au détail US",
-   "stars": 2,
-   "date": "2026-11-17",
-   "time_paris": "2026-11-17T14:30+01:00",
-   "series": null,
-   "series2": null,
-   "source": "FRED – calendrier des publications",
-   "url": "https://fred.stlouisfed.org/release?rid=9"
-  },
   {
    "id": "ea_hicp_final-2026-11-18",
    "kind": "macro",
@@ -98,7 +86,10 @@
    "source": "TreasuryDirect",
    "url": "https://www.treasurydirect.gov/auctions/upcoming/",
    "previous": 4.845,
-   "previous_date": "2026-10-27"
+   "previous_date": "2026-10-27",
+   "actual": 4.719,
+   "bid_to_cover": 2.37,
+   "change_bp": -12.6
   },
   {
    "id": "pce-2026-11-25",
@@ -259,6 +250,21 @@
      "previous_period": "2026-07-01"
     }
    }
+  },
+  {
+   "id": "fed-2026-12-09",
+   "kind": "cb",
+   "bank": "fed",
+   "label": "Fed – décision du FOMC",
+   "stars": 3,
+   "date": "2026-12-09",
+   "time_paris": "2026-12-09T20:00+01:00",
+   "series": "fed_upper",
+   "source": "Calendrier officiel",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": null,
+   "previous": 4.0,
+   "previous_low": 3.75
   }
  ],
  "warnings": [],
