@@ -1,39 +1,7 @@
 {
- "refreshed_at": "2026-11-25T08:42+01:00",
- "updated_at": "2026-11-25T18:15+01:00",
+ "refreshed_at": "2026-11-26T08:42+01:00",
+ "updated_at": "2026-11-26T08:42+01:00",
  "events": [
-  {
-   "id": "ea_hicp_final-2026-11-18",
-   "kind": "macro",
-   "label": "HICP zone euro – chiffre définitif",
-   "stars": 1,
-   "date": "2026-11-18",
-   "time_paris": "2026-11-18T11:00+01:00",
-   "series": "ea_hicp",
-   "series2": "ea_core",
-   "source": "Eurostat – calendrier de diffusion",
-   "url": "https://ec.europa.eu/eurostat/news/release-calendar",
-   "values": {
-    "ea_hicp": {
-     "label": "HICP zone euro (a/a)",
-     "unit": "%",
-     "previous": 3.8,
-     "previous_period": "2026-09-01",
-     "actual": 4.0,
-     "period": "2026-10-01",
-     "surprise_vs_prev": 0.2
-    },
-    "ea_core": {
-     "label": "HICP core zone euro (a/a)",
-     "unit": "%",
-     "previous": 2.5,
-     "previous_period": "2026-09-01",
-     "actual": 2.6,
-     "period": "2026-10-01",
-     "surprise_vs_prev": 0.1
-    }
-   }
-  },
   {
    "id": "ust-91282CRE3-2026-11-19",
    "kind": "auction",
@@ -271,6 +239,32 @@
    "note": null,
    "previous": 4.0,
    "previous_low": 3.75
+  },
+  {
+   "id": "us_cpi-2026-12-10",
+   "kind": "macro",
+   "label": "CPI US (global et core)",
+   "stars": 3,
+   "date": "2026-12-10",
+   "time_paris": "2026-12-10T14:30+01:00",
+   "series": "us_cpi",
+   "series2": "us_core_cpi",
+   "source": "FRED – calendrier des publications",
+   "url": "https://fred.stlouisfed.org/release?rid=10",
+   "values": {
+    "us_cpi": {
+     "label": "CPI US (a/a)",
+     "unit": "%",
+     "previous": 3.72,
+     "previous_period": "2026-09-01"
+    },
+    "us_core_cpi": {
+     "label": "CPI US core (a/a)",
+     "unit": "%",
+     "previous": 2.57,
+     "previous_period": "2026-09-01"
+    }
+   }
   }
  ],
  "warnings": [],
