@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-11-26T08:42+01:00",
+ "updated_at": "2026-11-26T17:55+01:00",
  "keep_hours": 48,
  "items": [
+  {
+   "id": "73fe8543ba2b",
+   "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+   "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-26T15:58+01:00",
+   "themes": [
+    "Banque centrale",
+    "Inflation",
+    "Risque & crédit"
+   ],
+   "assets": [],
+   "score": 5,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "981d7fc3754d",
+   "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+   "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+   "source": "CNBC – économie",
+   "reliability": 2,
+   "published": "2026-11-26T16:28+01:00",
+   "themes": [
+    "Banque centrale",
+    "Emploi & croissance"
+   ],
+   "assets": [],
+   "score": 4,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "b86a1a677c60",
+   "title": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T16:04+01:00",
+   "themes": [
+    "Banque centrale",
+    "Marchés"
+   ],
+   "assets": [
+    "euro"
+   ],
+   "score": 4,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
   {
    "id": "6f025ede5733",
    "title": "Financier Todd Boehly strikes deal for Lukoil assets",
@@ -83,19 +131,34 @@
    "first_seen": "2026-11-25T08:42+01:00"
   },
   {
-   "id": "0498093f95b4",
-   "title": "Why France is at risk of recession — and what could keep it out of one",
-   "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-   "source": "CNBC – économie",
-   "reliability": 2,
-   "published": "2026-11-24T12:15+01:00",
+   "id": "c5cd3f64250f",
+   "title": "Payments systems Memorandum of Understanding",
+   "link": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+   "source": "Bank of England",
+   "reliability": 3,
+   "published": "2026-11-26T16:00+01:00",
    "themes": [
-    "Emploi & croissance",
-    "Risque & crédit"
+    "Banque centrale"
    ],
    "assets": [],
-   "score": 4,
-   "first_seen": "2026-11-26T08:42+01:00"
+   "score": 3,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "36bf8fc71857",
+   "title": "I helped organise the letter from Labour MPs urging Andy Burnham to reject Rosebank. This is why | Catherine Fookes",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T16:00+01:00",
+   "themes": [
+    "Risque & crédit"
+   ],
+   "assets": [
+    "oil"
+   ],
+   "score": 3,
+   "first_seen": "2026-11-26T17:55+01:00"
   },
   {
    "id": "451766188576",
@@ -213,6 +276,257 @@
    "assets": [],
    "score": 3,
    "first_seen": "2026-11-25T08:42+01:00"
+  },
+  {
+   "id": "ef8c61463466",
+   "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+   "link": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T16:12+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "2ce7247b83c0",
+   "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+   "link": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T15:41+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "a6cb16310a8f",
+   "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-26T15:28+01:00",
+   "themes": [
+    "Risque & crédit"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "f0b4016d08c7",
+   "title": "Number of Neets in UK falls below a million as Burnham pushes to tackle crisis",
+   "link": "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T14:43+01:00",
+   "themes": [
+    "Risque & crédit"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "438eb0460449",
+   "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+   "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-26T14:41+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "37c53964f6b5",
+   "title": "Semiconductor chips are the new oil. Here's why",
+   "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "source": "CNBC – marchés",
+   "reliability": 2,
+   "published": "2026-11-26T14:19+01:00",
+   "themes": [],
+   "assets": [
+    "oil",
+    "gas"
+   ],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "991584da5249",
+   "title": "Corse : le tourisme reste une locomotive de la croissance, malgré des résultats contrastés",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/26/corse-le-tourisme-reste-une-locomotive-de-la-croissance-malgre-des-resultats-contrastes_6815532_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T13:49+01:00",
+   "themes": [
+    "Emploi & croissance"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "20eef4b6e5fb",
+   "title": "Huge flames rise from fire at Bangkok oil facility – video",
+   "link": "https://www.theguardian.com/world/video/2026/nov/26/huge-flames-rise-from-fire-at-bangkok-oil-facility-video",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T13:46+01:00",
+   "themes": [],
+   "assets": [
+    "oil"
+   ],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "d7e75c6069b3",
+   "title": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
+   "link": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T13:44+01:00",
+   "themes": [
+    "Banque centrale"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "a6365a6d3903",
+   "title": "Elon Musk promet d’offrir deux actions de SpaceX à « chaque enfant » aux Etats-Unis",
+   "link": "https://www.lemonde.fr/international/article/2026/11/26/elon-musk-promet-d-offrir-deux-actions-de-spacex-a-chaque-enfant-aux-etats-unis_6815531_3210.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T13:42+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "384a68556b0b",
+   "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
+   "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+   "source": "Bank of England",
+   "reliability": 3,
+   "published": "2026-11-26T13:33+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "ce9f98e7b7b2",
+   "title": "Meeting of 28-29 October 2026",
+   "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+   "source": "BCE – communiqués",
+   "reliability": 3,
+   "published": "2026-11-26T13:30+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "7dad173ef498",
+   "title": "CAC 40 : Alors que Wall Street est fermée ce jeudi, le CAC 40 reprend 1,7%, bénéficiant de rachats à bon compte",
+   "link": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-wall-street-est-fermee-ce-jeudi-le-cac-40-reprend-17-beneficiant-de-rachats-a-bon-compte-1174488.html",
+   "source": "BFM Bourse",
+   "reliability": 1,
+   "published": "2026-11-26T13:12+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [
+    "cac 40"
+   ],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "f54f157e39a3",
+   "title": "VC investors dump old funds at steep discounts to chase AI riches",
+   "link": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-26T12:00+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "e6520a247e2b",
+   "title": "Financial Policy Committee Record – November 2026",
+   "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+   "source": "Bank of England",
+   "reliability": 3,
+   "published": "2026-11-26T11:30+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "231cd38a2ecb",
+   "title": "Les ultramarins peinent toujours à accéder aux postes à responsabilités de la fonction publique",
+   "link": "https://www.lemonde.fr/politique/article/2026/11/26/les-ultramarins-peinent-toujours-a-acceder-aux-postes-a-responsabilite-de-la-fonction-publique_6815504_823448.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T10:00+01:00",
+   "themes": [
+    "Budget & souverains"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "a49950ec32c9",
+   "title": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
+   "link": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T09:13+01:00",
+   "themes": [
+    "Inflation"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "24adc3e9bfd7",
+   "title": "It’s an earnings bubble, not a valuation bubble",
+   "link": "https://www.ft.com/content/511cf4f3-36ea-47a8-9c0b-96e0f8137a9f?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-26T08:30+01:00",
+   "themes": [
+    "Marchés"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
   },
   {
    "id": "8068df8a8e5a",
@@ -970,6 +1284,20 @@
    "first_seen": "2026-11-25T08:42+01:00"
   },
   {
+   "id": "3bbd48273841",
+   "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "source": "CNBC – économie",
+   "reliability": 2,
+   "published": "2026-11-24T19:34+01:00",
+   "themes": [
+    "Inflation"
+   ],
+   "assets": [],
+   "score": 2,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
    "id": "da38f391e895",
    "title": "Budget 2027 : le Sénat abaisse le plafond de l’abattement fiscal de 10 % des retraités, refusant sa suppression totale",
    "link": "https://www.lemonde.fr/politique/article/2026/11/24/budget-2027-le-senat-abaisse-le-plafond-de-l-abattement-fiscal-de-10-des-retraites-refusant-sa-suppression-totale_6814837_823448.html",
@@ -999,219 +1327,548 @@
    "first_seen": "2026-11-24T18:46+01:00"
   },
   {
-   "id": "e4fdc9b9b6de",
-   "title": "CAC 40 : Essoufflée, Wall Street repart à la baisse, le CAC 40 limite la casse (-0,05%) grâce à Sanofi",
-   "link": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-essoufflee-wall-street-repart-a-la-baisse-le-cac-40-limite-la-casse-005-grace-a-sanofi-1174359.html",
-   "source": "BFM Bourse",
+   "id": "d90fce6945ee",
+   "title": "OPINION. « Le plan B : les chefs d'entreprise veulent se barrer ! » par Sophie de Menthon, présidente et fondatrice du mouvement ETHIC",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/77735706125872/opinion-le-plan-b-les-chefs-dentreprise-veulent-se-barrer-par-sophie-de-menthon-presidente-et-fondatrice-du-mouvement-ethic",
+   "source": "La Tribune",
    "reliability": 1,
-   "published": "2026-11-24T17:33+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [
-    "cac 40"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
+   "published": "2026-11-26T17:41+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
   },
   {
-   "id": "34c711d61e88",
-   "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
-   "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+   "id": "5cfd9d09f87a",
+   "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
+   "link": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T17:13+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "6db264406b8f",
+   "title": "Rosebank rebellion: are resignations next? – podcast",
+   "link": "https://www.theguardian.com/politics/audio/2026/nov/26/rosebank-rebellion-are-resignations-next-podcast",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T17:07+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "0b600516ab3c",
+   "title": "« Un mouvement social ne se réduit pas à ses “débouchés” »",
+   "link": "https://www.lemonde.fr/idees/article/2026/11/26/un-mouvement-social-ne-se-reduit-pas-a-ses-debouches_6815562_3232.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T17:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "b85726ccb3a8",
+   "title": "La vente du diamantaire De Beers se dessine, dans un secteur ébranlé par les pierres de synthèse",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/26/la-vente-du-diamantaire-de-beers-se-dessine-dans-un-secteur-ebranle-par-les-pierres-de-synthese_6815560_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T17:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "1f475a1b7ee4",
+   "title": "When will Poundland shops close? Five key questions answered",
+   "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-26T16:55+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "a0f5ba049a3d",
+   "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+   "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "reliability": 2,
-   "published": "2026-11-24T17:08+01:00",
-   "themes": [
-    "Banque centrale"
-   ],
+   "published": "2026-11-26T15:35+01:00",
+   "themes": [],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
   },
   {
-   "id": "3bbd48273841",
-   "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "id": "ce7382d8a686",
+   "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T15:06+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "16076667d9c2",
+   "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+   "link": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-26T15:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "fe6205267351",
+   "title": "Millions of people to see average monthly mortgage payments rise by £100",
+   "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-26T15:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "10b7a01a2210",
+   "title": "Une nouvelle grille qui ne plaît pas à tout le monde",
+   "link": "https://air-cosmos.latribune.fr/article/aviation-civile/aeroports-et-controle-aerien/71777006938358/une-nouvelle-grille-qui-ne-plait-pas-a-tout-le-monde",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-26T15:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "2dd9e9574741",
+   "title": "Un jouet sur trois qui est vendu en ligne est « dangereux », alertent Serge Papin et la DGCCRF avant les fêtes de fin d’année",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/26/un-jouet-sur-trois-qui-est-vendu-en-ligne-est-dangereux-alertent-serge-papin-et-la-dgccrf-avant-les-fetes-de-fin-d-annee_6815540_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T14:57+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "66f84d71ac47",
+   "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs say",
+   "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T14:43+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "8f59fcf15813",
+   "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+   "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-26T14:40+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "f56b88db33a6",
+   "title": "British and European banks have taken on a lot of France risk",
+   "link": "https://www.ft.com/content/022fcf0c-9a7a-4bf0-b853-4de8b2ba88b9",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-26T14:32+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "ddbdf946d167",
+   "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+   "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-26T14:24+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "761ad9ae0373",
+   "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+   "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "reliability": 2,
+   "published": "2026-11-26T14:06+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "02d65ac20e4b",
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
    "source": "CNBC – économie",
    "reliability": 2,
-   "published": "2026-11-24T17:06+01:00",
-   "themes": [
-    "Inflation"
-   ],
+   "published": "2026-11-26T13:46+01:00",
+   "themes": [],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
   },
   {
-   "id": "79075bc7d3bd",
-   "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
-   "link": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
-   "source": "Bank of England",
-   "reliability": 3,
-   "published": "2026-11-24T17:00+01:00",
-   "themes": [
-    "Banque centrale"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "ba51d92909fe",
-   "title": "Anthropic’s stock just broke below its IPO price for the first time",
-   "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+   "id": "50d90e37fb90",
+   "title": "Capital preservation rather than chasing the market is how hedge funds are negotiating this volatility",
+   "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "reliability": 2,
-   "published": "2026-11-24T16:21+01:00",
+   "published": "2026-11-26T13:37+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "0708584caf18",
+   "title": "OPINION. « Et si on confiait aux jeunes la réinvention de l’entreprise ? »",
+   "link": "https://www.latribune.fr/article/idees/1309563774704514/opinion-et-si-on-confiait-aux-jeunes-la-reinvention-de-l-entreprise",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-26T13:09+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "510c635cd605",
+   "title": "Ministry of Defence signs £8.7bn deal with Babcock to maintain submarines",
+   "link": "https://www.theguardian.com/politics/2026/nov/26/ministry-of-defence-deal-babcock-maintain-submarines",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T13:07+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "644e582586a6",
+   "title": "Trafigura calls for greater European metals support after zinc shutdown",
+   "link": "https://www.ft.com/content/bece6b13-2af4-4704-8511-ac460985582f?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-26T13:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "273d40f978e7",
+   "title": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
+   "link": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T13:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "fd1738420d67",
+   "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+   "link": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T13:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "9b752de76a4e",
+   "title": "Le retour de Jensen Huang chez Nvidia ne plaît guère à S&amp;P qui menace de dégrader sa note, invoquant les risques sur la gouvernance",
+   "link": "https://www.tradingsat.com/actualites/informations-societes/le-retour-de-jensen-huang-chez-nvidia-ne-plait-guere-a-sp-qui-menace-de-degrader-sa-note-invoquant-les-risques-sur-la-gouvernance-1174485.html",
+   "source": "BFM Bourse",
+   "reliability": 1,
+   "published": "2026-11-26T12:36+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "14b311d8c98d",
+   "title": "Employers: do you have concerns about the rollout of Muse and other AI agents?",
+   "link": "https://www.theguardian.com/technology/2026/nov/26/employers-do-you-have-concerns-about-the-rollout-of-muse-and-other-ai-agents",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T12:23+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "4fbd5df22de9",
+   "title": "Drivers over 70 face eye tests every three years under new plans",
+   "link": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-26T12:21+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "a23f8926d802",
+   "title": "OPINION. Présidentielle : « Milei ne voterait pas Lisnard » (Michel Santi)",
+   "link": "https://www.latribune.fr/article/idees/18786741869639/opinion-presidentielle-milei-ne-voterait-pas-lisnard-michel-santi",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-26T12:16+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "7390e094e734",
+   "title": "« Les Français aiment la randonnée » : le pari d’Ibaraki et de Toyama pour séduire les touristes hexagonaux",
+   "link": "https://www.latribune.fr/article/economie/international/47132631820757/les-francais-aiment-la-randonnee-le-pari-d-ibaraki-et-de-toyama-pour-seduire-les-touristes-hexagonaux",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-26T12:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "8fb2fc21c7a8",
+   "title": "Airbags Takata : Stellantis et l’équipementier Joyson Safety Systems France ont été perquisitionnés, selon le parquet de Paris",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/26/airbags-takata-stellantis-et-l-equipementier-joyson-safety-systems-france-ont-ete-perquisitionnes-selon-le-parquet-de-paris_6815521_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T11:56+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "615897517f9a",
+   "title": "Transport en Ile-de-France : le point sur les grands travaux et les perturbations jusqu’à la fin de l’été 2027",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/26/transport-en-ile-de-france-le-point-sur-les-grands-travaux-et-les-perturbations-jusqu-a-la-fin-de-l-ete-2027_6815518_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T11:30+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "3eecd38b5bcb",
+   "title": "« IA pour tous », le Crédit agricole lance son grand chantier en interne, et bientôt pour les clients",
+   "link": "https://www.latribune.fr/article/tech/125018808878414/ia-pour-tous-le-credit-agricole-lance-son-grand-chantier-en-interne-et-bientot-pour-les-clients",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-26T11:30+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "c16808a71da1",
+   "title": "OPINION. « Quelle place accorderez-vous au bois-énergie dans la transition énergétique de la France ? », par 500 chefs d'entreprises",
+   "link": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/1248984517631314/opinion-quelle-place-accorderez-vous-au-bois-energie-dans-la-transition-energetique-de-la-france-par-500-chefs-dentreprises",
+   "source": "La Tribune",
+   "reliability": 1,
+   "published": "2026-11-26T11:28+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "ab5a2a33283e",
+   "title": "Rencontres de l’épargne｜Epargner à l’heure de l’IA - LIVE",
+   "link": "https://www.lemonde.fr/le-monde-evenements/live/2026/11/26/rencontres-de-l-epargne-epargner-a-l-heure-de-l-ia-live_6815515_4333359.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T11:21+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "140a281c412e",
+   "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+   "link": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T11:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "95ba70ff2187",
+   "title": "The dhow builders crafting giant historic ships in India – in pictures",
+   "link": "https://www.theguardian.com/environment/2026/nov/26/tradition-giant-ships-india-shipbuilders-mandvi",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T11:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "3bafa49ee210",
+   "title": "« Pour le cartel des parfums, finalement, c’est le consommateur qui a payé l’addition »",
+   "link": "https://www.lemonde.fr/economie/article/2026/11/26/pour-le-cartel-des-parfums-finalement-c-est-le-consommateur-qui-a-paye-l-addition_6815514_3234.html",
+   "source": "Le Monde – économie",
+   "reliability": 2,
+   "published": "2026-11-26T11:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "3c955476371f",
+   "title": "Car finance compensation payments explained",
+   "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "reliability": 2,
+   "published": "2026-11-26T10:39+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "a2164f3991fc",
+   "title": "UK regulator admits error in calculating car finance compensation payments",
+   "link": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T10:18+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "0d305a1e080c",
+   "title": "Point recommandations des analystes: Eutelsat, Sartorius Stedim",
+   "link": "https://www.tradingsat.com/actualites/avis-brokers/point-recommandations-des-analystes-eutelsat-sartorius-stedim-1174468.html",
+   "source": "BFM Bourse",
+   "reliability": 1,
+   "published": "2026-11-26T10:10+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "6bb574eadbc2",
+   "title": "FCA admits miscalculating compensation in £9bn car mis-selling redress scheme",
+   "link": "https://www.ft.com/content/b7eb2472-557a-4c0f-b625-f6dbbb7391a8?syn-25a6b1a6=1",
+   "source": "Financial Times",
+   "reliability": 2,
+   "published": "2026-11-26T09:40+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "4f58cd8993be",
+   "title": "Pour créer une base solide d&#039;actionnaires particuliers de SpaceX, Musk a la solution… Offrir deux actions du groupe à chaque enfant américain",
+   "link": "https://www.tradingsat.com/actualites/informations-societes/pour-creer-une-base-solide-d-actionnaires-particuliers-de-spacex-musk-a-la-solution-offrir-deux-actions-du-groupe-a-chaque-enfant-americain-1174465.html",
+   "source": "BFM Bourse",
+   "reliability": 1,
+   "published": "2026-11-26T09:33+01:00",
    "themes": [
     "Marchés"
    ],
-   "assets": [
-    "nasdaq"
-   ],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "9b1b93858470",
-   "title": "CLARIANE (ex KORIAN) : Une OPA est lancée sur l&#039;ex-Korian Clariane qui bondit de 35% en Bourse",
-   "link": "https://www.tradingsat.com/clariane-ex-korian-FR0010386334/actualites/clariane-ex-korian-une-opa-est-lancee-sur-l-ex-korian-clariane-qui-bondit-de-35-en-bourse-1174346.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-24T14:45+01:00",
-   "themes": [
-    "Marchés",
-    "Budget & souverains"
-   ],
    "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
   },
   {
-   "id": "be651c1ca4c6",
-   "title": "CAC 40 : Soutenu par le bond de Sanofi, le CAC 40 peine à trouver une direction",
-   "link": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-soutenu-par-le-bond-de-sanofi-le-cac-40-peine-a-trouver-une-direction-1174341.html",
+   "id": "fb40c6190a6d",
+   "title": "We may all be eating too much protein. But that won’t stop the influencers and big business | Devi Sridhar",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/26/eating-too-much-protein-influencers-big-business-ultra-processed-food",
+   "source": "The Guardian – business",
+   "reliability": 2,
+   "published": "2026-11-26T09:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "be1de3146cf4",
+   "title": "SPIE  : Nouvelle impulsion en gestation",
+   "link": "https://www.tradingsat.com/spie-FR0012757854/conseils/spie-nouvelle-impulsion-en-gestation-1174454.html",
    "source": "BFM Bourse",
    "reliability": 1,
-   "published": "2026-11-24T13:48+01:00",
-   "themes": [
-    "Budget & souverains"
-   ],
+   "published": "2026-11-26T09:00+01:00",
+   "themes": [],
+   "assets": [],
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
+  },
+  {
+   "id": "26d91d548aad",
+   "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +1.48%",
+   "link": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-148-1174457.html",
+   "source": "BFM Bourse",
+   "reliability": 1,
+   "published": "2026-11-26T09:00+01:00",
+   "themes": [],
    "assets": [
     "cac 40"
    ],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "1c28972546ce",
-   "title": "Dealing with an energy market both tight and loose",
-   "link": "https://www.ft.com/content/789a1d95-53fa-460a-9c91-ed16a3b8473a?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-24T13:30+01:00",
-   "themes": [
-    "Inflation"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "4cb5e3480f29",
-   "title": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
-   "link": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T12:56+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "db502a0edda1",
-   "title": "NVIDIA : Le retour de Jensen Huang montre combien Nvidia est plus que jamais devenue la banque centrale officieuse de l&#039;IA en Bourse",
-   "link": "https://www.tradingsat.com/nvidia-US67066G1040/actualites/nvidia-le-retour-de-jensen-huang-montre-combien-nvidia-est-plus-que-jamais-devenue-la-banque-centrale-officieuse-de-l-ia-en-bourse-1174335.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-24T12:01+01:00",
-   "themes": [
-    "Banque centrale",
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "4199d8f4bbf5",
-   "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
-   "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
-   "source": "BCE – communiqués",
-   "reliability": 3,
-   "published": "2026-11-24T12:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "424a0a40165a",
-   "title": "Jensen Huang de retour à la tête de Nvidia, sous l’influence de Donald Trump",
-   "link": "https://www.lemonde.fr/international/video/2026/11/24/jensen-huang-de-retour-a-la-tete-de-nvidia-sous-l-influence-de-donald-trump_6814742_3210.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T11:22+01:00",
-   "themes": [
-    "Marchés",
-    "Budget & souverains"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "69ef99bf88a7",
-   "title": "Ousted BP chair Albert Manifold to join Aggreko board after IPO",
-   "link": "https://www.ft.com/content/99b832dc-dd09-4eac-8121-dacc246a306e?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-24T11:12+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "bcebfb20c6e3",
-   "title": "Looking beyond the baseline: how scenario synthesis helps assess risks",
-   "link": "https://www.ecb.europa.eu//press/blog/date/2026/html/ecb.blog20261124~6486644873.en.html",
-   "source": "BCE – blog",
-   "reliability": 3,
-   "published": "2026-11-24T11:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "a176747b2c80",
-   "title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
-   "link": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T09:52+01:00",
-   "themes": [
-    "Budget & souverains"
-   ],
-   "assets": [],
-   "score": 2,
-   "first_seen": "2026-11-24T18:46+01:00"
+   "score": 1,
+   "first_seen": "2026-11-26T17:55+01:00"
   },
   {
    "id": "b69c72f7a3a1",
@@ -2930,484 +3587,6 @@
    "source": "La Tribune",
    "reliability": 1,
    "published": "2026-11-24T18:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "e667348e951b",
-   "title": "Policiers, pompiers, enseignants, infirmiers… : les chiffres clés sur les rémunérations de la fonction publique",
-   "link": "https://www.latribune.fr/article/economie/finances-publiques/35134184655747/policiers-pompiers-enseignants-infirmiers-les-chiffres-cles-sur-les-salaires-de-la-fonction-publique",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T17:30+01:00",
-   "themes": [
-    "Budget & souverains"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "a80b129c6839",
-   "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
-   "link": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-24T17:27+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "db5f2399ea3d",
-   "title": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
-   "link": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-24T17:24+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "fc0a8887bb2c",
-   "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
-   "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-24T17:18+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "d6684a1aa840",
-   "title": "Ikea cherche la parade face à l’effritement du marché de la maison",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/24/ikea-cherche-la-parade-face-a-l-effritement-du-marche-de-la-maison_6814816_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T17:16+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "9f976c330c9c",
-   "title": "Irish plan offers Burnham breakthrough on Made in Europe",
-   "link": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-24T17:09+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "cf9626813d82",
-   "title": "Ariane 6 s'envole pour la dixième fois",
-   "link": "https://air-cosmos.latribune.fr/article/espace/84453272185869/ariane-6-senvole-pour-la-dixieme-fois",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T17:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "9285249c6b43",
-   "title": "Derrière l’affaire Nvidia, un vaste réseau de détournement de puces d’IA au service de la Chine",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/24/derriere-l-affaire-nvidia-un-vaste-reseau-de-detournement-de-puces-d-ia-au-service-de-la-chine_6814811_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T16:49+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "712562f8fa50",
-   "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
-   "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "reliability": 2,
-   "published": "2026-11-24T16:21+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "06afebb40d66",
-   "title": "La première édition de « Aéroports au Féminin » prête au décollage",
-   "link": "https://air-cosmos.latribune.fr/article/aviation-civile/aeroports-et-controle-aerien/57655647936779/la-premiere-edition-de-aeroports-au-feminin-prete-au-decollage",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T16:20+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "74dd7838b133",
-   "title": "Après des débuts en fanfare à Wall Street, Anthropic efface plus de la totalité de sa hausse, perd 30% par rapport à son pic et repasse sous son cours d&#039;introduction",
-   "link": "https://www.tradingsat.com/actualites/informations-societes/apres-des-debuts-en-fanfare-a-wall-street-anthropic-efface-plus-de-la-totalite-de-sa-hausse-perd-30-par-rapport-a-son-pic-et-repasse-sous-son-cours-d-introduction-1174353.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-24T16:02+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "b0ced5089db0",
-   "title": "Le groupe Air France-KLM va officiellement changer de nom le 3 décembre",
-   "link": "https://air-cosmos.latribune.fr/article/aviation-civile/18782426457597/le-groupe-air-france-klm-va-officiellement-changer-de-nom-le-3-decembre",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T15:50+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "f011f2543934",
-   "title": "Banks regain some ground in the private credit tug of war",
-   "link": "https://www.ft.com/content/bf403337-6e87-4aba-a306-17d63fbf1a81?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-24T15:46+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "8a5c287f7560",
-   "title": "Edeis inaugure la reprise de la gestion de l’aéroport de Grenoble Alpes Isère",
-   "link": "https://air-cosmos.latribune.fr/article/aviation-civile/17976007733362/edeis-inaugure-la-reprise-de-la-gestion-de-l-aeroport-de-grenoble-alpes-isere",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T15:35+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "452a159d13dd",
-   "title": "Is the SEC cutting red tape or torching safeguards?",
-   "link": "https://www.ft.com/content/3740b4ad-0ab2-47cb-8369-a0a3562e370a?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-24T15:12+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "eaf64b3ac82f",
-   "title": "Spatial : décollage réussi d'Ariane 6, un soulagement pour Amazon et sa constellation de satellites Leo",
-   "link": "https://www.latribune.fr/article/defense-aerospatiale/spatial/16838789972130/spatial-decollage-reussi-dariane-6-un-soulagement-pour-amazon-et-sa-constellation-de-satellites-leo",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T15:09+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "83c9219e60cb",
-   "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
-   "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-24T15:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "2202abb8057e",
-   "title": "NHS caterer Compass confirms plan to ditch main London listing for New York",
-   "link": "https://www.theguardian.com/business/2026/nov/24/nhs-caterer-compass-london-listing-new-york-us-ftse-100",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-24T14:30+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "7a85209059dd",
-   "title": "World Cup drove profits surge, says Marston's",
-   "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "reliability": 2,
-   "published": "2026-11-24T14:03+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "c1eaa2db9d8f",
-   "title": "Assurance-vie : que penser des fonds euros nouvelle génération ?",
-   "link": "https://www.lemonde.fr/argent/article/2026/11/24/assurance-vie-que-penser-des-fonds-euros-nouvelle-generation_6814767_1657007.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T14:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "40821c0f62cb",
-   "title": "OPINION. « Le 'ground stop' américain : quand on se trompe de cause…»",
-   "link": "https://www.latribune.fr/article/idees/90063087367643/opinion-le-ground-stop-americain-quand-on-se-trompe-de-cause",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T14:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "95f44b99a73d",
-   "title": "CrowdStrike bucks Silicon Valley’s invincible-founder trend",
-   "link": "https://www.ft.com/content/fda29491-ca21-4172-9889-52ffc6d4a25d?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-24T13:49+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "6e6536ed7fdd",
-   "title": "BlackRock wants to launch private market ETFs. Because of course it does",
-   "link": "https://www.ft.com/content/77678ba7-c93f-4d29-b101-b99931b065e9",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-24T13:23+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "e3c0d9ba328f",
-   "title": "Sanofi, en s’offrant l’américain Insmed, se lance dans la plus importante acquisition de son histoire depuis 2004",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/24/sanofi-pret-a-debourser-37-6-milliards-d-euros-pour-l-americain-insmed-un-specialiste-du-traitement-des-maladies-respiratoires_6814758_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T13:08+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "037918dd3371",
-   "title": "COP31’s fossil fuels fight and the limits of carbon capture",
-   "link": "https://www.ft.com/content/76791e9d-c24a-4a81-89a5-70bd757aa583?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-24T13:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "17339efb4239",
-   "title": "Arnaque aux sentiments : la banque doit-elle rembourser la victime ?",
-   "link": "https://www.lemonde.fr/argent/article/2026/11/24/arnaque-aux-sentiments-la-banque-doit-elle-rembourser-la-victime_6814746_1657007.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T11:30+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "fc3047a3f321",
-   "title": "L’UE limite les importations de voitures hybrides en provenance de Chine, comme convenu le mois dernier avec Pékin",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/24/l-ue-limite-les-importations-de-voitures-hybrides-en-provenance-de-chine-comme-convenu-le-mois-dernier-avec-pekin_6814744_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T11:26+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "df9761961286",
-   "title": "China extends pause in controls on critical mineral exports to US",
-   "link": "https://www.ft.com/content/9104866d-f69e-497d-aeb9-f7e0db59f143?syn-25a6b1a6=1",
-   "source": "Financial Times",
-   "reliability": 2,
-   "published": "2026-11-24T11:21+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "b198c4005be3",
-   "title": "Terres rares : pourquoi la France va se doter de stocks stratégiques et de prix planchers",
-   "link": "https://www.latribune.fr/article/entreprises-finance/industrie/5729519376206814/terres-rares-pourquoi-la-france-va-se-doter-de-stocks-strategiques-et-de-garanties-de-prix",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T11:03+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "175063e39734",
-   "title": "« Lego a posé une brique de plus dans sa conquête du monde des jeux »",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/24/lego-a-pose-une-brique-de-plus-dans-sa-conquete-du-monde-des-jeux_6814737_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T11:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "a8499519de05",
-   "title": "SANOFI : «Le groupe fait d&#039;une pierre plusieurs coups»… Pourquoi la Bourse applaudit le rachat taille XXL par Sanofi de la biotech Insmed pour près de 38 milliards d&#039;euros",
-   "link": "https://www.tradingsat.com/sanofi-FR0000120578/actualites/sanofi-le-groupe-fait-d-une-pierre-plusieurs-coups-pourquoi-la-bourse-applaudit-le-rachat-taille-xxl-par-sanofi-de-la-biotech-insmed-pour-pres-de-38-milliards-d-euros-1174329.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-24T10:57+01:00",
-   "themes": [
-    "Marchés"
-   ],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "93e525b67e8d",
-   "title": "La difficile quête de souveraineté de la filière drones, dépendante de composants critiques chinois",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/24/la-difficile-quete-de-souverainete-de-la-filiere-drones-dependante-de-composants-critiques-chinois_6814731_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T10:30+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "2ee04bdab716",
-   "title": "En Moselle, le projet de méga-usine Holosolis cherche à ressusciter l’industrie française des panneaux solaires",
-   "link": "https://www.lemonde.fr/economie/article/2026/11/24/photovoltaique-en-moselle-le-projet-de-mega-usine-holosolis-cherche-a-ressusciter-l-industrie-francaise-des-panneaux-solaires_6814729_3234.html",
-   "source": "Le Monde – économie",
-   "reliability": 2,
-   "published": "2026-11-24T10:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "8040fe591597",
-   "title": "A Lyon, PulseLife a commencé à tester son agent conversationnel IA dans les services d'urgence",
-   "link": "https://www.latribune.fr/article/regions/auvergne-rhone-alpes/11344314618434/a-lyon-pulselife-a-commence-a-tester-son-agent-conversationnel-ia-dans-les-services-durgence",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T10:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "db17619b0a48",
-   "title": "OPINION. « L’inclusion financière ne peut exister sans confiance »",
-   "link": "https://www.latribune.fr/article/idees/77856524914124/opinion-l-inclusion-financiere-ne-peut-exister-sans-confiance",
-   "source": "La Tribune",
-   "reliability": 1,
-   "published": "2026-11-24T09:42+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "530eaa08afbc",
-   "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
-   "link": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-24T09:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "706ee43b2b68",
-   "title": "EMEIS (ex-ORPEA)  : Dans de bonnes dispositions graphiques à court terme",
-   "link": "https://www.tradingsat.com/emeis-ex-orpea-FR001400NLM4/conseils/emeis-ex-orpea-dans-de-bonnes-dispositions-graphiques-a-court-terme-1174309.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-24T09:00+01:00",
-   "themes": [],
-   "assets": [],
-   "score": 1,
-   "first_seen": "2026-11-24T18:46+01:00"
-  },
-  {
-   "id": "141ffce42054",
-   "title": "CAC 40 : L’indice parisien a ouvert la séance en hausse de +0.21%",
-   "link": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-lindice-parisien-a-ouvert-la-seance-en-hausse-de-021-1174307.html",
-   "source": "BFM Bourse",
-   "reliability": 1,
-   "published": "2026-11-24T09:00+01:00",
-   "themes": [],
-   "assets": [
-    "cac 40"
-   ],
-   "score": 1,
-   "first_seen": "2026-11-25T18:15+01:00"
-  },
-  {
-   "id": "7584330b42c2",
-   "title": "'I'm going to be a better CEO': Jensen Huang rejoins Nvidia after Trump intervention – video",
-   "link": "https://www.theguardian.com/technology/video/2026/nov/24/jensen-huang-rejoins-nvidia-after-trump-intervention-video",
-   "source": "The Guardian – business",
-   "reliability": 2,
-   "published": "2026-11-24T08:54+01:00",
    "themes": [],
    "assets": [],
    "score": 1,
