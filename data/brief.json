@@ -1,6 +1,6 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-27T17:41+01:00",
+"genere_le": "2026-11-27T22:40+01:00",
 "date": "2026-11-27",
 "jour": "vendredi",
 "drapeaux": {
@@ -88,34 +88,34 @@
 "id": "us2y",
 "groupe": "govt",
 "libelle": "US 2 ans",
-"date": "2026-11-24",
-"valeur": "4,63 %",
-"var_1j": "+0 pb",
-"var_1sem": "-17 pb",
-"var_ytd": "+116 pb",
-"var_mois": "+7 pb"
+"date": "2026-11-25",
+"valeur": "4,61 %",
+"var_1j": "-2 pb",
+"var_1sem": "-19 pb",
+"var_ytd": "+114 pb",
+"var_mois": "+5 pb"
 },
 {
 "id": "us10y",
 "groupe": "govt",
 "libelle": "US 10 ans",
-"date": "2026-11-24",
-"valeur": "4,91 %",
-"var_1j": "-1 pb",
-"var_1sem": "-19 pb",
-"var_ytd": "+73 pb",
-"var_mois": "-3 pb"
+"date": "2026-11-25",
+"valeur": "4,85 %",
+"var_1j": "-6 pb",
+"var_1sem": "-22 pb",
+"var_ytd": "+67 pb",
+"var_mois": "-9 pb"
 },
 {
 "id": "us30y",
 "groupe": "govt",
 "libelle": "US 30 ans",
-"date": "2026-11-24",
-"valeur": "5,30 %",
-"var_1j": "+1 pb",
-"var_1sem": "-16 pb",
-"var_ytd": "+46 pb",
-"var_mois": "-1 pb"
+"date": "2026-11-25",
+"valeur": "5,24 %",
+"var_1j": "-6 pb",
+"var_1sem": "-17 pb",
+"var_ytd": "+40 pb",
+"var_mois": "-7 pb"
 },
 {
 "id": "de2y",
@@ -234,12 +234,12 @@
 "id": "us_proxy",
 "groupe": "expect",
 "libelle": "Proxy : US 2 ans – Fed (milieu)",
-"date": "2026-11-24",
-"valeur": "76 pb",
-"var_1j": "+0 pb",
-"var_1sem": "-17 pb",
-"var_ytd": "+91 pb",
-"var_mois": "+7 pb"
+"date": "2026-11-25",
+"valeur": "74 pb",
+"var_1j": "-2 pb",
+"var_1sem": "-19 pb",
+"var_ytd": "+89 pb",
+"var_mois": "+5 pb"
 },
 {
 "id": "eu_proxy",
@@ -257,33 +257,33 @@
 "groupe": "fx",
 "libelle": "EUR/USD",
 "date": "2026-11-27",
-"valeur": "1,0942",
-"var_1j": "-0,26 %",
-"var_1sem": "-0,25 %",
-"var_ytd": "-6,85 %",
-"var_mois": "-2,15 %"
+"valeur": "1,0935",
+"var_1j": "-0,32 %",
+"var_1sem": "-0,32 %",
+"var_ytd": "-6,92 %",
+"var_mois": "-2,22 %"
 },
 {
 "id": "usdjpy",
 "groupe": "fx",
 "libelle": "USD/JPY",
 "date": "2026-11-27",
-"valeur": "159,50",
-"var_1j": "+0,18 %",
-"var_1sem": "-0,13 %",
-"var_ytd": "+1,97 %",
-"var_mois": "+1,08 %"
+"valeur": "159,57",
+"var_1j": "+0,22 %",
+"var_1sem": "-0,08 %",
+"var_ytd": "+2,02 %",
+"var_mois": "+1,12 %"
 },
 {
 "id": "gbpusd",
 "groupe": "fx",
 "libelle": "GBP/USD",
 "date": "2026-11-27",
-"valeur": "1,3101",
-"var_1j": "-0,09 %",
-"var_1sem": "+0,11 %",
-"var_ytd": "-2,72 %",
-"var_mois": "-2,08 %"
+"valeur": "1,3094",
+"var_1j": "-0,14 %",
+"var_1sem": "+0,06 %",
+"var_ytd": "-2,77 %",
+"var_mois": "-2,13 %"
 },
 {
 "id": "eurgbp",
@@ -301,62 +301,62 @@
 "groupe": "fx",
 "libelle": "USD/CHF",
 "date": "2026-11-27",
-"valeur": "0,8360",
+"valeur": "0,8361",
 "var_1j": "+0,58 %",
-"var_1sem": "-0,96 %",
-"var_ytd": "+5,59 %",
-"var_mois": "+1,50 %"
+"var_1sem": "-0,95 %",
+"var_ytd": "+5,60 %",
+"var_mois": "+1,51 %"
 },
 {
 "id": "usdcny",
 "groupe": "fx",
 "libelle": "USD/CNY",
 "date": "2026-11-27",
-"valeur": "6,6441",
-"var_1j": "-0,30 %",
-"var_1sem": "-0,34 %",
-"var_ytd": "-5,03 %",
-"var_mois": "-0,25 %"
+"valeur": "6,6449",
+"var_1j": "-0,29 %",
+"var_1sem": "-0,32 %",
+"var_ytd": "-5,02 %",
+"var_mois": "-0,24 %"
 },
 {
 "id": "dxy",
 "groupe": "fx",
 "libelle": "Dollar Index (DXY)",
 "date": "2026-11-27",
-"valeur": "104,03",
-"var_1j": "+0,23 %",
-"var_1sem": "+0,21 %",
-"var_ytd": "+5,85 %",
-"var_mois": "+2,11 %"
+"valeur": "104,05",
+"var_1j": "+0,25 %",
+"var_1sem": "+0,23 %",
+"var_ytd": "+5,87 %",
+"var_mois": "+2,13 %"
 },
 {
 "id": "spx",
 "groupe": "equity",
 "libelle": "S&P 500",
 "date": "2026-11-27",
-"valeur": "7 271,26",
-"var_1j": "+1,23 %",
-"var_1sem": "+5,22 %",
-"var_ytd": "+6,22 %",
-"var_mois": "-4,07 %"
+"valeur": "7 297,49",
+"var_1j": "+1,60 %",
+"var_1sem": "+5,60 %",
+"var_ytd": "+6,60 %",
+"var_mois": "-3,73 %"
 },
 {
 "id": "ndx",
 "groupe": "equity",
 "libelle": "Nasdaq 100",
 "date": "2026-11-27",
-"valeur": "26 531,90",
-"var_1j": "+1,86 %",
-"var_1sem": "+6,00 %",
-"var_ytd": "+5,08 %",
-"var_mois": "-6,53 %"
+"valeur": "26 726,40",
+"var_1j": "+2,61 %",
+"var_1sem": "+6,78 %",
+"var_ytd": "+5,85 %",
+"var_mois": "-5,84 %"
 },
 {
 "id": "sx5e",
 "groupe": "equity",
 "libelle": "Euro Stoxx 50",
 "date": "2026-11-27",
-"valeur": "6 089,10",
+"valeur": "6 089,20",
 "var_1j": "+1,24 %",
 "var_1sem": "+2,48 %",
 "var_ytd": "+5,05 %",
@@ -367,33 +367,33 @@
 "groupe": "equity",
 "libelle": "CAC 40",
 "date": "2026-11-27",
-"valeur": "8 163,22",
-"var_1j": "+0,67 %",
-"var_1sem": "+2,97 %",
-"var_ytd": "+0,17 %",
-"var_mois": "+2,43 %"
+"valeur": "8 156,09",
+"var_1j": "+0,58 %",
+"var_1sem": "+2,88 %",
+"var_ytd": "+0,08 %",
+"var_mois": "+2,34 %"
 },
 {
 "id": "dax",
 "groupe": "equity",
 "libelle": "DAX",
 "date": "2026-11-27",
-"valeur": "25 437,70",
-"var_1j": "+0,88 %",
-"var_1sem": "+2,56 %",
-"var_ytd": "+3,87 %",
-"var_mois": "-1,47 %"
+"valeur": "25 441,20",
+"var_1j": "+0,90 %",
+"var_1sem": "+2,57 %",
+"var_ytd": "+3,88 %",
+"var_mois": "-1,46 %"
 },
 {
 "id": "ftse",
 "groupe": "equity",
 "libelle": "FTSE 100",
 "date": "2026-11-27",
-"valeur": "10 704,50",
-"var_1j": "+0,90 %",
-"var_1sem": "+3,46 %",
-"var_ytd": "+7,78 %",
-"var_mois": "-0,24 %"
+"valeur": "10 698,80",
+"var_1j": "+0,84 %",
+"var_1sem": "+3,41 %",
+"var_ytd": "+7,73 %",
+"var_mois": "-0,29 %"
 },
 {
 "id": "nikkei",
@@ -422,137 +422,137 @@
 "groupe": "equity",
 "libelle": "MSCI EM (proxy ETF EEM, $)",
 "date": "2026-11-27",
-"valeur": "57,90",
-"var_1j": "+2,65 %",
-"var_1sem": "+7,53 %",
-"var_ytd": "+5,82 %",
-"var_mois": "-5,15 %"
+"valeur": "58,10",
+"var_1j": "+3,01 %",
+"var_1sem": "+7,91 %",
+"var_ytd": "+6,20 %",
+"var_mois": "-4,82 %"
 },
 {
 "id": "vix",
 "groupe": "vol",
 "libelle": "VIX",
 "date": "2026-11-27",
-"valeur": "25,23",
-"var_1j": "-5,86 %",
-"var_1sem": "-29,70 %",
-"var_ytd": "+68,76 %",
-"var_mois": "+29,92 %"
+"valeur": "23,81",
+"var_1j": "-11,16 %",
+"var_1sem": "-33,66 %",
+"var_ytd": "+59,26 %",
+"var_mois": "+22,61 %"
 },
 {
 "id": "move",
 "groupe": "vol",
 "libelle": "MOVE (vol. taux US)",
 "date": "2026-11-27",
-"valeur": "95,28",
-"var_1j": "-2,31 %",
-"var_1sem": "-10,37 %",
-"var_ytd": "+48,97 %",
-"var_mois": "-4,91 %"
+"valeur": "95,30",
+"var_1j": "-2,30 %",
+"var_1sem": "-10,36 %",
+"var_ytd": "+48,99 %",
+"var_mois": "-4,90 %"
 },
 {
 "id": "us_ig",
 "groupe": "credit",
 "libelle": "OAS Investment Grade US",
-"date": "2026-11-24",
-"var_1j": "+1 pb",
-"var_1sem": "+6 pb",
-"var_ytd": "+19 pb"
+"date": "2026-11-26",
+"var_1j": "+0 pb",
+"var_1sem": "+5 pb",
+"var_ytd": "+20 pb"
 },
 {
 "id": "us_hy",
 "groupe": "credit",
 "libelle": "OAS High Yield US",
-"date": "2026-11-24",
-"var_1j": "+9 pb",
-"var_1sem": "+29 pb",
-"var_ytd": "+91 pb"
+"date": "2026-11-26",
+"var_1j": "+0 pb",
+"var_1sem": "+25 pb",
+"var_ytd": "+96 pb"
 },
 {
 "id": "eu_hy",
 "groupe": "credit",
 "libelle": "OAS High Yield euro",
-"date": "2026-11-24",
-"var_1j": "+4 pb",
-"var_1sem": "+19 pb",
-"var_ytd": "+86 pb"
+"date": "2026-11-26",
+"var_1j": "-9 pb",
+"var_1sem": "+22 pb",
+"var_ytd": "+89 pb"
 },
 {
 "id": "brent",
 "groupe": "commo",
 "libelle": "Brent ($/b)",
 "date": "2026-11-27",
-"valeur": "90,42",
-"var_1j": "-0,90 %",
-"var_1sem": "-2,32 %",
-"var_ytd": "+48,59 %",
-"var_mois": "-23,14 %"
+"valeur": "90,84",
+"var_1j": "-0,44 %",
+"var_1sem": "-1,87 %",
+"var_ytd": "+49,29 %",
+"var_mois": "-22,78 %"
 },
 {
 "id": "wti",
 "groupe": "commo",
 "libelle": "WTI ($/b)",
 "date": "2026-11-27",
-"valeur": "83,34",
-"var_1j": "-1,55 %",
-"var_1sem": "-0,76 %",
-"var_ytd": "+45,14 %",
-"var_mois": "-19,96 %"
+"valeur": "83,08",
+"var_1j": "-1,85 %",
+"var_1sem": "-1,07 %",
+"var_ytd": "+44,69 %",
+"var_mois": "-20,21 %"
 },
 {
 "id": "ttf",
 "groupe": "commo",
 "libelle": "Gaz TTF (€/MWh)",
 "date": "2026-11-27",
-"valeur": "85,40",
-"var_1j": "-2,46 %",
-"var_1sem": "-3,45 %",
-"var_ytd": "+203,26 %",
-"var_mois": "-17,84 %"
+"valeur": "84,85",
+"var_1j": "-3,08 %",
+"var_1sem": "-4,07 %",
+"var_ytd": "+201,30 %",
+"var_mois": "-18,37 %"
 },
 {
 "id": "gold",
 "groupe": "commo",
 "libelle": "Or ($/oz)",
 "date": "2026-11-27",
-"valeur": "3 649,2",
-"var_1j": "+1,36 %",
-"var_1sem": "+3,81 %",
-"var_ytd": "-15,94 %",
-"var_mois": "-6,40 %"
+"valeur": "3 668,5",
+"var_1j": "+1,89 %",
+"var_1sem": "+4,36 %",
+"var_ytd": "-15,49 %",
+"var_mois": "-5,91 %"
 },
 {
 "id": "silver",
 "groupe": "commo",
 "libelle": "Argent ($/oz)",
 "date": "2026-11-27",
-"valeur": "43,52",
-"var_1j": "+3,92 %",
-"var_1sem": "+6,07 %",
-"var_ytd": "-37,94 %",
-"var_mois": "-11,35 %"
+"valeur": "43,70",
+"var_1j": "+4,34 %",
+"var_1sem": "+6,50 %",
+"var_ytd": "-37,69 %",
+"var_mois": "-10,99 %"
 },
 {
 "id": "copper",
 "groupe": "commo",
 "libelle": "Cuivre ($/lb)",
 "date": "2026-11-27",
-"valeur": "5,589",
-"var_1j": "+2,52 %",
-"var_1sem": "+2,04 %",
-"var_ytd": "-0,73 %",
-"var_mois": "-13,46 %"
+"valeur": "5,601",
+"var_1j": "+2,73 %",
+"var_1sem": "+2,25 %",
+"var_ytd": "-0,52 %",
+"var_mois": "-13,28 %"
 },
 {
 "id": "btc",
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
 "date": "2026-11-27",
-"valeur": "60 267",
-"var_1j": "-0,38 %",
-"var_1sem": "+2,50 %",
-"var_ytd": "-31,13 %",
-"var_mois": "-22,17 %"
+"valeur": "59 776",
+"var_1j": "-1,19 %",
+"var_1sem": "+1,66 %",
+"var_ytd": "-31,69 %",
+"var_mois": "-22,81 %"
 },
 {
 "id": "us_cpi",
@@ -747,6 +747,32 @@
 "heure": "2026-11-26T15:58+01:00"
 },
 {
+"id": "93829894f40b",
+"titre": "Dette : S&P abaisse la perspective de la note de la France, la récession inquiète",
+"source": "La Tribune",
+"lien": "https://www.latribune.fr/article/economie/30991424411632/dette-s-p-abaisse-la-perspective-de-la-france-la-recession-inquiete",
+"note": 4,
+"themes": [
+"Emploi & croissance",
+"Risque & crédit",
+"Budget & souverains"
+],
+"heure": "2026-11-27T22:24+01:00"
+},
+{
+"id": "856047940454",
+"titre": "L’agence S&P menace de dégrader encore la note de la France, entrée en récession",
+"source": "Le Monde – économie",
+"lien": "https://www.lemonde.fr/politique/article/2026/11/27/l-agence-s-p-menace-de-degrader-encore-la-note-de-la-france-entree-en-recession_6815934_823448.html",
+"note": 4,
+"themes": [
+"Risque & crédit",
+"Marchés",
+"Budget & souverains"
+],
+"heure": "2026-11-27T22:18+01:00"
+},
+{
 "id": "f0d00815926b",
 "titre": "OPINION. « La crise budgétaire de la France est aussi un problème européen »",
 "source": "La Tribune",
@@ -796,18 +822,6 @@
 "heure": "2026-11-26T00:18+01:00"
 },
 {
-"id": "882812167e62",
-"titre": "UK food inflation could hit 5% next year, Bank of England says",
-"source": "The Guardian – business",
-"lien": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-"note": 4,
-"themes": [
-"Banque centrale",
-"Inflation"
-],
-"heure": "2026-11-25T20:25+01:00"
-},
-{
 "id": "d7910a53402b",
 "titre": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
 "source": "BCE – communiqués",
@@ -840,28 +854,18 @@
 "Banque centrale"
 ],
 "heure": "2026-11-27T10:00+01:00"
-},
-{
-"id": "9f0cf31f1dad",
-"titre": "(BOJ Review) Developments in JGB Market-Making Business by Securities Companies",
-"source": "Banque du Japon",
-"lien": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e14.htm",
-"note": 3,
-"themes": [
-"Banque centrale"
-],
-"heure": "2026-11-27T06:00+01:00"
 }
 ],
 "wraps_du_mois": [
-"content/wraps/2026-11-20.md"
+"content/wraps/2026-11-20.md",
+"content/wraps/2026-11-27.md"
 ],
 "alertes_sources": {},
 "controles_du_mois": {
 "mois": "2026-11",
-"textes_controles": 19,
+"textes_controles": 20,
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "35fa07dc327ef319"
+"empreinte": "64e222afeb4dd463"
 }

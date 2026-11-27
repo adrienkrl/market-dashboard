@@ -1,6 +1,6 @@
 {
- "refreshed_at": "2026-11-27T08:41+01:00",
- "updated_at": "2026-11-27T17:41+01:00",
+ "refreshed_at": "2026-11-27T22:40+01:00",
+ "updated_at": "2026-11-27T22:40+01:00",
  "events": [
   {
    "id": "ust-91282CRY9-2026-11-23",
@@ -207,6 +207,36 @@
    }
   },
   {
+   "id": "ust-91282CSB8-2026-12-07",
+   "kind": "auction",
+   "cusip": "91282CSB8",
+   "sec_type": "Note",
+   "term": "3-Year",
+   "label": "Adjudication Trésor US – 3-Year Note",
+   "stars": 1,
+   "date": "2026-12-07",
+   "time_paris": "2026-12-07T19:00+01:00",
+   "note": null,
+   "source": "TreasuryDirect",
+   "url": "https://www.treasurydirect.gov/auctions/upcoming/",
+   "previous": 4.627,
+   "previous_date": "2026-11-09"
+  },
+  {
+   "id": "ust-91282CRX1-2026-12-08",
+   "kind": "auction",
+   "cusip": "91282CRX1",
+   "sec_type": "Note",
+   "term": "9-Year 11-Month",
+   "label": "Adjudication Trésor US – 9-Year 11-Month Note",
+   "stars": 1,
+   "date": "2026-12-08",
+   "time_paris": "2026-12-08T19:00+01:00",
+   "note": null,
+   "source": "TreasuryDirect",
+   "url": "https://www.treasurydirect.gov/auctions/upcoming/"
+  },
+  {
    "id": "fed-2026-12-09",
    "kind": "cb",
    "bank": "fed",
@@ -246,6 +276,20 @@
      "previous_period": "2026-09-01"
     }
    }
+  },
+  {
+   "id": "ust-912810UY2-2026-12-10",
+   "kind": "auction",
+   "cusip": "912810UY2",
+   "sec_type": "Bond",
+   "term": "29-Year 11-Month",
+   "label": "Adjudication Trésor US – 29-Year 11-Month Bond",
+   "stars": 1,
+   "date": "2026-12-10",
+   "time_paris": "2026-12-10T19:00+01:00",
+   "note": null,
+   "source": "TreasuryDirect",
+   "url": "https://www.treasurydirect.gov/auctions/upcoming/"
   }
  ],
  "warnings": [],
