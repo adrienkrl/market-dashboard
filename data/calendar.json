@@ -1,26 +1,7 @@
 {
- "refreshed_at": "2026-11-26T08:42+01:00",
- "updated_at": "2026-11-26T17:55+01:00",
+ "refreshed_at": "2026-11-27T08:41+01:00",
+ "updated_at": "2026-11-27T08:41+01:00",
  "events": [
-  {
-   "id": "ust-91282CRE3-2026-11-19",
-   "kind": "auction",
-   "cusip": "91282CRE3",
-   "sec_type": "TIPS",
-   "term": "10-Year",
-   "label": "Adjudication Trésor US – 9-Year 8-Month TIPS",
-   "stars": 2,
-   "date": "2026-11-19",
-   "time_paris": "2026-11-19T19:00+01:00",
-   "note": "Montant offert : 19 Md$",
-   "source": "TreasuryDirect",
-   "url": "https://www.treasurydirect.gov/auctions/upcoming/",
-   "previous": 2.653,
-   "previous_date": "2026-09-17",
-   "actual": 2.903,
-   "bid_to_cover": 2.43,
-   "change_bp": 25.0
-  },
   {
    "id": "ust-91282CRY9-2026-11-23",
    "kind": "auction",

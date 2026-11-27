@@ -1,12 +1,12 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-26T17:55+01:00",
-"date": "2026-11-26",
-"jour": "jeudi",
+"genere_le": "2026-11-27T08:41+01:00",
+"date": "2026-11-27",
+"jour": "vendredi",
 "drapeaux": {
 "rapport_mensuel_a_ecrire": false,
 "lendemain_reunion": [],
-"vendredi": false
+"vendredi": true
 },
 "chiffres": [
 {
@@ -46,9 +46,9 @@
 "id": "boj_call",
 "groupe": "policy",
 "libelle": "BoJ – taux call JJ (cible de politique)",
-"date": "2026-11-24",
+"date": "2026-11-25",
 "valeur": "1,23 %",
-"var_1j": "-0 pb",
+"var_1j": "+0 pb",
 "var_1sem": "+0 pb",
 "var_ytd": "+50 pb",
 "var_mois": "+0 pb"
@@ -57,7 +57,7 @@
 "id": "estr",
 "groupe": "short",
 "libelle": "€STR",
-"date": "2026-11-25",
+"date": "2026-11-26",
 "valeur": "2,44 %",
 "var_1j": "+0 pb",
 "var_1sem": "+0 pb",
@@ -172,12 +172,12 @@
 "id": "jp10y",
 "groupe": "govt",
 "libelle": "JGB 10 ans",
-"date": "2026-11-25",
-"valeur": "2,71 %",
-"var_1j": "-7 pb",
-"var_1sem": "-20 pb",
-"var_ytd": "+65 pb",
-"var_mois": "-10 pb"
+"date": "2026-11-26",
+"valeur": "2,70 %",
+"var_1j": "-1 pb",
+"var_1sem": "-17 pb",
+"var_ytd": "+64 pb",
+"var_mois": "-11 pb"
 },
 {
 "id": "oat_bund",
@@ -256,78 +256,78 @@
 "id": "eurusd",
 "groupe": "fx",
 "libelle": "EUR/USD",
-"date": "2026-11-26",
-"valeur": "1,0973",
-"var_1j": "+0,10 %",
-"var_1sem": "+0,01 %",
-"var_ytd": "-6,59 %",
-"var_mois": "-1,87 %"
+"date": "2026-11-27",
+"valeur": "1,0975",
+"var_1j": "+0,04 %",
+"var_1sem": "+0,04 %",
+"var_ytd": "-6,58 %",
+"var_mois": "-1,86 %"
 },
 {
 "id": "usdjpy",
 "groupe": "fx",
 "libelle": "USD/JPY",
-"date": "2026-11-26",
-"valeur": "159,29",
-"var_1j": "+0,02 %",
-"var_1sem": "-0,06 %",
-"var_ytd": "+1,84 %",
-"var_mois": "+0,94 %"
+"date": "2026-11-27",
+"valeur": "159,37",
+"var_1j": "+0,09 %",
+"var_1sem": "-0,21 %",
+"var_ytd": "+1,89 %",
+"var_mois": "+0,99 %"
 },
 {
 "id": "gbpusd",
 "groupe": "fx",
 "libelle": "GBP/USD",
-"date": "2026-11-26",
-"valeur": "1,3107",
-"var_1j": "-0,04 %",
-"var_1sem": "-0,30 %",
-"var_ytd": "-2,68 %",
-"var_mois": "-2,03 %"
+"date": "2026-11-27",
+"valeur": "1,3120",
+"var_1j": "+0,06 %",
+"var_1sem": "+0,26 %",
+"var_ytd": "-2,58 %",
+"var_mois": "-1,93 %"
 },
 {
 "id": "eurgbp",
 "groupe": "fx",
 "libelle": "EUR/GBP",
-"date": "2026-11-26",
-"valeur": "0,8370",
-"var_1j": "+0,12 %",
-"var_1sem": "+0,29 %",
-"var_ytd": "-4,04 %",
-"var_mois": "+0,14 %"
+"date": "2026-11-27",
+"valeur": "0,8363",
+"var_1j": "-0,04 %",
+"var_1sem": "-0,20 %",
+"var_ytd": "-4,12 %",
+"var_mois": "+0,06 %"
 },
 {
 "id": "usdchf",
 "groupe": "fx",
 "libelle": "USD/CHF",
-"date": "2026-11-26",
-"valeur": "0,8341",
-"var_1j": "-0,20 %",
-"var_1sem": "-1,11 %",
-"var_ytd": "+5,36 %",
-"var_mois": "+1,27 %"
+"date": "2026-11-27",
+"valeur": "0,8345",
+"var_1j": "+0,40 %",
+"var_1sem": "-1,14 %",
+"var_ytd": "+5,41 %",
+"var_mois": "+1,32 %"
 },
 {
 "id": "usdcny",
 "groupe": "fx",
 "libelle": "USD/CNY",
-"date": "2026-11-26",
-"valeur": "6,6498",
-"var_1j": "-0,21 %",
-"var_1sem": "-0,27 %",
-"var_ytd": "-4,95 %",
-"var_mois": "-0,17 %"
+"date": "2026-11-27",
+"valeur": "6,6538",
+"var_1j": "-0,15 %",
+"var_1sem": "-0,19 %",
+"var_ytd": "-4,89 %",
+"var_mois": "-0,11 %"
 },
 {
 "id": "dxy",
 "groupe": "fx",
 "libelle": "Dollar Index (DXY)",
-"date": "2026-11-26",
-"valeur": "103,79",
-"var_1j": "+0,11 %",
-"var_1sem": "-0,11 %",
-"var_ytd": "+5,60 %",
-"var_mois": "+1,87 %"
+"date": "2026-11-27",
+"valeur": "103,73",
+"var_1j": "-0,06 %",
+"var_1sem": "-0,08 %",
+"var_ytd": "+5,54 %",
+"var_mois": "+1,81 %"
 },
 {
 "id": "spx",
@@ -399,23 +399,23 @@
 "id": "nikkei",
 "groupe": "equity",
 "libelle": "Nikkei 225",
-"date": "2026-11-26",
-"valeur": "57 499,20",
-"var_1j": "+0,86 %",
-"var_1sem": "-3,27 %",
-"var_ytd": "+14,22 %",
-"var_mois": "-9,15 %"
+"date": "2026-11-27",
+"valeur": "58 711,10",
+"var_1j": "+2,11 %",
+"var_1sem": "+4,03 %",
+"var_ytd": "+16,63 %",
+"var_mois": "-7,23 %"
 },
 {
 "id": "hsi",
 "groupe": "equity",
 "libelle": "Hang Seng",
-"date": "2026-11-26",
-"valeur": "22 302,50",
-"var_1j": "+1,53 %",
-"var_1sem": "-2,36 %",
-"var_ytd": "-12,98 %",
-"var_mois": "-4,26 %"
+"date": "2026-11-27",
+"valeur": "22 648,40",
+"var_1j": "+1,90 %",
+"var_1sem": "+1,06 %",
+"var_ytd": "-11,63 %",
+"var_mois": "-2,77 %"
 },
 {
 "id": "em",
@@ -481,23 +481,23 @@
 "id": "brent",
 "groupe": "commo",
 "libelle": "Brent ($/b)",
-"date": "2026-11-26",
-"valeur": "91,24",
-"var_1j": "-3,56 %",
-"var_1sem": "-0,80 %",
-"var_ytd": "+49,94 %",
-"var_mois": "-22,44 %"
+"date": "2026-11-27",
+"valeur": "92,54",
+"var_1j": "+1,42 %",
+"var_1sem": "-0,03 %",
+"var_ytd": "+52,08 %",
+"var_mois": "-21,34 %"
 },
 {
 "id": "wti",
 "groupe": "commo",
 "libelle": "WTI ($/b)",
-"date": "2026-11-26",
-"valeur": "84,65",
-"var_1j": "+1,16 %",
-"var_1sem": "+1,73 %",
-"var_ytd": "+47,42 %",
-"var_mois": "-18,70 %"
+"date": "2026-11-27",
+"valeur": "86,19",
+"var_1j": "+1,82 %",
+"var_1sem": "+2,63 %",
+"var_ytd": "+50,10 %",
+"var_mois": "-17,22 %"
 },
 {
 "id": "ttf",
@@ -514,45 +514,45 @@
 "id": "gold",
 "groupe": "commo",
 "libelle": "Or ($/oz)",
-"date": "2026-11-26",
-"valeur": "3 600,4",
-"var_1j": "+1,83 %",
-"var_1sem": "-2,31 %",
-"var_ytd": "-17,06 %",
-"var_mois": "-7,66 %"
+"date": "2026-11-27",
+"valeur": "3 689,0",
+"var_1j": "+2,46 %",
+"var_1sem": "+4,94 %",
+"var_ytd": "-15,02 %",
+"var_mois": "-5,38 %"
 },
 {
 "id": "silver",
 "groupe": "commo",
 "libelle": "Argent ($/oz)",
-"date": "2026-11-26",
-"valeur": "41,88",
-"var_1j": "+4,58 %",
-"var_1sem": "-5,49 %",
-"var_ytd": "-40,28 %",
-"var_mois": "-14,69 %"
+"date": "2026-11-27",
+"valeur": "44,41",
+"var_1j": "+6,04 %",
+"var_1sem": "+8,24 %",
+"var_ytd": "-36,67 %",
+"var_mois": "-9,54 %"
 },
 {
 "id": "copper",
 "groupe": "commo",
 "libelle": "Cuivre ($/lb)",
-"date": "2026-11-26",
-"valeur": "5,452",
-"var_1j": "+2,23 %",
-"var_1sem": "-3,08 %",
-"var_ytd": "-3,17 %",
-"var_mois": "-15,59 %"
+"date": "2026-11-27",
+"valeur": "5,692",
+"var_1j": "+4,41 %",
+"var_1sem": "+3,93 %",
+"var_ytd": "+1,10 %",
+"var_mois": "-11,87 %"
 },
 {
 "id": "btc",
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
-"date": "2026-11-26",
-"valeur": "60 424",
-"var_1j": "+0,08 %",
-"var_1sem": "-2,39 %",
-"var_ytd": "-30,95 %",
-"var_mois": "-21,97 %"
+"date": "2026-11-27",
+"valeur": "61 530",
+"var_1j": "+1,71 %",
+"var_1sem": "+4,64 %",
+"var_ytd": "-29,69 %",
+"var_mois": "-20,54 %"
 },
 {
 "id": "us_cpi",
@@ -665,48 +665,7 @@
 }
 ],
 "agenda_3_jours": [],
-"publie_depuis_hier": [
-{
-"date": "2026-11-25",
-"heure_paris": "14:30",
-"evenement": "PCE core US (revenus et dépenses)",
-"importance": 3,
-"consensus": "n.d.",
-"valeurs": [
-{
-"serie": "PCE core US (a/a)",
-"precedent": "3,1 %",
-"reel": "3,3 %",
-"reel_moins_precedent": "+0,1 pt"
-}
-]
-},
-{
-"date": "2026-11-25",
-"heure_paris": "14:30",
-"evenement": "PIB US",
-"importance": 2,
-"consensus": "n.d.",
-"valeurs": [
-{
-"serie": "PIB US (t/t annualisé)",
-"precedent": "3,4 %"
-}
-]
-},
-{
-"date": "2026-11-25",
-"heure_paris": "17:30",
-"evenement": "Adjudication Trésor US – 7-Year Note",
-"importance": 1,
-"consensus": "n.d.",
-"rendement_precedent": "4,894 %",
-"rendement_servi": "4,708 %",
-"bid_to_cover": "2,43",
-"variation": "-18,6 pb",
-"note": "Montant offert : 44 Md$"
-}
-],
+"publie_depuis_hier": [],
 "evenements_de_la_semaine": [
 {
 "date": "2026-11-23",
@@ -788,6 +747,19 @@
 "heure": "2026-11-26T15:58+01:00"
 },
 {
+"id": "f0d00815926b",
+"titre": "OPINION. « La crise budgétaire de la France est aussi un problème européen »",
+"source": "La Tribune",
+"lien": "https://www.latribune.fr/article/idees/15939120141434/opinion-la-crise-budgetaire-de-la-france-est-aussi-un-probleme-europeen",
+"note": 4,
+"themes": [
+"Banque centrale",
+"Risque & crédit",
+"Budget & souverains"
+],
+"heure": "2026-11-27T07:10+01:00"
+},
+{
 "id": "981d7fc3754d",
 "titre": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
 "source": "CNBC – économie",
@@ -860,17 +832,15 @@
 "heure": "2026-11-25T09:00+01:00"
 },
 {
-"id": "e298585cdf4b",
-"titre": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-"source": "The Guardian – business",
-"lien": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-"note": 4,
+"id": "9f0cf31f1dad",
+"titre": "(BOJ Review) Developments in JGB Market-Making Business by Securities Companies",
+"source": "Banque du Japon",
+"lien": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e14.htm",
+"note": 3,
 "themes": [
-"Emploi & croissance",
-"Risque & crédit",
-"Marchés"
+"Banque centrale"
 ],
-"heure": "2026-11-24T23:05+01:00"
+"heure": "2026-11-27T06:00+01:00"
 },
 {
 "id": "c5cd3f64250f",
@@ -882,17 +852,6 @@
 "Banque centrale"
 ],
 "heure": "2026-11-26T16:00+01:00"
-},
-{
-"id": "36bf8fc71857",
-"titre": "I helped organise the letter from Labour MPs urging Andy Burnham to reject Rosebank. This is why | Catherine Fookes",
-"source": "The Guardian – business",
-"lien": "https://www.theguardian.com/commentisfree/2026/nov/26/labour-mp-letter-andy-burnham-rosebank-oil-climate-crisis",
-"note": 3,
-"themes": [
-"Risque & crédit"
-],
-"heure": "2026-11-26T16:00+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -901,9 +860,9 @@
 "alertes_sources": {},
 "controles_du_mois": {
 "mois": "2026-11",
-"textes_controles": 17,
+"textes_controles": 19,
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "f8e9a54e9947edcd"
+"empreinte": "05722bac8eb0d7d5"
 }
