@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T08:41+01:00",
+ "generated_at": "2026-11-28T16:31+01:00",
  "groups": [
   {
    "id": "policy",
@@ -60,16 +60,12 @@
    "show_bp": null,
    "restricted": null,
    "display": "fed_range",
-   "date": "2026-11-27",
+   "date": "2026-11-28",
    "value": 4.0,
    "chg_1d": 0.0,
    "chg_1w": 0.0,
    "chg_ytd": 25.0,
    "spark": [
-    [
-     "2026-08-27",
-     3.75
-    ],
     [
      "2026-08-28",
      3.75
@@ -436,6 +432,10 @@
     ],
     [
      "2026-11-27",
+     4.0
+    ],
+    [
+     "2026-11-28",
      4.0
     ]
    ],
@@ -5676,7 +5676,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "usdjpy",
@@ -5967,7 +5967,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "gbpusd",
@@ -6266,7 +6266,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "eurgbp",
@@ -6557,7 +6557,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "usdchf",
@@ -6848,7 +6848,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "usdcny",
@@ -7147,7 +7147,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "dxy",
@@ -7434,7 +7434,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "spx",
@@ -7717,7 +7717,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "ndx",
@@ -8000,7 +8000,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "sx5e",
@@ -8291,7 +8291,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "cac",
@@ -8582,7 +8582,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "dax",
@@ -8873,7 +8873,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "ftse",
@@ -9160,7 +9160,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "nikkei",
@@ -9427,7 +9427,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "hsi",
@@ -9710,7 +9710,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "em",
@@ -9993,7 +9993,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "vix",
@@ -10284,7 +10284,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "vstoxx",
@@ -10575,7 +10575,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "us_ig",
@@ -10935,7 +10935,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "wti",
@@ -11222,7 +11222,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "ttf",
@@ -11509,7 +11509,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "gold",
@@ -11796,7 +11796,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "silver",
@@ -12083,7 +12083,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "copper",
@@ -12370,7 +12370,7 @@
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "btc",
@@ -12386,10 +12386,10 @@
    "restricted": null,
    "display": null,
    "date": "2026-11-28",
-   "value": 59694.8,
-   "chg_1d": -0.29,
-   "chg_1w": -0.66,
-   "chg_ytd": -31.78,
+   "value": 59210.9,
+   "chg_1d": -1.09,
+   "chg_1w": -1.47,
+   "chg_ytd": -32.34,
    "spark": [
     [
      "2026-08-28",
@@ -12761,11 +12761,11 @@
     ],
     [
      "2026-11-28",
-     59694.8
+     59210.9
     ]
    ],
    "status": "ok",
-   "fetched_at": "08:41"
+   "fetched_at": "16:31"
   },
   {
    "id": "us_cpi",

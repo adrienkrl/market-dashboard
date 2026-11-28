@@ -1,6 +1,6 @@
 {
 "_lisez_moi": "Seule source de chiffres autorisée pour les textes. Recopier les valeurs telles quelles (format français). Toute donnée absente = ne pas l'inventer, écrire « n.d. ».",
-"genere_le": "2026-11-28T08:41+01:00",
+"genere_le": "2026-11-28T16:32+01:00",
 "date": "2026-11-28",
 "jour": "samedi",
 "drapeaux": {
@@ -13,7 +13,7 @@
 "id": "fed_upper",
 "groupe": "policy",
 "libelle": "Fed funds – borne haute",
-"date": "2026-11-27",
+"date": "2026-11-28",
 "valeur": "3,75 – 4,00 %",
 "var_1j": "+0 pb",
 "var_1sem": "+0 pb",
@@ -548,11 +548,11 @@
 "groupe": "commo",
 "libelle": "Bitcoin ($)",
 "date": "2026-11-28",
-"valeur": "59 695",
-"var_1j": "-0,29 %",
-"var_1sem": "-0,66 %",
-"var_ytd": "-31,78 %",
-"var_mois": "-22,91 %"
+"valeur": "59 211",
+"var_1j": "-1,09 %",
+"var_1sem": "-1,47 %",
+"var_ytd": "-32,34 %",
+"var_mois": "-23,53 %"
 },
 {
 "id": "us_cpi",
@@ -734,17 +734,17 @@
 ],
 "top10_actualites": [
 {
-"id": "73fe8543ba2b",
-"titre": "Hawkish Fed poised to raise rates despite stock market turmoil",
-"source": "Financial Times",
-"lien": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
-"note": 5,
+"id": "e781adc68476",
+"titre": "Dette française : la Banque centrale européenne écarte une scénario « à la grecque »",
+"source": "La Tribune",
+"lien": "https://www.latribune.fr/article/banques-finance/41972142461997/dette-francaise-la-banque-centrale-europeenne-ecarte-une-scenario-a-la-grecque",
+"note": 4,
 "themes": [
 "Banque centrale",
-"Inflation",
-"Risque & crédit"
+"Risque & crédit",
+"Budget & souverains"
 ],
-"heure": "2026-11-26T15:58+01:00"
+"heure": "2026-11-28T16:00+01:00"
 },
 {
 "id": "93829894f40b",
@@ -773,6 +773,18 @@
 "heure": "2026-11-27T22:18+01:00"
 },
 {
+"id": "981d7fc3754d",
+"titre": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+"source": "CNBC – économie",
+"lien": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+"note": 4,
+"themes": [
+"Banque centrale",
+"Emploi & croissance"
+],
+"heure": "2026-11-27T07:50+01:00"
+},
+{
 "id": "f0d00815926b",
 "titre": "OPINION. « La crise budgétaire de la France est aussi un problème européen »",
 "source": "La Tribune",
@@ -784,30 +796,6 @@
 "Budget & souverains"
 ],
 "heure": "2026-11-27T07:10+01:00"
-},
-{
-"id": "981d7fc3754d",
-"titre": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-"source": "CNBC – économie",
-"lien": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-"note": 4,
-"themes": [
-"Banque centrale",
-"Emploi & croissance"
-],
-"heure": "2026-11-26T16:28+01:00"
-},
-{
-"id": "b86a1a677c60",
-"titre": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
-"source": "Le Monde – économie",
-"lien": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html",
-"note": 4,
-"themes": [
-"Banque centrale",
-"Marchés"
-],
-"heure": "2026-11-26T16:04+01:00"
 },
 {
 "id": "d7910a53402b",
@@ -853,6 +841,15 @@
 "Banque centrale"
 ],
 "heure": "2026-11-27T06:00+01:00"
+},
+{
+"id": "2b055c684cd8",
+"titre": "Argentina loses bid to halt Falklands oil drilling",
+"source": "Financial Times",
+"lien": "https://www.ft.com/content/b9308f74-c823-4144-83ce-7229836bbe59?syn-25a6b1a6=1",
+"note": 2,
+"themes": [],
+"heure": "2026-11-28T15:07+01:00"
 }
 ],
 "wraps_du_mois": [
@@ -866,5 +863,5 @@
 "textes_avec_ecarts": 0,
 "ecarts": []
 },
-"empreinte": "28ba457fd27b2329"
+"empreinte": "5bbb9fd0b412073a"
 }
